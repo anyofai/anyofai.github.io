@@ -62,11 +62,11 @@
 
 ![国内使用支付宝订阅升级ChatGPT Plus教程步骤七](https://raw.githubusercontent.com/anyofai/chatgpt-plus/main/image/7-%E7%82%B9%E5%87%BB%E5%85%85%E5%80%BC.jpg)
 
-## ChatGPT Plus充值购买流程：如何订阅升级ChatGPT Plus会员？
+## 国内ChatGPT Plus充值购买流程：如何订阅升级ChatGPT Plus会员？
 
 如果你已经成功获取了WildCard虚拟信用卡，那么接下来开通ChatGPT Plus会员有两种方式可供选择。第一种是通过WildCard后台的一键升级功能；第二种是在ChatGPT的官方后台进行手动升级。对于大多数普通用户来说，我们更推荐使用WildCard后台的一键升级功能。这种方式不仅操作简单，而且成功率高达100%，几乎没有失败的风险，避免了手动操作带来的不确定性和麻烦。
 
-### ChatGPT Plus充值方式一：通过Wildcard后天一键升级（推荐）。
+### 国内ChatGPT Plus充值方式一：通过Wildcard后天一键升级（推荐）。
 
 #### 1，在浏览器新窗口中打开ChatGPT官网，并使用你的ChatGPT帐号密码完成登录，然后点击左下角的“升级套餐”。
 
@@ -96,7 +96,7 @@
 
 ![国内使用支付宝充值ChatGPT Plus教程十三](https://raw.githubusercontent.com/anyofai/chatgpt-plus/main/image/13-%E6%B3%A8%E5%86%8C%E6%88%90%E5%8A%9F.jpg)
 
-### ChatGPT Plus购买方式二：在ChatGPT官方后台进行手动升级。
+### 国内ChatGPT Plus购买方式二：在ChatGPT官方后台进行手动升级。
 
 #### 1，打开ChatGPT官网，使用你的ChatGPT账号登录。
 
