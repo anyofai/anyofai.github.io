@@ -25,6 +25,8 @@
 
 * WildCard官网地址：https://wildcard.com.cn/i/T31U8BC6
 
+![国内使用支付宝开通购买ChatGPT Plus教程步骤一](https://raw.githubusercontent.com/anyofai/chatgpt-plus/main/image/1-%E7%82%B9%E5%87%BB%E7%99%BB%E5%BD%95%E6%88%96%E6%B3%A8%E5%86%8C.jpg)
+
 **2，使用+86手机号码完成帐号注册。**
 
 **3，进入后台，点击左侧导航中的“我的卡片”。**
@@ -105,7 +107,6 @@
 
 ### 1，访问WildCard官网，并点击右上角的“登录/注册”。
 
-![国内使用支付宝开通购买ChatGPT Plus教程步骤一](https://raw.githubusercontent.com/anyofai/chatgpt-plus/main/image/1-%E7%82%B9%E5%87%BB%E7%99%BB%E5%BD%95%E6%88%96%E6%B3%A8%E5%86%8C.jpg)
 
 * WildCard官网地址：https://wildcard.com.cn/i/T31U8BC6
 
