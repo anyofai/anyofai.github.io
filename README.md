@@ -41,9 +41,9 @@
 
 ### 第四步：选择卡片使用年限，并支付虚拟信用卡年费。
 
-注意：通过本文提供的链接（ https://wildcard.com.cn/i/T31U8BC6 ）进入WildCard官网，或者使用邀请码“T31U8BC6”，可以立减2美金！
+注意：通过本文提供的链接（ https://bewildcard.com/i/ANYOFAI ）进入WildCard官网，或者使用邀请码“ANYOFAI”，可以立减1美金！
 
-![国内ChatGPT Plus升级教程第四步：选择卡片使用年限，并支付虚拟信用卡年费](https://raw.githubusercontent.com/anyofai/chatgpt-plus/main/image/4-%E4%BD%BF%E7%94%A8%E6%94%AF%E4%BB%98%E5%AE%9D%E5%AE%8C%E6%88%90%E6%94%AF%E4%BB%98.jpg)
+![国内ChatGPT Plus升级教程第四步：选择卡片使用年限，并支付虚拟信用卡年费](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/4-%E4%BD%BF%E7%94%A8%E6%94%AF%E4%BB%98%E5%AE%9D%E5%AE%8C%E6%88%90%E6%94%AF%E4%BB%98.png)
 
 ### 第五步：填写个人信息进行实名认证。
 
@@ -403,7 +403,7 @@ ChatGPT作为近两年来最火爆且实用的AI工具，吸引了大量用户�
 在这些方案中，对于普通用户来说，我们强烈推荐使用国外虚拟信用卡来充值ChatGPT Plus账号。这种方法操作简单、安全可靠，并且成功率非常高。以下是具体的操作步骤：
 
 * 使用+86手机号完成WildCard帐号注册。
-* 申请并开通国外虚拟信用卡（使用邀请码“T31U8BC6”立减2美金）。
+* 申请并开通国外虚拟信用卡（使用邀请码“ANYOFAI”立减2美金）。
 * 使用支付宝为国外虚拟信用卡充值（最少充值20美金）。
 * 通过WildCard后台一键完成ChatGPT Plus升级。
 
