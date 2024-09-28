@@ -27,7 +27,7 @@
 
 ### 第一步：访问WildCard官网，并点击右上角的“登录/注册”按钮。
 
-* WildCard官网地址：https://wildcard.com.cn/i/T31U8BC6
+* WildCard官网地址：https://bewildcard.com/i/ANYOFAI
 
 ![国内ChatGPT Plus购买教程第一步：访问WildCard官网，并点击右上角的“登录/注册”按钮](https://raw.githubusercontent.com/anyofai/chatgpt-plus/main/image/1-%E7%82%B9%E5%87%BB%E7%99%BB%E5%BD%95%E6%88%96%E6%B3%A8%E5%86%8C.jpg)
 
