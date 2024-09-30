@@ -1,6 +1,8 @@
 # 2024年最新ChatGPT Plus订阅升级教程：国内如何使用支付宝购买开通ChatGPT Plus会员
 
-<p align="center">最近更新于：2024年9月29日</p>
+<p align="center">最近更新于：2024年9月30日</p>
+
+![最新ChatGPT Plus订阅升级教程：国内如何使用支付宝购买开通ChatGPT Plus会员](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
 随着ChatGPT的广泛应用，越来越多的用户希望升级到ChatGPT Plus，以享受更好的使用体验。ChatGPT Plus是ChatGPT的会员版本，升级后可解锁许多优质服务，不仅提供更加稳定的服务，使用时也没有字数限制，响应速度更快，答案的准确度也显著提高，整体体验大幅提升。
 
@@ -10,8 +12,6 @@
 
 注意：本教程经过亲测，真实有效。我们已经稳定使用ChatGPT Plus一年多，未曾遇到任何问题。此外，整个订阅升级ChatGPT Plus的流程仅需十分钟！
 仅需十分钟！
-
-![最新ChatGPT Plus订阅升级教程：国内如何使用支付宝购买开通ChatGPT Plus会员](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
 ## 2024年充值购买ChatGPT Plus会员帐号前准备工作
 
