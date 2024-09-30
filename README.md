@@ -16,7 +16,7 @@
 ## 2024年充值购买ChatGPT Plus会员帐号前准备工作
 
 * 1，一个干净且稳定的科学上网工具！（若没有，请自行解决，不讨论）
-* 2，一个还没升级的ChatGPT账号！（若没有，请查看：ChatGPT注册教程）
+* 2，一个还没升级的ChatGPT账号！（若没有，请查看：<a href="https://github.com/anyofai/chatgpt">ChatGPT注册教程</a>）
 * 3，一张安全可靠的国外虚拟信用卡！（若没有，请查看本文下方详细介绍）
 
 注意：由于订阅ChatGPT Plus必须绑定信用卡，而OpenAI目前尚未向中国用户开放，所以国内的信用卡无法用于购买ChatGPT Plus会员，甚至中国香港的信用卡也无法用于升级开通ChatGPT Plus。
