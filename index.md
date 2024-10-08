@@ -14,6 +14,8 @@ OpenAI目前提供了三个版本，分别是ChatGPT免费版、ChatGPT Plus版�
 
 ### 1，Claude
 
+![内容创作AI工具：Claude](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/Claude.png)
+
 Claude是由Anthropic开发的一款强大的AI模型系列，近年来在AI领域中占据了重要地位。与其他AI工具相比，Claude不仅在语言处理方面表现出色，还注重安全性和伦理设计，这使得它在多个领域得到了广泛应用。接下来，我们将详细介绍Claude的特征、优势及其市场表现。
 
 Claude家族目前包括Claude 3.5 Sonnet、Opus和Haiku三个版本，每个版本都根据不同的应用场景和需求进行了定制。Claude 3.5 Sonnet是智能化程度最高的版本，专为处理复杂任务设计，具备强大的上下文处理能力，其上下文窗口可达200K个token，并且能够处理最多100万个token的输入。Sonnet在处理开放性问题时表现尤为出色，适用于需要深入分析、总结和解决复杂问题的场景。
