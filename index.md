@@ -6,7 +6,7 @@ OpenAI目前提供了三个版本，分别是ChatGPT免费版、ChatGPT Plus版�
 
 尽管ChatGPT无疑是目前市场上最强大的AI工具之一，但它并不是唯一的选择。随着AI技术的飞速发展，市面上涌现了许多同样出色的AI工具，这些工具在各自领域中展现出了独特的优势。在接下来的内容中，我们将为你推荐20款值得关注的AI工具。它们不仅在文本生成、图像处理和视频创作等方面表现优异，还可以在特定任务中成为ChatGPT的强大补充，帮助你进一步提升工作效率。
 
-注意：如果你不知道如何注册ChatGPT，或者不知道如何订阅ChatGPT Plus会员，请查看：<a href="https://github.com/anyofai/chatgpt">ChatGPT注册教程</a>、<a href="https://github.com/anyofai/anyofai.github.io">国内支付宝开通ChatGPT Plus教程</a>。
+注意：若你不知如何注册ChatGPT，或不知如何订阅ChatGPT Plus会员，请查看：<a href="https://github.com/anyofai/chatgpt">ChatGPT注册教程</a>、<a href="https://github.com/anyofai/anyofai.github.io">国内支付宝开通ChatGPT Plus教程</a>。
 
 ## 一、内容创作AI工具
 
