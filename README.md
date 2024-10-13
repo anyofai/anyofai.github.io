@@ -1,6 +1,6 @@
 # 2024年最新ChatGPT Plus订阅升级教程：国内如何使用支付宝购买开通ChatGPT Plus会员
 
-<p align="center">最近更新于：2024年10月12日</p>
+<p align="center">最近更新于：2024年10月13日</p>
 
 ![最新ChatGPT Plus订阅升级教程：国内如何使用支付宝购买开通ChatGPT Plus会员](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
