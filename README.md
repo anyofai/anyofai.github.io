@@ -97,7 +97,7 @@
 
 ### 第六步：按照系统提示完成后续操作，即可成功升级开通ChatGPT Plus。
 
-![国内ChatGPT Plus订阅教程第六步：按照系统提示完成后续操作，即可成功升级开通ChatGPT Plus](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/9-ChatGPT%20Plus%E5%85%85%E5%80%BC-%E9%80%89%E6%8B%A9%E8%AE%A2%E9%98%85%E7%B1%BB%E5%9E%8B.jpg)
+![国内ChatGPT Plus订阅教程第六步：按照系统提示完成后续操作，即可成功升级开通ChatGPT Plus](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/13-ChatGPT%20Plus%E5%8D%87%E7%BA%A7-%E6%B3%A8%E5%86%8C%E6%88%90%E5%8A%9F.jpg)
 
 小结：通过这种方式成功订阅ChatGPT Plus后，你只需每月为虚拟信用卡充值20美元，剩下的步骤将由WildCard平台自动处理，无需任何额外操作。整个过程简单高效，让你可以轻松享受ChatGPT Plus带来的服务，无需担心繁琐的后续流程。
 
