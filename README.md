@@ -89,11 +89,11 @@
 
 ### 第四步：选择订阅类型：Plus或者Team。
 
-![国内ChatGPT Plus购买教程第四步：选择订阅类型：Plus或者Team](https://raw.githubusercontent.com/anyofai/chatgpt-plus/main/image/9-%E9%80%89%E6%8B%A9%E8%AE%A2%E9%98%85%E7%B1%BB%E5%9E%8B.jpg)
+![国内ChatGPT Plus购买教程第四步：选择订阅类型：Plus或者Team](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/9-ChatGPT%20Plus%E5%85%85%E5%80%BC-%E9%80%89%E6%8B%A9%E8%AE%A2%E9%98%85%E7%B1%BB%E5%9E%8B.jpg)
 
 ### 第五步：将复制的网址粘贴到输入框中，并点击“一键升级”。
 
-![国内ChatGPT Plus充值教程第五步：将复制的网址粘贴到输入框中，并点击“一键升级”](https://raw.githubusercontent.com/anyofai/chatgpt-plus/main/image/12-%E7%B2%98%E8%B4%B4URL%E5%B9%B6%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A7.jpg)
+![国内ChatGPT Plus充值教程第五步：将复制的网址粘贴到输入框中，并点击“一键升级”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/12-ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E7%B2%98%E8%B4%B4URL%E5%B9%B6%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A7.jpg)
 
 ### 第六步：按照系统提示完成后续操作，即可成功升级开通ChatGPT Plus。
 
