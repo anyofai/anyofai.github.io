@@ -399,7 +399,7 @@ Wildcard虚拟信用卡还可用于支付国际广告平台的费用，如Google
 
 通过这种方式，你无需国际信用卡也可以在iOS设备上顺利订阅ChatGPT Plus。这种方法非常适合那些无法直接进行国际支付的用户，方便快捷，解决了跨境支付的难题。
 
-## 国内使用支付宝开通ChatGPT Plus总结
+## 国内支付宝开通ChatGPT Plus总结
 
 ChatGPT作为近两年来最火爆且实用的AI工具，吸引了大量用户的关注和使用。然而，由于OpenAI尚未对中国用户开放，国内用户无法通过国内信用卡直接订阅ChatGPT Plus。如果国内用户希望使用ChatGPT Plus，有几种常见的解决方案可供选择：购买苹果礼品卡订阅ChatGPT Plus、使用国外虚拟信用卡充值ChatGPT Plus、通过第三方服务商代充值ChatGPT Plus、或者跟他人共享合租ChatGPT Plus帐号。
 
