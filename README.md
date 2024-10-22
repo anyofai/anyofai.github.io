@@ -1,6 +1,6 @@
 # 中国开通ChatGPT Plus帐号教程：国内如何使用支付宝订阅升级ChatGPT Plus会员？
 
-<p align="center">最近更新于：2024年10月18日</p>
+<p align="center">最近更新于：2024年10月22日</p>
 
 ![中国开通ChatGPT Plus帐号教程：国内如何使用支付宝订阅升级ChatGPT Plus会员](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
@@ -417,11 +417,12 @@ OK，这就是中国用户使用支付宝开通ChatGPT Plus的完整流程。通
 
 ## 国内支付宝开通ChatGPT Plus相关的其他文章：
 
-* <a href="https://anyofai.github.io/">除ChatGPT之外，20款超好用的AI工具推荐</a>：ChatGPT是市场上最强大的AI工具之一，能够轻松应对从日常对话到复杂问题解答，以及内容生成等任务。同时，市面上还有许多优秀的AI工具，它们在文本生成、图像处理和视频创作等领域表现出色，可以补充ChatGPT的功能，进一步提升工作效率。
+* <a href=https://anyofai.github.io/>最好用的AI工具推荐</a>：ChatGPT是市场上最强大的AI工具之一，能够轻松应对从日常对话到复杂问题解答，以及内容生成等任务。同时，市面上还有许多优秀的AI工具，它们在文本生成、图像处理和视频创作等领域表现出色，可以补充ChatGPT的功能，进一步提升工作效率。
 
-* <a href="https://github.com/anyofai/chatgpt">最新ChatGPT注册教程</a>：2024年国内如何注册ChatGPT帐号？本文将手把手教你如何在中国大陆完成ChatGPT帐号注册和ChatGPT Plus会员升级。整个过程简单明了，而且无需手机验证，只需五分钟即可完成所有操作。
+* <a href=https://github.com/anyofai/claude-pro>国内购买Claude Pro教程</a>：本文将重点介绍如何在国内注册Claude帐号，以及如何使用支付宝充值订阅Claude Pro会员。同时，还会解答大家比较关注的Claude Pro帐号共享、Claude Pro帐号合租和Claude Pro代充值等问题。本教程亲测真实有效，而且升级订阅Claude Pro的整个流程也仅需十多分钟！
 
-* <a href="https://github.com/anyofai/claude-pro">国内开通购买Claude Pro帐号教程，如何使用支付宝充值订阅Claude Pro会员</a>：本文将重点介绍如何在国内注册Claude帐号，以及如何使用支付宝充值订阅Claude Pro会员。同时，还会解答大家比较关注的Claude Pro帐号共享、Claude Pro帐号合租和Claude Pro代充值等问题。
+* <a href=https://github.com/anyofai/chatgpt-plus-hezu>购买ChatGPT Plus合租帐号教程</a>：如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，可以考虑购买ChatGPT Plus合租帐号。这种方式不仅能够降低使用成本，还免去了科学上网的复杂操作。
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">国内拼车购买ChatGPT Plus合租共享帐号教程</a>：如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，可以考虑合租ChatGPT Plus会员。这种方式不仅能够降低使用成本（每月仅需29元），还免去了科学上网的复杂操作。
+* <a href=https://github.com/anyofai/chatgpt-plus-recharge>支付宝充值ChatGPT Plus教程</a>：如何使用支付宝为ChatGPT Plus充值？目前，中国用户为ChatGPT-4充值的主要方式包括使用虚拟信用卡和Apple礼品卡。我们还将为大家推荐一些可靠的ChatGPT Plus代充值平台，帮助用户找到最适合自己的充值方式。
 
+* <a href=https://github.com/anyofai/chatgpt>国内ChatGPT注册教程</a>：本文将手把手教你如何在中国大陆完成ChatGPT帐号注册和ChatGPT Plus会员升级。整个过程简单明了，而且无需手机验证，只需五分钟即可完成所有操作。
