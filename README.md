@@ -410,7 +410,7 @@ ChatGPT作为最近这两年最火爆且最实用的AI工具，吸引了大量�
 
 在这些方案中，我们强烈推荐普通用户选择使用国外虚拟信用卡订阅ChatGPT Plus。这种方法操作简单、安全可靠，且成功率极高。以下是具体的操作步骤：
 
-* 使用+86手机号完成WildCard帐号注册。
+* <a href=https://bewildcard.com/i/ANYOFAI>进入Wildcaed官网</a>，并使用+86手机号完成WildCard帐号注册。
 * 申请并开通国外虚拟信用卡（使用邀请码“ANYOFAI”立减1美金）。
 * 使用支付宝为国外虚拟信用卡充值（最少充值20美金）。
 * 通过WildCard后台一键完成ChatGPT Plus升级。
