@@ -288,6 +288,8 @@ Wildcard为用户提供全天候的客户支持，确保用户在遇到支付问
 
 ### 除了订阅ChatGPT Plus，Wildcard虚拟信用卡还可以干什么？
 
+![Wildcard虚拟信用卡支持的平台列表：除了订阅ChatGPT Plus，Wildcard虚拟信用卡还可以干什么](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/Wildcard%E6%94%AF%E6%8C%81%E7%9A%84%E5%B9%B3%E5%8F%B0.jpg)
+
 除了订阅ChatGPT Plus，Wildcard虚拟信用卡还有多种用途，适合各种跨境支付需求。以下是Wildcard虚拟信用卡的几项常见用途：
 
 * 1，订阅其他海外服务
