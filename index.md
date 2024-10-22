@@ -8,10 +8,10 @@ OpenAI目前提供了三个版本，分别是ChatGPT免费版、ChatGPT Plus版�
 
 <blockquote>
 
-如果你还没有使用过ChatGPT，那么可以先免费注册一个ChatGPT帐号体验下。更多详情请查看：<a href="https://github.com/anyofai/chatgpt">ChatGPT注册教程</a><br> 
-如果你已经注册好了ChatGPT帐号，并且想要订阅ChatGPT Plus会员的话，请查看：<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通教程</a><br> 
-如果你只是偶尔使用下ChatGPT Plus，或者觉得每月20美金的会员费太贵了，可以尝试：<a href="https://github.com/anyofai/chatgpt-plus-hezu">购买ChatGPT Plus合租帐号</a><br> 
-如果你觉得订阅ChatGPT Plus太过于麻烦，但又想获取一个专属的ChatGPT Plus帐号，可以考虑：<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>
+1，如果你还没有使用过ChatGPT，那么可以先免费注册一个ChatGPT帐号体验下。更多详情请查看：<a href="https://github.com/anyofai/chatgpt">ChatGPT注册教程</a><br> 
+2，如果你已经注册好了ChatGPT帐号，并且想要订阅ChatGPT Plus会员的话，请查看：<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通教程</a><br> 
+3，如果你只是偶尔使用下ChatGPT Plus，或者觉得每月20美金的会员费太贵了，可以尝试：<a href="https://github.com/anyofai/chatgpt-plus-hezu">购买ChatGPT Plus合租帐号</a><br> 
+4，如果你觉得订阅ChatGPT Plus太过于麻烦，但又想获取一个专属的ChatGPT Plus帐号，可以考虑：<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>
 
 </blockquote>
 
