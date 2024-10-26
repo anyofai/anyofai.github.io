@@ -1,8 +1,0 @@
-User-agent: *
-Allow: /
-
-https://github.com/anyofai/anyofai.github.io
-https://github.com/anyofai/chatgpt
-https://github.com/anyofai/claude-pro
-https://github.com/anyofai/chatgpt-plus-hezu
-https://github.com/anyofai/chatgpt-plus-recharge
