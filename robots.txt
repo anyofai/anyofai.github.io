@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap: https://anyofai.github.io/sitemap.xml
