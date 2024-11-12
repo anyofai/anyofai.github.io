@@ -16,7 +16,7 @@
 
 注意：本教程经过亲测，真实有效。我们已经稳定使用ChatGPT Plus一年多，未曾遇到任何问题。此外，开通ChatGPT Plus的整个流程也只需十五分钟！
 
-## 2024年国内购买开通ChatGPT Plus会员帐号前准备工作
+## 国内购买开通ChatGPT Plus会员帐号前准备工作
 
 * 1，一个干净且稳定的科学上网工具！（若没有，请自行解决，不讨论）
 * 2，一个还没升级的ChatGPT账号！（若没有，请查看：<a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>）
