@@ -136,7 +136,7 @@ OK，截至到目前为止，你已经成功获取了一张WildCard虚拟信用�
 
 许多用户反馈在充值ChatGPT Plus时遇到信用卡被拒的情况。正如前文所述，由于OpenAI尚未向中国开放相关服务，因此大陆的所有信用卡、银联卡、支付宝和微信等支付方式均无法用于购买ChatGPT Plus会员。即便使用香港的信用卡或银联卡也不行，因为香港属于中国的一部分，OpenAI同样未向香港地区开放。因此，使用中国大陆或香港的信用卡购买ChatGPT Plus肯定会被拒。
 
-如果你想解决信用卡被拒的问题，最简单直接的办法是使用WildCard虚拟信用卡进行支付。WildCard虚拟信用卡不仅可以绕过地区限制，还能确保支付过程顺利进行。它专为全球用户设计，适用于OpenAI等不对中国开放的服务，操作便捷且成功率极高。此外，使用WildCard虚拟信用卡充值后，用户只需定期为其充值，无需担心后续支付问题，整个过程非常省心。
+如果你想解决信用卡被拒的问题，最简单直接的办法是使用<a href="https://bewildcard.com/i/ANYOFAI">WildCard虚拟信用卡</a>进行支付。WildCard虚拟信用卡不仅可以绕过地区限制，还能确保支付过程顺利进行。它专为全球用户设计，适用于OpenAI等不对中国开放的服务，操作便捷且成功率极高。此外，使用WildCard虚拟信用卡充值后，用户只需定期为其充值，无需担心后续支付问题，整个过程非常省心。
 
 ## 国内开通ChatGPT Plus帐号时，Wildcard信用卡被拒怎么解决？
 
@@ -283,7 +283,7 @@ ChatGPT Plus提供的数据分析、文件上传、视觉处理和网页浏览�
 
 ### Wildcard虚拟信用卡安全吗？
 
-WildCard虚拟信用卡是一个专门为国内用户提供海外支付服务的正规平台，它不仅可以为ChatGPT Plus充值，还可用于支付OpenAI API、Google Play、Spotify等服务。WildCard虚拟信用卡操作简单，仅需一个手机号即可快速获取一张海外虚拟信用卡，有效解决了大陆用户无法直接订阅海外服务的难题。
+WildCard虚拟信用卡是一个专门为国内用户提供海外支付服务的正规平台，它不仅可以为ChatGPT Plus充值，还可用于支付OpenAI API、Google Play、Spotify等服务。WildCard虚拟信用卡操作简单，仅需一个手机号即可快速获取一张海外虚拟信用卡，有效解决了大陆用户无法直接订阅海外服务的难题。WildCard虚拟信用卡官网：<a href="https://bewildcard.com/i/ANYOFAI">https://bewildcard.com/i/ANYOFAI</a>
 
 * 1，公司背景介绍
 
