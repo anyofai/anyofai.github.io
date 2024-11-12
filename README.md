@@ -283,7 +283,7 @@ ChatGPT Plus提供的数据分析、文件上传、视觉处理和网页浏览�
 
 ### Wildcard虚拟信用卡安全吗？
 
-WildCard虚拟信用卡是一个专门为国内用户提供海外支付服务的正规平台，它不仅可以为ChatGPT Plus充值，还可用于支付OpenAI API、Google Play、Spotify等服务。WildCard虚拟信用卡操作简单，仅需一个手机号即可快速获取一张海外虚拟信用卡，有效解决了大陆用户无法直接订阅海外服务的难题。WildCard虚拟信用卡官网：<a href="https://bewildcard.com/i/ANYOFAI">https://bewildcard.com/i/ANYOFAI</a>
+WildCard虚拟信用卡是一个专门为国内用户提供海外支付服务的正规平台，它不仅可以为ChatGPT Plus充值，还可用于支付OpenAI API、Google Play、Spotify等服务。WildCard虚拟信用卡操作简单，仅需一个手机号即可快速获取一张海外虚拟信用卡，有效解决了大陆用户无法直接订阅海外服务的难题。WildCard虚拟信用卡官网：<a href="https://bewildcard.com/i/ANYOFAI">bewildcard.com</a>
 
 * 1，公司背景介绍
 
