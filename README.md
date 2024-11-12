@@ -1,6 +1,6 @@
-# 中国开通ChatGPT Plus帐号教程：国内如何使用支付宝订阅升级ChatGPT Plus会员？
+# 最新ChatGPT Plus开通攻略：如果使用国内支付宝充值购买ChatGPT Plus帐号？
 
-<p align="center">最近更新于：2024年10月22日</p>
+<p align="center">最近更新于：2024年11月12日</p>
 
 ![中国开通ChatGPT Plus帐号教程：国内如何使用支付宝订阅升级ChatGPT Plus会员](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
