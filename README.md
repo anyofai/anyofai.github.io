@@ -34,15 +34,15 @@ WildCard是国内最权威的虚拟信用卡平台，不仅可用于ChatGPT Plus
 
 * WildCard官网地址：https://bewildcard.com/i/ANYOFAI
 
-![使用支付宝获取国外虚拟信用卡第一步：访问WildCard官网，并点击右上角的“登录/注册”按钮](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/1-ChatGPT%20Plus%E8%AE%A2%E9%98%85-%E7%82%B9%E5%87%BB%E7%99%BB%E5%BD%95%E6%88%96%E6%B3%A8%E5%86%8C.jpg)
+![使用支付宝获取WildCard虚拟信用卡第一步：访问WildCard官网，并点击右上角的“登录/注册”按钮](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/1-ChatGPT%20Plus%E8%AE%A2%E9%98%85-%E7%82%B9%E5%87%BB%E7%99%BB%E5%BD%95%E6%88%96%E6%B3%A8%E5%86%8C.jpg)
 
 ### 第二步：使用+86手机号码完成帐号注册。
 
-![使用支付宝获取国外虚拟信用卡第二步：使用+86手机号码完成帐号注册](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/2-ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%AE%8C%E6%88%90%E5%B8%90%E5%8F%B7%E6%B3%A8%E5%86%8C.jpg)
+![使用支付宝获取WildCard虚拟信用卡第二步：使用+86手机号码完成帐号注册](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/2-ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%AE%8C%E6%88%90%E5%B8%90%E5%8F%B7%E6%B3%A8%E5%86%8C.jpg)
 
 ### 第三步：进入后台，点击左侧导航中的“我的卡片”。
 
-![使用支付宝获取国外虚拟信用卡第三步：进入后台，点击左侧导航中的“我的卡片”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/3-ChatGPT%20Plus%E5%8D%87%E7%BA%A7-%E7%82%B9%E5%87%BB%E6%88%91%E7%9A%84%E5%8D%A1%E7%89%87%E5%92%8C%E5%8E%BB%E5%BC%80%E9%80%9A.jpg)
+![使用支付宝获取WildCard虚拟信用卡第三步：进入后台，点击左侧导航中的“我的卡片”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/3-ChatGPT%20Plus%E5%8D%87%E7%BA%A7-%E7%82%B9%E5%87%BB%E6%88%91%E7%9A%84%E5%8D%A1%E7%89%87%E5%92%8C%E5%8E%BB%E5%BC%80%E9%80%9A.jpg)
 
 ### 第四步：选择服务年限，输入邀请码“ANYOFAI”，并完成支付。
 
@@ -50,11 +50,11 @@ WildCard是国内最权威的虚拟信用卡平台，不仅可用于ChatGPT Plus
 
 独家优惠：使用邀请码“**ANYOFAI**”可立减1美元。你也可以通过我们提供的链接（ https://bewildcard.com/i/ANYOFAI ）进入WildCard官网，邀请码将自动生效，2年年费仅需10.99美元。
 
-![使用支付宝获取国外虚拟信用卡第四步：选择服务年限，输入邀请码“ANYOFAI”，并完成支付](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/4-ChatGPT%20Plus%E5%85%85%E5%80%BC-%E4%BD%BF%E7%94%A8%E6%94%AF%E4%BB%98%E5%AE%9D%E5%AE%8C%E6%88%90%E6%94%AF%E4%BB%98.jpg)
+![使用支付宝获取WildCard虚拟信用卡第四步：选择服务年限，输入邀请码“ANYOFAI”，并完成支付](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/4-ChatGPT%20Plus%E5%85%85%E5%80%BC-%E4%BD%BF%E7%94%A8%E6%94%AF%E4%BB%98%E5%AE%9D%E5%AE%8C%E6%88%90%E6%94%AF%E4%BB%98.jpg)
 
 ### 第五步：完善个人信息，点击“下一步”按钮。
 
-![使用支付宝获取国外虚拟信用卡第五步：完善个人信息，点击“下一步”按钮。](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/5-ChatGPT%20Plus%E5%BC%80%E9%80%9A-%E5%A1%AB%E5%86%99%E4%B8%AA%E4%BA%BA%E8%BA%AB%E4%BB%BD%E4%BF%A1%E6%81%AF.jpg)
+![使用支付宝获取WildCard虚拟信用卡第五步：完善个人信息，点击“下一步”按钮。](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/5-ChatGPT%20Plus%E5%BC%80%E9%80%9A-%E5%A1%AB%E5%86%99%E4%B8%AA%E4%BA%BA%E8%BA%AB%E4%BB%BD%E4%BF%A1%E6%81%AF.jpg)
 
 ### 第六步：进行实名认证或直接完成开卡。
 
@@ -62,17 +62,17 @@ WildCard是国内最权威的虚拟信用卡平台，不仅可用于ChatGPT Plus
 
 注意：如果不进行实名认证，WildCard虚拟信用卡每月的支付限额为100美金；完成实名认证后，支付限额可以提高到3000美金。也就是说，如果你觉得每月100美金的额度完全够用，或者不想透露更多个人真实信息，那么直接点击“暂不认证”即可。
 
-![使用支付宝获取国外虚拟信用卡第六步：进行实名认证或直接完成开卡](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/6-ChatGPT%20Plus%E5%BC%80%E9%80%9A%EF%BC%9A%E8%BF%9B%E8%A1%8C%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81%E6%88%96%E7%9B%B4%E6%8E%A5%E5%AE%8C%E6%88%90%E5%BC%80%E5%8D%A1.jpg)
+![使用支付宝获取WildCard虚拟信用卡第六步：进行实名认证或直接完成开卡](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/6-ChatGPT%20Plus%E5%BC%80%E9%80%9A%EF%BC%9A%E8%BF%9B%E8%A1%8C%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81%E6%88%96%E7%9B%B4%E6%8E%A5%E5%AE%8C%E6%88%90%E5%BC%80%E5%8D%A1.jpg)
 
 ### 第七步：再次点击“我的卡片”，即可查看虚拟信用卡的全部信息。
 
-![使用支付宝获取国外虚拟信用卡第七步：再次点击“我的卡片”，即可查看虚拟信用卡的全部信息](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/6-ChatGPT%20Plus%E8%AE%A2%E9%98%85-%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BF%A1%E6%81%AF.jpg)
+![使用支付宝获取WildCard虚拟信用卡第七步：再次点击“我的卡片”，即可查看虚拟信用卡的全部信息](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/6-ChatGPT%20Plus%E8%AE%A2%E9%98%85-%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BF%A1%E6%81%AF.jpg)
 
 ### 第八步：点击“充值”按钮，并使用支付宝进行充值。
 
 正如我们在前文提到的，ChatGPT Plus的订阅费用为每月20美金，因此你的充值金额就必须大于等于20美金。
 
-![使用支付宝获取国外虚拟信用卡第八步：点击“充值”按钮，并使用支付宝进行充值](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/7-ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E7%82%B9%E5%87%BB%E5%85%85%E5%80%BC.jpg)
+![使用支付宝获取WildCard虚拟信用卡第八步：点击“充值”按钮，并使用支付宝进行充值](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/7-ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E7%82%B9%E5%87%BB%E5%85%85%E5%80%BC.jpg)
 
 OK，截至到目前为止，你已经成功获取了一张WildCard虚拟信用卡，现在可以使用它为ChatGPT Plus充值了。
 
@@ -84,33 +84,33 @@ OK，截至到目前为止，你已经成功获取了一张WildCard虚拟信用�
 
 为了帮助新手朋友在购买ChatGPT Plus时避免常见错误，WildCard特别推出了一键升级功能。通过该功能，用户无需手动输入信用卡信息或账单地址，只需将ChatGPT Plus订阅页面的完整链接提交给WildCard，后续步骤将由WildCard自动完成。这不仅简化了操作流程，还大大降低了信用卡被拒风险，确保你能够顺利完成订阅升级。
 
-### 1，打开ChatGPT官网，并使用帐号密码登录，然后点击左下角的“升级套餐”。
+### 第一步：打开ChatGPT官网，并使用帐号密码登录，然后点击左下角的“升级套餐”。
 
 * ChatGPT官网地址：chatgpt.com
 
-![国内使用支付宝一键开通ChatGPT Plus帐号第一步：在浏览器新窗口中打开ChatGPT官网，并使用你的ChatGPT帐号密码完成登录，然后点击左下角的“升级套餐”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/10-ChatGPT%20Plus%E5%BC%80%E9%80%9A-%E5%8D%87%E7%BA%A7ChatGPT.jpg)
+![国内使用WildCard虚拟信用卡自动升级开通ChatGPT Plus第一步：在浏览器新窗口中打开ChatGPT官网，并使用你的ChatGPT帐号密码完成登录，然后点击左下角的“升级套餐”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/10-ChatGPT%20Plus%E5%BC%80%E9%80%9A-%E5%8D%87%E7%BA%A7ChatGPT.jpg)
 
 ### 第二步：复制ChatGPT Plus订阅费用支付页面的完整网址。
 
 注意，进入到ChatGPT Plus订阅费用支付页面之后，无需填写任何信息，直接复制完整网址即可。
 
-![国内使用支付宝一键订阅ChatGPT Plus会员第二步：复制ChatGPT Plus订阅费用支付页面的完整网址](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/11-ChatGPT%20Plus%E8%AE%A2%E9%98%85-%E5%A4%8D%E5%88%B6%E6%94%AF%E4%BB%98%E9%A1%B5%E9%9D%A2%E7%9A%84%E9%93%BE%E6%8E%A5.jpg)
+![国内使用WildCard虚拟信用卡自动升级开通ChatGPT Plus第二步：复制ChatGPT Plus订阅费用支付页面的完整网址](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/11-ChatGPT%20Plus%E8%AE%A2%E9%98%85-%E5%A4%8D%E5%88%B6%E6%94%AF%E4%BB%98%E9%A1%B5%E9%9D%A2%E7%9A%84%E9%93%BE%E6%8E%A5.jpg)
 
 ### 第三步：返回到WildCard后台，点击左侧导航栏中的“ChatGPT Plus一键升级”按钮。
 
-![国内使用支付宝一键升级ChatGPT Plus会员第三步：返回到WildCard后台，点击左侧导航栏中的“ChatGPT Plus一键升级”按钮](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/8-ChatGPT%20Plus%E5%8D%87%E7%BA%A7-%E7%82%B9%E5%87%BB%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A7.jpg)
+![国内使用WildCard虚拟信用卡自动升级开通ChatGPT Plus第三步：返回到WildCard后台，点击左侧导航栏中的“ChatGPT Plus一键升级”按钮](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/8-ChatGPT%20Plus%E5%8D%87%E7%BA%A7-%E7%82%B9%E5%87%BB%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A7.jpg)
 
 ### 第四步：选择订阅类型：Plus或者Team。
 
-![国内使用支付宝一键开通ChatGPT Plus帐号第四步：选择订阅类型：Plus或者Team](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/9-ChatGPT%20Plus%E5%85%85%E5%80%BC-%E9%80%89%E6%8B%A9%E8%AE%A2%E9%98%85%E7%B1%BB%E5%9E%8B.jpg)
+![国内使用WildCard虚拟信用卡自动升级开通ChatGPT Plus第四步：选择订阅类型：Plus或者Team](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/9-ChatGPT%20Plus%E5%85%85%E5%80%BC-%E9%80%89%E6%8B%A9%E8%AE%A2%E9%98%85%E7%B1%BB%E5%9E%8B.jpg)
 
 ### 第五步：将复制的网址粘贴到输入框中，并点击“一键升级”。
 
-![国内使用支付宝一键订阅ChatGPT Plus会员第五步：将复制的网址粘贴到输入框中，并点击“一键升级”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/12-ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E7%B2%98%E8%B4%B4URL%E5%B9%B6%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A7.jpg)
+![国内使用WildCard虚拟信用卡自动升级开通ChatGPT Plus第五步：将复制的网址粘贴到输入框中，并点击“一键升级”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/12-ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E7%B2%98%E8%B4%B4URL%E5%B9%B6%E4%B8%80%E9%94%AE%E5%8D%87%E7%BA%A7.jpg)
 
 ### 第六步：按照系统提示完成后续操作，即可成功升级开通ChatGPT Plus。
 
-![国内使用支付宝一键升级ChatGPT Plus会员第六步：按照系统提示完成后续操作，即可成功升级开通ChatGPT Plus](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/13-ChatGPT%20Plus%E5%8D%87%E7%BA%A7-%E6%B3%A8%E5%86%8C%E6%88%90%E5%8A%9F.jpg)
+![国内使用WildCard虚拟信用卡自动升级开通ChatGPT Plus第六步：按照系统提示完成后续操作，即可成功升级开通ChatGPT Plus](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/13-ChatGPT%20Plus%E5%8D%87%E7%BA%A7-%E6%B3%A8%E5%86%8C%E6%88%90%E5%8A%9F.jpg)
 
 小结：通过这种方式购买ChatGPT Plus的话，后续每个月只需向WildCard虚拟信用卡充值20美元，剩余步骤将由WildCard平台自动完成，无需任何额外操作。整个过程简单高效，让你可以轻松享受ChatGPT Plus的服务，无需担心繁琐的后续流程。
 
@@ -120,15 +120,15 @@ OK，截至到目前为止，你已经成功获取了一张WildCard虚拟信用�
 
 ### 第一步：打开ChatGPT官网，使用你的ChatGPT账号登录，并点击左下角的“升级套餐”。
 
-![在中国使用支付宝手动开通ChatGPT Plus帐号第一步：打开ChatGPT官网，使用你的ChatGPT账号登录，并点击左下角的“升级套餐”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/10-ChatGPT%20Plus%E5%BC%80%E9%80%9A-%E5%8D%87%E7%BA%A7ChatGPT.jpg)
+![在中国手动开通ChatGPT Plus帐号第一步：打开ChatGPT官网，使用你的ChatGPT账号登录，并点击左下角的“升级套餐”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/10-ChatGPT%20Plus%E5%BC%80%E9%80%9A-%E5%8D%87%E7%BA%A7ChatGPT.jpg)
 
 ### 第二步：输入WildCard虚拟信用卡信息，并点击“订阅”按钮。
 
-![在中国使用支付宝手动订阅ChatGPT Plus会员第二步：输入WildCard虚拟信用卡信息，并点击“订阅”按钮](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/14-ChatGPT%20Plus%E5%85%85%E5%80%BC-%E8%BE%93%E5%85%A5%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BF%A1%E6%81%AF.jpg)
+![在中国手动开通ChatGPT Plus帐号第二步：输入WildCard虚拟信用卡信息，并点击“订阅”按钮](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/14-ChatGPT%20Plus%E5%85%85%E5%80%BC-%E8%BE%93%E5%85%A5%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BF%A1%E6%81%AF.jpg)
 
 ### 第三步：确认支付，即可成功开通ChatGPT Plus会员。
 
-![在中国使用支付宝手动升级ChatGPT Plus会员第三步：确认支付，即可成功开通ChatGPT Plus会员](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/13-ChatGPT%20Plus%E5%8D%87%E7%BA%A7-%E6%B3%A8%E5%86%8C%E6%88%90%E5%8A%9F.jpg)
+![在中国手动开通ChatGPT Plus帐号第三步：确认支付，即可成功开通ChatGPT Plus会员](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/13-ChatGPT%20Plus%E5%8D%87%E7%BA%A7-%E6%B3%A8%E5%86%8C%E6%88%90%E5%8A%9F.jpg)
 
 小结：许多新手朋友在通过这种方式开通ChatGPT Plus时，可能会遇到类似“充值ChatGPT Plus时信用卡被拒”的问题。如果你也遇到了这种情况，不必担心，本文下方提供了详细的解决方案，帮助你排查并解决问题。此外，你还可以直接联系WildCard平台的在线客服，他们将为你提供及时的支持与指导，确保顺利完成ChatGPT Plus购买。
 
