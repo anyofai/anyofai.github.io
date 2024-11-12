@@ -1,8 +1,8 @@
-# 最新ChatGPT Plus开通攻略：如果使用国内支付宝充值购买ChatGPT Plus帐号？
+# 最新ChatGPT Plus开通攻略：如何使用国内支付宝充值购买ChatGPT Plus帐号？
 
 <p align="center">最近更新于：2024年11月12日</p>
 
-![最新ChatGPT Plus开通攻略：如果使用国内支付宝充值购买ChatGPT Plus帐号](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
+![最新ChatGPT Plus开通攻略：如何使用国内支付宝充值购买ChatGPT Plus帐号](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
 随着ChatGPT的广泛应用，越来越多的中国用户希望开通ChatGPT Plus账号，以获得更优质的使用体验。ChatGPT Plus是ChatGPT的付费升级版本，用户升级后可以解锁诸多功能，不仅享有更稳定的服务，而且在使用时无字数限制，响应速度更快，回答的准确性也更高，从而使整体体验显著提升。
 
