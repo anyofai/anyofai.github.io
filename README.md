@@ -424,7 +424,7 @@ ChatGPT作为最近这两年最火爆且最实用的AI工具，吸引了大量�
 在这些方案中，我们强烈推荐普通用户选择使用国外虚拟信用卡来为ChatGPT Plus充值。这种方法操作简单、安全可靠，且成功率极高。以下是具体的操作步骤：
 
 * 1，获取一张<a href="https://bewildcard.com/i/ANYOFAI">WildCard虚拟信用卡</a>并支付开卡费用。（注意：使用邀请码“**ANYOFAI**”可立减1美元）
-* 2. 使用支付宝为WildCard虚拟信用卡充值20美元。
+* 2，使用支付宝为WildCard虚拟信用卡充值20美元。
 * 3，通过WildCard虚拟信用卡的一键升级功能为ChatGPT Plus充值。
 
 OK，这就是在国内购买ChatGPT Plus的完整流程。通过这种方式，无需国际信用卡，国内用户依然可以轻松订阅并使用ChatGPT Plus的高级功能。当你使用WildCard虚拟信用卡开通ChatGPT Plus后，你还可以使用该卡支付OpenAI API、Claude Pro、Midjourney、OnlyFans、Apple App Store、Google Play、YouTube、Facebook、Spotify、GitHub、Poe、Perplexity、Suno等平台，非常实用。如果在开通或使用ChatGPT Plus的过程中遇到任何问题，可添加我们的微信进行沟通，微信号：anyofai （添加好友时请注明来意）。
