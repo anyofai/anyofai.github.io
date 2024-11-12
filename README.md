@@ -62,6 +62,8 @@ WildCard是国内最权威的虚拟信用卡平台，不仅可用于ChatGPT Plus
 
 注意：如果不进行实名认证，WildCard虚拟信用卡每月的支付限额为100美金；完成实名认证后，支付限额可以提高到3000美金。也就是说，如果你觉得每月100美金的额度完全够用，或者不想透露更多个人真实信息，那么直接点击“暂不认证”即可。
 
+![使用支付宝获取国外虚拟信用卡第六步：进行实名认证或直接完成开卡](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/6-ChatGPT%20Plus%E5%BC%80%E9%80%9A%EF%BC%9A%E8%BF%9B%E8%A1%8C%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81%E6%88%96%E7%9B%B4%E6%8E%A5%E5%AE%8C%E6%88%90%E5%BC%80%E5%8D%A1.jpg)
+
 ### 第七步：再次点击“我的卡片”，即可查看虚拟信用卡的全部信息。
 
 ![使用支付宝获取国外虚拟信用卡第七步：再次点击“我的卡片”，即可查看虚拟信用卡的全部信息](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/6-ChatGPT%20Plus%E8%AE%A2%E9%98%85-%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BF%A1%E6%81%AF.jpg)
