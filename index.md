@@ -480,6 +480,8 @@ Codeium的应用场景涵盖了广泛的开发需求，包括快速原型开发�
 
 ### 1，Microsoft Copilot
 
+![AI办公工具：Microsoft Copilot](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/AI%E5%8A%9E%E5%85%AC%E5%B7%A5%E5%85%B7%EF%BC%9AMicrosoft%20Copilot.jpg)
+
 Microsoft Copilot是由微软推出的一款AI驱动办公助手，旨在全面提升用户在Microsoft 365办公套件中的工作效率。作为Microsoft 365的核心智能功能之一，Copilot被深度嵌入到Word、Excel、PowerPoint和Outlook等应用中，为用户的日常办公任务提供智能支持。无论是文档编辑、数据分析还是任务管理，Copilot都能通过AI技术带来更便捷的操作体验。
 
 在文档处理方面，Microsoft Copilot支持自然语言处理，用户只需以自然语言下达指令，例如在Word中要求生成关于特定主题的文章，Copilot即可智能生成符合需求的文本。在数据分析方面，Copilot在Excel中同样表现出色，能够快速分析数据、创建复杂的图表，并自动生成数据报告，简化数据分析和可视化流程，使用户无需手动编写公式或调整数据。对于频繁进行演示的用户，Copilot还具备自动生成演示文稿的功能，用户只需提供关键要点，Copilot即可在PowerPoint中创建结构合理、设计美观的演示文档，极大节省了时间。
@@ -494,6 +496,8 @@ Microsoft Copilot作为Microsoft 365的增值服务之一，用户可以通过�
 
 ### 2，Notion AI
 
+![AI办公工具：Notion AI](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/AI%E5%8A%9E%E5%85%AC%E5%B7%A5%E5%85%B7%EF%BC%9ANotion%20AI.jpg)
+
 Notion AI是由Notion推出的一项智能办公功能，自2023年2月发布以来，已成为提升用户生产力的有效工具。Notion AI集成在Notion的多功能笔记和知识管理平台中，旨在通过AI技术简化文档生成、任务管理、笔记整理等流程，使用户在日常办公、学习和协作中更为高效。其独特的自然语言处理功能让用户可以通过对话方式与AI互动，从构思到最终内容生成的过程变得更加简便，尤其适合需要快速整理信息的用户。
 
 Notion AI能够根据用户的输入指令自动生成或改进内容。通过自然语言指令，用户可以让Notion AI撰写博客文章、总结会议记录、列出要点等，而无需手动逐字编辑。此外，Notion AI提供多种预设指令，帮助用户完成头脑风暴、制定大纲、撰写故事和生成社交媒体内容等任务，让创作过程更加省时省力。对于多语言用户，Notion AI的多语言支持在全球范围内广泛应用，为不同语言背景的用户提供无缝的使用体验。
@@ -505,6 +509,8 @@ Notion AI的自动化功能不仅限于文本生成，还可帮助用户改正�
 此外，Notion AI为不同用户提供灵活的订阅选项，从免费的基础功能到包含更多高级功能的付费版本。免费用户可以体验Notion AI的部分核心功能，而付费用户则享有自定义模板、跨团队协作等更多高级功能，满足不同的业务需求。在安全和隐私方面，Notion AI采用严格的隐私保护措施，确保用户数据在使用过程中得到妥善保护。
 
 ### 3，Any.do
+
+![AI办公工具：Any.do](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/AI%E5%8A%9E%E5%85%AC%E5%B7%A5%E5%85%B7%EF%BC%9AAny.do.jpg)
 
 Any.do是一款高效的任务管理和日程规划工具，专为帮助用户在个人和团队环境中有效组织工作而设计。截至2024年11月，Any.do已拥有超过4000万用户，显示出其在全球范围内的广泛应用。该工具支持多平台操作，包括iOS、Android、Web和桌面应用程序，使用户无论在哪种设备上都能便捷管理任务。
 
