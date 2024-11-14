@@ -1,6 +1,6 @@
-# 除ChatGPT之外，20款超好用的AI工具推荐（2024年10月更新）
+# 除ChatGPT之外，20款超好用的AI工具推荐（2024年11月更新）
 
-<p align="center">最近更新于：2024年10月22日</p>
+<p align="center">最近更新于：2024年11月14日</p>
 
 ![除ChatGPT之外，20款最好用的AI工具推荐](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84AI%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90.png)
 
