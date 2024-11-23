@@ -399,9 +399,11 @@ Wildcard虚拟信用卡还可用于支付国际广告平台的费用，如Google
 
 如果你想通过iOS设备订阅ChatGPT Plus账号，可以直接在ChatGPT的iOS客户端完成操作。不过，由于Apple ID的支付限制，中国用户需要使用苹果礼品卡为App Store充值，然后再支付ChatGPT Plus的订阅费用。接下来，我们将为你详细介绍具体的操作步骤，帮助你轻松完成从购买苹果礼品卡到成功订阅ChatGPT Plus的整个流程。
 
-* 1，注册美区Apple ID
+* 1，获取一个美区Apple ID
 
-首先，你需要一个美国地区的Apple ID，这是完成充值和订阅ChatGPT Plus的必要条件。如果你当前没有美区Apple ID，可以在iPhone或iPad的“设置”中退出现有的Apple ID，并在创建新账户时选择“美国”作为地区。创建成功后，你将能够访问美区App Store并使用其提供的服务和应用。
+首先，你需要准备一个美区Apple ID，这是完成ChatGPT Plus订阅的必要条件。如果你目前没有美区Apple ID，可以自己动手注册一个，或者通过“<a href="https://nf.video/BTgSc">银河录像局</a>”直接购买一个现成的美区Apple ID账户。
+
+通过“银河录像局”购买美区Apple ID账户的步骤如下：打开“<a href="https://nf.video/BTgSc">银河录像局官网</a>”，点击首页中的“增值服务”，选择“苹果商店”，然后按照系统提示操作即可。注意：在购买美区Apple ID账户时，使用优惠码“ANYOFAI”可享九折优惠！
 
 * 2，购买苹果礼品卡
 
