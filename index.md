@@ -535,7 +535,7 @@ Any.do的自动化功能使得工作流程更加流畅，用户可以设置重�
 
 * <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：本文将重点介绍如何在国内注册Claude帐号，以及如何使用支付宝充值订阅Claude Pro会员。同时，还会解答大家比较关注的Claude Pro帐号共享、Claude Pro帐号合租和Claude Pro代充值等问题。本教程亲测真实有效，而且升级订阅Claude Pro的整个流程也仅需十多分钟！
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，可以考虑购买ChatGPT Plus合租帐号。这种方式不仅能够降低使用成本，还免去了科学上网的复杂操作。
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，可以考虑ChatGPT Plus共享合租帐号。这种方式不仅能够降低使用成本，还免去了科学上网的复杂操作。
 
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：最可靠的Claude Pro拼车购买渠道推荐！银河录像局不仅安全可靠，还提供24小时在线客服，价格非常亲民，Claude Pro共享帐号价格低至8元，大大降低了使用Claude Pro的门槛，让更多用户能够轻松体验这一强大的AI工具。
 
