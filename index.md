@@ -1,6 +1,6 @@
-# 除ChatGPT之外，20款超好用的AI工具推荐（2024年11月更新）
+# 除ChatGPT之外，20款超好用的AI工具推荐（2024年12月更新）
 
-<p align="center">最近更新于：2024年11月23日</p>
+<p align="center">最近更新于：2024年12月10日</p>
 
 ![除ChatGPT之外，20款最好用的AI工具推荐](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84AI%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90.png)
 
@@ -544,5 +544,7 @@ Any.do的自动化功能使得工作流程更加流畅，用户可以设置重�
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：本文推荐的Claude Pro代充服务采用的都是纯人工充值方式，价格非常实惠，提供24小时在线客服，稳定靠谱，独享Claude成品号！
 
 * <a href="https://github.com/anyofai/poe">Poe订阅</a>：本文将手把手地教大家如何快速获取一张WildCard虚拟信用卡，并使用该卡为Poe充值。而且，本Poe订阅教程经过亲测，真实有效且安全可靠，整个Poe购买流程最快仅需十五分钟即可完成。
+
+* <a href="https://github.com/anyofai/sora">如何使用Sora</a>：Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！
 
 * <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：本文将手把手教你如何在中国大陆完成ChatGPT帐号注册和ChatGPT Plus会员升级。整个过程简单明了，而且无需手机验证，只需五分钟即可完成所有操作。
