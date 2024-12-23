@@ -4,7 +4,7 @@
 
 ![最新ChatGPT Plus开通攻略：如何使用国内支付宝充值购买ChatGPT Plus帐号](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
-随着ChatGPT的广泛应用，越来越多的中国用户希望开通ChatGPT Plus账号，以获得更优质的使用体验。ChatGPT Plus是ChatGPT的付费升级版本，用户升级后可以解锁诸多功能，不仅享有更稳定的服务，而且在使用时无字数限制，响应速度更快，回答的准确性也更高，从而使整体体验显著提升。
+随着ChatGPT的广泛应用，越来越多的中国用户希望开通ChatGPT Plus账号或者ChatGPT Pro帐号，以获得更优质的使用体验。ChatGPT Plus和ChatGPT Pro是ChatGPT的付费升级版本，用户升级后可以解锁诸多功能，不仅享有更稳定的服务，而且在使用时无字数限制，响应速度更快，回答的准确性也更高，从而使整体体验显著提升。
 
 <blockquote>
 
@@ -12,7 +12,7 @@
 
 </blockquote>
 
-本文将详细介绍如何快速获取一张海外虚拟信用卡，并通过该卡来充值ChatGPT Plus。此外，我们还将解答一些关于ChatGPT Plus合租账号及代充值服务的常见问题。
+本文将详细介绍如何快速获取一张海外虚拟信用卡，并通过该卡来充值ChatGPT Plus和ChatGPT Pro。此外，我们还将解答一些关于ChatGPT Plus合租账号及代充值服务的常见问题。
 
 注意：本教程经过亲测，真实有效。我们已经稳定使用ChatGPT Plus一年多，未曾遇到任何问题。此外，开通ChatGPT Plus的整个流程也只需十五分钟！
 
