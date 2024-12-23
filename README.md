@@ -92,7 +92,7 @@ OK，截至到目前为止，你已经成功获取了一张WildCard虚拟信用�
 
 ### 第二步：复制ChatGPT Plus订阅费用支付页面的完整网址。
 
-注意，进入到ChatGPT Plus订阅费用支付页面之后，无需填写任何信息，直接复制完整网址即可。同理，如果你想订阅ChatGPT Pro会员，进入ChatGPT Pro订阅费用支付页面只会，也无需填写任何信息，直接复制完整网址即可。
+注意，进入到ChatGPT Plus订阅费用支付页面之后，无需填写任何信息，直接复制完整网址即可。同理，如果你想订阅ChatGPT Pro会员，进入ChatGPT Pro订阅费用支付页面之后，也无需填写任何信息，直接复制完整网址即可。
 
 ![国内使用WildCard虚拟信用卡自动升级开通ChatGPT Plus第二步：复制ChatGPT Plus订阅费用支付页面的完整网址](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/11-ChatGPT%20Plus%E8%AE%A2%E9%98%85-%E5%A4%8D%E5%88%B6%E6%94%AF%E4%BB%98%E9%A1%B5%E9%9D%A2%E7%9A%84%E9%93%BE%E6%8E%A5.jpg)
 
