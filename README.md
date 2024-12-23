@@ -28,7 +28,7 @@
 
 由于开通ChatGPT Plus必须绑定信用卡，而OpenAI尚未向中国用户开放，因此国内所有Visa和MasterCard信用卡均无法用于购买ChatGPT Plus会员，甚至中国香港的信用卡也无法使用。接下来，我们给大家推荐一款安全、好用的虚拟信用卡：**<a href="https://bewildcard.com/i/ANYOFAI">WildCard</a>**！它操作简单，**无需月租**，仅需一个手机号即可轻松获取，并支持使用支付宝为其充值，然后使用WildCard虚拟信用卡即可为ChatGPT Plus充值了。
 
-WildCard是国内最知名的虚拟信用卡平台，不仅可用于订阅ChatGPT Plus，还支持支付OpenAI API、Claude Pro、Midjourney、OnlyFans、Apple App Store、Google Play、YouTube、Facebook、Spotify、GitHub、Poe、Perplexity、Suno等平台。此外，WildCard虚拟信用卡无月租，可长期使用，非常方便。
+WildCard是国内最知名的虚拟信用卡平台，不仅可用于订阅ChatGPT Plus，还支持支付OpenAI API、ChatGPT Pro、Claude Pro、Midjourney、OnlyFans、Apple App Store、Google Play、YouTube、Facebook、Spotify、GitHub、Poe、Perplexity、Suno等平台。此外，WildCard虚拟信用卡无月租，可长期使用，非常方便。
 
 ### 第一步：访问WildCard官网，并点击右上角的“登录/注册”按钮。
 
