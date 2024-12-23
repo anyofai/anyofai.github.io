@@ -112,7 +112,7 @@ OK，截至到目前为止，你已经成功获取了一张WildCard虚拟信用�
 
 ![国内使用WildCard虚拟信用卡自动升级开通ChatGPT Plus第六步：按照系统提示完成后续操作，即可成功升级开通ChatGPT Plus](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/13-ChatGPT%20Plus%E5%BC%80%E9%80%9A%E6%88%90%E5%8A%9F.jpg)
 
-小结：通过这种方式购买ChatGPT Plus的话，后续每个月只需向WildCard虚拟信用卡充值20美元，剩余步骤将由WildCard平台自动完成，无需任何额外操作。整个过程简单高效，让你可以轻松享受ChatGPT Plus的服务，无需担心繁琐的后续流程。
+小结：通过这种方式购买ChatGPT Plus的话，后续每个月只需向WildCard虚拟信用卡充值20美元（ChatGPT Pro用户需要充值200美金），剩余步骤将由WildCard平台自动完成，无需任何额外操作。整个过程简单高效，让你可以轻松享受ChatGPT Plus的服务，无需担心繁琐的后续流程。
 
 ## 国内GPT Plus充值方法（二）：手动升级
 
