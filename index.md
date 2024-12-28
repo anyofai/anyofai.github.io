@@ -84,7 +84,7 @@ WildCard虚拟信用卡是一种功能多样且灵活实用的支付工具，能
 
 * 订阅ChatGPT Plus或者订阅ChatGPT Pro
 
-ChatGPT Plus是OpenAI推出的一项高级订阅服务，为用户提供更快速的响应速度和更稳定的使用体验，特别适合需要频繁使用AI助手的用户。然而，ChatGPT Plus订阅对支付方式有严格要求，国内传统支付渠道通常无法满足其需求。WildCard虚拟信用卡成功解决了这一难题，使国内用户能够顺利完成ChatGPT Plus的订阅，从而享受更优质的服务体验。点击查看更多详情：<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>。
+ChatGPT Plus是OpenAI推出的一项高级订阅服务，为用户提供更快速的响应速度和更稳定的使用体验，特别适合需要频繁使用AI助手的用户。然而，ChatGPT Plus订阅对支付方式有严格要求，国内传统支付渠道通常无法满足其需求。WildCard虚拟信用卡成功解决了这一难题，使国内用户能够顺利完成ChatGPT Plus的订阅，从而享受更优质的服务体验。查看更多详情：<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>。
 
 * 订阅Claude Pro
 
@@ -92,7 +92,7 @@ Claude Pro是由Anthropic开发的一款高级人工智能语言模型，与Chat
 
 * 订阅OnlyFans
 
-OnlyFans是一个订阅制内容创作平台，创作者可以通过发布独家内容与订阅者互动，涵盖领域包括艺术、健身、教育等多种类型。由于该平台对支付方式有严格要求，国内用户常常因信用卡不支持或外汇管制问题而无法顺利完成订阅支付。WildCard虚拟信用卡的出现，为用户解决了这一难题。WildCard帮助国内用户轻松完成订阅支付，满足他们对多样化内容消费的需求。点击查看更多详情：<a href="https://github.com/anyofai/onlyfans">OnlyFans怎么玩</a>。
+OnlyFans是一个订阅制内容创作平台，创作者可以通过发布独家内容与订阅者互动，涵盖领域包括艺术、健身、教育等多种类型。由于该平台对支付方式有严格要求，国内用户常常因信用卡不支持而无法顺利完成订阅支付。WildCard虚拟信用卡的出现，为用户解决了这一难题。WildCard帮助国内用户轻松完成订阅支付，满足他们对多样化内容消费的需求。点击查看更多详情：<a href="https://github.com/anyofai/onlyfans">OnlyFans怎么玩</a>。
 
 * 订阅Sora
 
