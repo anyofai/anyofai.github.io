@@ -463,4 +463,4 @@ OK，这就是在国内购买ChatGPT Plus的完整流程。通过这种方式，
 
 * <a href="https://github.com/anyofai/sora">如何使用Sora</a>：Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！
 
-* <a href="https://anyofai.github.io/">WildCard怎么样</a>：本文将详细解答WildCard怎么样、WildCard安全吗等常见问题，并深入介绍WildCard虚拟信用卡能用来干什么以及如何获取WildCard虚拟信用卡。文中还提到使用WildCard邀请码“ANYOFAI”可享开卡优惠，帮助用户轻松解决跨境支付问题，是国内用户的理想选择。
+* <a href="https://anyofai.github.io/">WildCard怎么样</a>：本文将详细解答WildCard怎么样、WildCard安全吗等常见问题，并深入介绍WildCard虚拟信用卡能用来干什么以及如何获取WildCard虚拟信用卡。
