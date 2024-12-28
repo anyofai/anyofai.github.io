@@ -84,7 +84,7 @@ WildCard虚拟信用卡是一种功能多样且灵活实用的支付工具，能
 
 * 订阅ChatGPT Plus或者订阅ChatGPT Pro
 
-ChatGPT Plus是OpenAI推出的一项高级订阅服务，为用户提供更快速的响应速度和更稳定的使用体验，特别适合需要频繁使用AI助手的用户。然而，ChatGPT Plus订阅对支付方式有严格要求，国内传统支付渠道通常无法满足其需求。WildCard虚拟信用卡成功解决了这一难题，使国内用户能够顺利完成ChatGPT Plus的订阅，从而享受更优质的服务体验。点击查看更多详情：<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>、<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>。
+ChatGPT Plus是OpenAI推出的一项高级订阅服务，为用户提供更快速的响应速度和更稳定的使用体验，特别适合需要频繁使用AI助手的用户。然而，ChatGPT Plus订阅对支付方式有严格要求，国内传统支付渠道通常无法满足其需求。WildCard虚拟信用卡成功解决了这一难题，使国内用户能够顺利完成ChatGPT Plus的订阅，从而享受更优质的服务体验。点击查看更多详情：<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>。
 
 * 订阅Claude Pro
 
@@ -168,7 +168,7 @@ WildCard的收费结构透明且清晰，主要包括开卡费和充值手续费
 
 * <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：本文将重点介绍如何在国内注册Claude帐号，以及如何使用支付宝充值订阅Claude Pro会员。同时，还会解答大家比较关注的Claude Pro帐号共享、Claude Pro帐号合租和Claude Pro代充值等问题。本教程亲测真实有效，而且升级订阅Claude Pro的整个流程也仅需十多分钟！
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus拼车</a>：如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，可以考虑ChatGPT Plus共享合租帐号。这种方式不仅能够降低使用成本，还免去了科学上网的复杂操作。
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，可以考虑ChatGPT Plus共享合租帐号。这种方式不仅能够降低使用成本，还免去了科学上网的复杂操作。
 
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：最可靠的Claude Pro拼车购买渠道推荐！银河录像局不仅安全可靠，还提供24小时在线客服，价格非常亲民，Claude Pro共享帐号价格低至8元，大大降低了使用Claude Pro的门槛，让更多用户能够轻松体验这一强大的AI工具。
 
