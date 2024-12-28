@@ -92,7 +92,7 @@ Claude Pro是由Anthropic开发的一款高级人工智能语言模型，与Chat
 
 * 订阅OnlyFans
 
-OnlyFans是一个订阅制内容创作平台，创作者可以通过发布独家内容与订阅者互动，涵盖领域包括艺术、健身、教育等多种类型。由于该平台对支付方式有严格要求，国内用户常常因信用卡不支持而无法顺利完成订阅支付。WildCard虚拟信用卡的出现，为用户解决了这一难题。WildCard帮助国内用户轻松完成订阅支付，满足他们对多样化内容消费的需求。点击查看更多详情：<a href="https://github.com/anyofai/onlyfans">OnlyFans怎么玩</a>。
+OnlyFans是一个订阅制内容创作平台，创作者可以通过发布独家内容与订阅者互动，涵盖领域包括艺术、健身、教育等多种类型。由于该平台对支付方式有严格要求，国内用户常常因信用卡不支持而无法顺利完成订阅支付。WildCard虚拟信用卡的出现，为用户解决了这一难题。WildCard帮助国内用户轻松完成订阅支付，满足他们对多样化内容消费的需求。查看更多：<a href="https://github.com/anyofai/onlyfans">OnlyFans怎么玩</a>。
 
 * 订阅Sora
 
