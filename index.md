@@ -82,19 +82,33 @@ WildCard的安全性和可靠性是用户选择这款虚拟信用卡时最为关
 
 WildCard虚拟信用卡是一种功能多样且灵活实用的支付工具，能够满足用户在跨境支付场景中的多种需求。无论是订阅主流海外服务，还是解决需要海外手机号和邮箱的特定需求，WildCard都能提供便捷的解决方案，成为用户跨境支付的可靠助手。
 
+* 订阅ChatGPT Plus或者订阅ChatGPT Pro
+
 ChatGPT Plus是OpenAI推出的一项高级订阅服务，为用户提供更快速的响应速度和更稳定的使用体验，特别适合需要频繁使用AI助手的用户。然而，ChatGPT Plus订阅对支付方式有严格要求，国内传统支付渠道通常无法满足其需求。WildCard虚拟信用卡成功解决了这一难题，使国内用户能够顺利完成ChatGPT Plus的订阅，从而享受更优质的服务体验。点击查看更多详情：<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a>、<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>。
+
+* 订阅Claude Pro
 
 Claude Pro是由Anthropic开发的一款高级人工智能语言模型，与ChatGPT类似，旨在为用户提供高质量的AI文本生成、分析和对话服务。Claude Pro订阅仅支持海外信用卡，这对国内用户来说可能因卡段不支持或支付失败而遇到困难。借助WildCard虚拟信用卡，用户可以轻松绕过这些支付限制，无需使用实体国际信用卡即可顺利完成订阅，从而畅享Claude Pro提供的专业AI服务和卓越的用户体验。点击查看更多详情：<a href="https://github.com/anyofai/claude-pro">Claude国内购买</a>。
 
+* 订阅OnlyFans
+
 OnlyFans是一个订阅制内容创作平台，创作者可以通过发布独家内容与订阅者互动，涵盖领域包括艺术、健身、教育等多种类型。由于该平台对支付方式有严格要求，国内用户常常因信用卡不支持或外汇管制问题而无法顺利完成订阅支付。WildCard虚拟信用卡的出现，为用户解决了这一难题。WildCard帮助国内用户轻松完成订阅支付，满足他们对多样化内容消费的需求。点击查看更多详情：<a href="https://github.com/anyofai/onlyfans">OnlyFans怎么玩</a>。
+
+* 订阅Sora
 
 Sora是OpenAI于2024年推出的一项基于人工智能的创新服务，旨在通过简单的文本输入生成高质量的视频内容。这项技术进一步扩展了ChatGPT的应用范围，为用户提供从文字到视觉表达的全新体验。Sora当前仅向ChatGPT Plus和Pro订阅用户开放使用，并未单独收费或提供独立订阅。这意味着，只要用户是ChatGPT Plus或Pro会员，就能直接使用Sora功能，无需额外支付费用。WildCard虚拟信用卡在此过程中扮演了重要角色。由于ChatGPT Plus订阅对支付方式有严格要求，国内用户往往面临支付渠道受限的问题。通过WildCard，用户可以轻松完成ChatGPT Plus的订阅，从而间接获取Sora的使用权限。这为国内用户体验OpenAI的最新技术成果提供了便捷且高效的解决方案。点击查看更多详情：<a href="https://github.com/anyofai/sora">Sora使用教程</a>。
 
+* 订阅Poe
+
 Poe是Quora推出的一款AI问答平台，集成了多种领先的人工智能模型（如ChatGPT和Claude），为用户提供高效、直观的智能问答体验。虽然Poe的基础功能对用户免费开放，但某些高级功能和特定模型的使用需要支付订阅费用。对于国内用户来说，支付方式的限制可能成为订阅过程中的障碍。WildCard虚拟信用卡为用户提供了便捷的支付解决方案，使他们能够顺利完成Poe的订阅，从而解锁更多高级AI功能，享受更全面的服务体验。点击查看更多详情：<a href="https://github.com/anyofai/poe">Poe订阅教程</a>。
+
+* 订阅其他海外服务
 
 WildCard还支持订阅和支付其他众多国际平台和服务，例如Netflix、Google Play、Spotify、Adobe、Midjourney、Apple Store、YouTube Premium、Amazon、Patreon、Twitter(X)、GitHub等。这些平台涵盖了影音娱乐、软件订阅、在线教育、云服务等多个领域，WildCard的广泛适配性极大地提升了用户在跨境支付中的便利性，无需担心支付限制问题。
 
-此外，WildCard还提供免费的海外手机号码和邮箱服务，使用户在注册需要海外手机号验证的服务时更加便捷。这一功能有效解决了国内用户在注册国际服务时可能面临的障碍，同时也填补了没有海外邮箱的需求。这些贴心的附加服务进一步扩展了WildCard的应用场景，让用户不仅可以轻松完成支付，还能快速完成账户注册和验证操作。
+* 提供海外手机号和邮箱
+
+WildCard还提供免费的海外手机号码和邮箱服务，使用户在注册需要海外手机号验证的服务时更加便捷。这一功能有效解决了国内用户在注册国际服务时可能面临的障碍，同时也填补了没有海外邮箱的需求。这些贴心的附加服务进一步扩展了WildCard的应用场景，让用户不仅可以轻松完成支付，还能快速完成账户注册和验证操作。
 
 总的来说，WildCard虚拟信用卡凭借其强大的支付支持和广泛的应用场景，为用户提供了一种安全、便捷的解决方案。无论是订阅主流国际服务还是满足特定需求，WildCard都能为用户提供全面、可靠的服务体验。
 
