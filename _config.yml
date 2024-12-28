@@ -1,0 +1,5 @@
+title: chinavpns
+baseurl: ""
+url: "https://chinavpns.github.io"
+plugins:
+  - jekyll-seo-tag
