@@ -1,6 +1,6 @@
 # 最新ChatGPT Plus开通攻略：如何使用国内支付宝充值购买ChatGPT Plus帐号和ChatGPT Pro帐号？
 
-<p align="center">最近更新于：2024年12月22日</p>
+<p align="center">最近更新于：2024年12月28日</p>
 
 ![最新ChatGPT Plus开通攻略：如何使用国内支付宝充值购买ChatGPT Plus帐号](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
@@ -8,7 +8,7 @@
 
 <blockquote>
 
-目前，国内购买ChatGPT Plus账号的方法有三种：通过虚拟信用卡为ChatGPT Plus充值、购买ChatGPT Plus合租账号，或使用安全可靠的ChatGPT Plus代充值服务。对于绝大多数普通用户，我们建议使用虚拟信用卡充值ChatGPT Plus。因为合租账号的安全性和私密性较低，多个用户共享同一账号，彼此可以查看对方的使用历史记录。而代充值服务不仅需要提供自己的ChatGPT账号密码才能完成充值，费用也较高，除20美元的ChatGPT Plus会员费外，还需支付额外手续费。使用虚拟信用卡充值ChatGPT Plus，不仅可以获得一个完全独立的账号，而且安全性高，开通成功率接近100%。
+目前，国内购买ChatGPT Plus账号的方法有三种：通过虚拟信用卡为ChatGPT Plus充值、购买ChatGPT Plus合租账号，或使用安全可靠的ChatGPT Plus代充值服务。对于绝大多数普通用户，我们建议使用虚拟信用卡充值ChatGPT Plus。因为合租账号的安全性和私密性较低，多个用户共享同一账号，彼此可以查看对方的使用历史记录。而代充值服务不仅需要提供自己的ChatGPT账号密码才能完成充值，费用也较高，除20美元的ChatGPT Plus会员费外，还需支付额外手续费。使用虚拟信用卡充值ChatGPT Plus，不仅可以获得一个完全独立的账号，而且安全性高，开通成功率为100%。
 
 </blockquote>
 
@@ -60,7 +60,7 @@ WildCard是国内最知名的虚拟信用卡平台，不仅可用于订阅ChatGP
 
 填写完个人信息后，系统会提示阅读“OpenAI封禁须知”，接着要求进行实名认证。如果不想认证，可以点击“暂不认证”按钮，这样也可以成功开通WildCard虚拟信用卡。
 
-注意：如果不进行实名认证，WildCard虚拟信用卡每月的支付限额为100美金；完成实名认证后，支付限额可以提高到3000美金。也就是说，如果你觉得每月100美金的额度完全够用，或者不想透露更多个人真实信息，那么直接点击“暂不认证”即可。
+注意：如果不进行实名认证，WildCard虚拟信用卡每月的支付限额为60美金；完成实名认证后，支付限额可以提高到3000美金。也就是说，如果你觉得每月60美金的额度完全够用，或者不想透露更多个人真实信息，那么直接点击“暂不认证”即可。
 
 ![使用支付宝获取WildCard虚拟信用卡第六步：进行实名认证或直接完成开卡](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/6-ChatGPT%20Plus%E5%BC%80%E9%80%9A%EF%BC%9A%E8%BF%9B%E8%A1%8C%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81%E6%88%96%E7%9B%B4%E6%8E%A5%E5%AE%8C%E6%88%90%E5%BC%80%E5%8D%A1.jpg)
 
