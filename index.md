@@ -129,7 +129,7 @@ OK，截止到目前为止，你已经成功地获取到了一张美国虚拟信
 
 OK，当你完成支付后，就可以在“我的卡片”页面查看可用余额。此时，你的WildCard虚拟信用卡已可用于订阅ChatGPT Plus、Claude Pro、OnlyFans等多种海外服务。
 
-重要提示：WildCard虚拟信用卡支持一键订阅ChatGPT Plus会员，大大简化了手动订阅ChatGPT Plus会员的流程，且订阅成功率高达100%，非常适合新手使用！更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>！
+**重要提示**：WildCard虚拟信用卡支持一键订阅ChatGPT Plus会员，大大简化了手动订阅ChatGPT Plus会员的流程，且订阅成功率高达100%，非常适合新手使用！更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>！
 
 ## 使用Wildcard信用卡时注意事项
 
