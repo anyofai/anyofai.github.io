@@ -20,6 +20,8 @@ description: 本文将详细解答WildCard怎么样、WildCard安全吗等常见
 
 ## WildCard是什么？WildCard官网是哪个？ 
 
+![WildCard是什么？WildCard官网是哪个？](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard-1.jpg)
+
 WildCard是一种专为解决中国用户跨境支付问题而设计的虚拟信用卡服务。其核心功能包括提供虚拟卡号、CVV码和有效期，具备与实体信用卡相同的支付能力。作为一款数字化支付工具，WildCard特别适合需要订阅海外服务或进行国际购物的用户。通过降低注册门槛和优化支付流程，WildCard帮助用户克服了传统信用卡在跨境支付时可能遇到的外汇限制和使用障碍。
 
 WildCard的应用范围十分广泛，支持订阅和支付多种主流国际服务，包括ChatGPT Plus、Netflix、Google Play、Apple Store、Spotify、Adobe、Midjourney、OnlyFans、Amazon、OpenAI API、YouTube Premium、Poe、Perplexity、Twitter (X)、GitHub以及Patreon等平台。此外，为了进一步提升用户的支付成功率，WildCard还提供了专用的美国家庭网络环境，确保用户在支付过程中不会因地域限制或网络问题而遭遇失败。
@@ -87,39 +89,43 @@ WildCard支持账户余额随时提现到支付宝，整个操作流程简单直
 
 * WildCard官网：<a href="https://bewildcard.com/i/ANYOFAI">https://bewildcard.com/i/ANYOFAI</a>
 
-![WildCard开卡步骤一：打开WildCard官网，通过“使用手机验证码登录”的方式一键登录](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard-1.jpg)
+![WildCard开卡步骤一：打开WildCard官网，通过“使用手机验证码登录”的方式一键登录](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard-2.jpg)
 
 ### WildCard开卡步骤二：点击“我的卡片”，选择服务年限，输入邀请码“ANYOFAI”并支付开卡费。
 
 注意：这里收取的是WildCard虚拟信用卡的开卡费，使用邀请码“ANYOFAI”可享受开卡费立减1美金的优惠。除此之外，WildCard不会再收取任何其他费用，例如月租或管理费。
 
-![](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard-2.jpg)
+![WildCard开卡步骤二：点击“我的卡片”，选择服务年限，输入邀请码“ANYOFAI”并支付开卡费](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard-3.jpg)
 
 ### WildCard开卡步骤三：完善个人信息。
 
 注意：如果你不想填写真实信息，可以随便写个姓名，不影响后续使用。
 
-![](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard-3.jpg)
+![WildCard开卡步骤三：完善个人信息](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard-4.jpg)
 
 ### WildCard开卡步骤四：直接点击“暂不认证”即可成功开通WildCard虚拟信用卡。
 
 注意：如果你不想暴露隐私信息，可以直接点击“暂不认证”完成WildCard开卡，此后你的月消费限额将为60美金；如果你根据WildCard的提示完成后续实名认证，月消费限额可提升至3000美金。
 
-![](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard-4.jpg)
+![WildCard开卡步骤四：直接点击“暂不认证”即可成功开通WildCard虚拟信用卡](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard-5.jpg)
 
 ### WildCard开卡步骤五：再次点击“我的卡片”，即可查看WildCard虚拟信用卡的所有详细信息。
 
-![](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard-5.jpg)
+![WildCard开卡步骤五：再次点击“我的卡片”，即可查看WildCard虚拟信用卡的所有详细信息](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard-6.jpg)
 
 OK，截止到目前为止，你已经成功地获取到了一张美国虚拟信用卡！需要注意的是，WildCard虚拟信用卡无法透支消费，这意味着你需要消费多少钱，就需要先往WildCard虚拟信用卡中充值多少钱。接下来，我们将详细介绍如何给WildCard虚拟信用卡充值！
 
 ### WildCard充值步骤一： 分别点击“我的卡片”、“充值”和“线上充值”。
 
-![](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard-6.jpg)
+![WildCard充值步骤一： 分别点击“我的卡片”、“充值”和“线上充值”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard-7.jpg)
 
 ### WildCard充值步骤二： 选择充值金额，并点击“去支付”。
 
+![WildCard充值步骤二： 选择充值金额，并点击“去支付”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard-8.jpg)
+
 ### WildCard充值步骤三： 使用支付宝或者微信扫码完成支付。
+
+![WildCard充值步骤三： 使用支付宝或者微信扫码完成支付](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard-9.jpg)
 
 OK，当你完成支付后，就可以在“我的卡片”页面查看可用余额。此时，你的WildCard虚拟信用卡已可用于订阅ChatGPT Plus、Claude Pro、OnlyFans等多种海外服务。
 
