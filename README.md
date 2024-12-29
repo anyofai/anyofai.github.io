@@ -46,9 +46,9 @@ WildCard是国内最知名的虚拟信用卡平台，不仅可用于订阅ChatGP
 
 ### 第四步：选择服务年限，输入邀请码“ANYOFAI”，并完成支付。
 
-注意：市面上所有虚拟信用卡都需要收取年费，WildCard也不例外。毕竟人家提供了服务，多少都要给点辛苦费，这个也是可以理解的。当然，除了年费之外，WildCard没有其他费用，**也没有月租**。此外，WildCard的年费也比较便宜的，2年服务年费为11.99美元，3年为16.99美元。
+市面上所有虚拟信用卡都需要收取年费，WildCard也不例外。毕竟人家提供了服务，多少都要给点辛苦费，这个也是可以理解的。当然，除了年费之外，WildCard没有其他费用，**也没有月租**。此外，WildCard的年费也比较便宜的，2年服务年费为11.99美元，3年为16.99美元。
 
-独家优惠：使用邀请码“**ANYOFAI**”可立减1美元。你也可以通过我们提供的链接（ https://bewildcard.com/i/ANYOFAI ）进入WildCard官网，邀请码将自动生效，2年年费仅需10.99美元。
+注意：使用邀请码“**ANYOFAI**”可立减1美元。你也可以通过我们提供的链接（ https://bewildcard.com/i/ANYOFAI ）进入WildCard官网，邀请码将自动生效，2年年费仅需10.99美元。
 
 ![使用支付宝获取WildCard虚拟信用卡第四步：选择服务年限，输入邀请码“ANYOFAI”，并完成支付](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/4-ChatGPT%20Plus%E5%85%85%E5%80%BC-%E4%BD%BF%E7%94%A8%E6%94%AF%E4%BB%98%E5%AE%9D%E5%AE%8C%E6%88%90%E6%94%AF%E4%BB%98.jpg)
 
