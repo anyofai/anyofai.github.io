@@ -6,7 +6,7 @@ description: 本文将详细解答WildCard怎么样、WildCard安全吗等常见
 
 # 最好用的虚拟信用卡推荐：WildCard怎么样？WildCard安全吗？（含WildCard邀请码）
 
-<p align="center">最近更新于：2024年12月28日</p>
+<p align="center">最近更新于：2025年1月3日</p>
 
 ![最好用的虚拟信用卡推荐：WildCard怎么样？WildCard安全吗？（含WildCard邀请码）](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard.png)
 
