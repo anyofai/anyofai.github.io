@@ -110,9 +110,9 @@ OK，截至到目前为止，你已经成功获取了一张野卡虚拟信用卡
 
 ![国内使用野卡虚拟信用卡自动充值购买ChatGPT Plus第三步：返回到野卡后台，点击左侧导航栏中的“ChatGPT一键升级”按钮](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/Yeka-12.png)
 
-### 第四步：将复制的网址粘贴到输入框中，并点击“一键升级”。
+### 第四步：将复制的网址粘贴到输入框中，并点击“下一步”。
 
-![国内使用野卡虚拟信用卡自动充值购买ChatGPT Plus第四步：将复制的网址粘贴到输入框中，并点击“一键升级”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/Yeka-13.png)
+![国内使用野卡虚拟信用卡自动充值购买ChatGPT Plus第四步：将复制的网址粘贴到输入框中，并点击“下一步”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/Yeka-13.png)
 
 ### 第五步：按照系统提示完成后续操作，即可成功升级开通ChatGPT Plus或者ChatGPT Pro。
 
