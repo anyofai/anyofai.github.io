@@ -2,13 +2,13 @@
 
 <p align="center">最近更新于：2025年2月2日</p>
 
-![最新ChatGPT Plus开通攻略：如何使用国内支付宝充值购买ChatGPT Plus帐号](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
+![最新ChatGPT Plus开通攻略：如何使用国内支付宝充值购买ChatGPT Plus帐号和ChatGPT Pro帐号](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
 随着ChatGPT的广泛应用，越来越多的中国用户希望开通ChatGPT Plus账号或者ChatGPT Pro帐号，以获得更优质的使用体验。ChatGPT Plus和ChatGPT Pro是ChatGPT的付费升级版本，用户升级后可以解锁诸多功能，不仅享有更稳定的服务，而且在使用时无字数限制，响应速度更快，回答的准确性也更高，从而使整体体验显著提升。
 
 <blockquote>
 
-目前，国内购买ChatGPT Plus账号的方法有三种：通过虚拟信用卡为ChatGPT Plus充值、购买ChatGPT Plus合租账号，或使用安全可靠的ChatGPT Plus代充值服务。对于绝大多数普通用户，我们建议使用虚拟信用卡充值ChatGPT Plus。因为合租账号的安全性和私密性较低，多个用户共享同一账号，彼此可以查看对方的使用历史记录。而代充值服务不仅需要提供自己的ChatGPT账号密码才能完成充值，费用也较高，除20美元的ChatGPT Plus会员费外，还需支付额外手续费。使用虚拟信用卡充值ChatGPT Plus，不仅可以获得一个完全独立的账号，而且安全性高，开通成功率为100%。
+目前，国内购买ChatGPT Plus账号的方法有三种：通过海外虚拟信用卡为ChatGPT Plus充值、购买ChatGPT Plus合租账号，或使用安全可靠的ChatGPT Plus代充值服务。对于绝大多数普通用户，我们建议使用海外虚拟信用卡充值ChatGPT Plus。因为合租账号的安全性和私密性较低，多个用户共享同一账号，彼此可以查看对方的使用历史记录。而代充值服务不仅需要提供自己的ChatGPT账号密码才能完成充值，费用也较高，除20美元的ChatGPT Plus会员费外，还需支付额外手续费。使用海外虚拟信用卡充值ChatGPT Plus，不仅可以获得一个完全独立的账号，而且安全性高，开通成功率为100%。
 
 </blockquote>
 
@@ -20,9 +20,9 @@
 
 * 一个干净且稳定的科学上网工具！值得注意的是，大家在使用ChatGPT的时候，最好固定使用某一个国家或地区的节点，切勿频繁更换节点，以免因IP频繁变动而导致ChatGPT帐号被封。此外，科学上网工具需要大家自己解决，我们这里不推荐，也不讨论该话题。
 * 一个尚未升级的ChatGPT帐号！如果你还没有帐号，可以自行注册，整个流程非常简单，没有任何难度。如果你不想自己注册，也可以花点钱直接购买一个现成的帐号。更多详细信息请查看：<a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>！
-* 一张国外信用卡或虚拟信用卡！因为国外实体信用卡的获取难度较大，所以<a href="https://bewildcard.com/i/ANYOFAI">WildCard虚拟信用卡</a>是绝大多数中国用户的最佳选择！关于如何快速获取WildCard虚拟信用卡，请查看下文的详细操作步骤。
+* 一张国外信用卡或虚拟信用卡！因为国外实体信用卡的获取难度较大，所以<a href="https://yeka.ai/i/ANYOFAI">野卡虚拟信用卡</a>是绝大多数中国用户的最佳选择！关于如何快速获取野卡虚拟信用卡，请查看下文的详细操作步骤。
 
-注意：国外实体信用卡比较难获取，但虚拟信用卡还是比较容易的！接下来，我们将手把手教大家如何获取一张WildCard虚拟信用卡，并使用该虚拟信用卡为ChatGPT Plus充值。**划重点，此方法安全可靠，只要严格按照我们的流程操作，国内ChatGPT Plus开通成功率达到100%，还可享受专属优惠折扣**。
+注意：国外实体信用卡比较难获取，但虚拟信用卡还是比较容易的！接下来，我们将手把手教大家如何获取一张野卡虚拟信用卡，并使用该虚拟信用卡为ChatGPT Plus充值。**划重点，此方法安全可靠，只要严格按照我们的流程操作，国内ChatGPT Plus开通成功率达到100%，还可享受专属优惠折扣**。
 
 ## 如何快速获取野卡Yeka虚拟信用卡？
 
@@ -106,7 +106,7 @@ OK，截至到目前为止，你已经成功获取了一张野卡虚拟信用卡
 
 ![在中国手动开通ChatGPT Plus帐号第一步：打开ChatGPT官网，使用你的ChatGPT账号登录，并点击左下角的“升级套餐”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/10-ChatGPT%20Plus%E5%BC%80%E9%80%9A-%E5%8D%87%E7%BA%A7ChatGPT.jpg)
 
-### 第二步：输入WildCard虚拟信用卡信息，并点击“订阅”按钮。
+### 第二步：输入野卡虚拟信用卡信息，并点击“订阅”按钮。
 
 ![在中国手动开通ChatGPT Plus帐号第二步：输入WildCard虚拟信用卡信息，并点击“订阅”按钮](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/14-ChatGPT%20Plus%E5%85%85%E5%80%BC-%E8%BE%93%E5%85%A5%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BF%A1%E6%81%AF.jpg)
 
@@ -114,7 +114,7 @@ OK，截至到目前为止，你已经成功获取了一张野卡虚拟信用卡
 
 ![在中国手动开通ChatGPT Plus帐号第三步：确认支付，即可成功开通ChatGPT Plus会员](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/13-ChatGPT%20Plus%E5%8D%87%E7%BA%A7-%E6%B3%A8%E5%86%8C%E6%88%90%E5%8A%9F.jpg)
 
-小结：许多新手朋友在通过这种方式开通ChatGPT Plus时，可能会遇到类似“充值ChatGPT Plus时信用卡被拒”的问题。如果你也遇到了这种情况，不必担心，本文下方提供了详细的解决方案，帮助你排查并解决问题。此外，你还可以直接联系WildCard平台的在线客服，他们将为你提供及时的支持与指导，确保顺利完成ChatGPT Plus购买。
+小结：许多新手朋友在通过这种方式开通ChatGPT Plus时，可能会遇到类似“充值ChatGPT Plus时信用卡被拒”的问题。如果你也遇到了这种情况，不必担心，本文下方提供了详细的解决方案，帮助你排查并解决问题。此外，你还可以直接联系野卡平台的在线客服，他们将为你提供及时的支持与指导，确保顺利完成ChatGPT Plus购买。
 
 ## 国内充值购买ChatGPT Plus会员时信用卡被拒怎么办？
 
