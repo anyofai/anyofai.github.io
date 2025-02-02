@@ -130,7 +130,7 @@ OK，截至到目前为止，你已经成功获取了一张野卡虚拟信用卡
 
 ### 第二步：输入野卡虚拟信用卡信息，并点击“订阅”按钮。
 
-![在中国手动开通ChatGPT Plus帐号第二步：输入WildCard虚拟信用卡信息，并点击“订阅”按钮](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/14-ChatGPT%20Plus%E5%85%85%E5%80%BC-%E8%BE%93%E5%85%A5%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BF%A1%E6%81%AF.jpg)
+![在中国手动开通ChatGPT Plus帐号第二步：输入野卡虚拟信用卡信息，并点击“订阅”按钮](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/14-ChatGPT%20Plus%E5%85%85%E5%80%BC-%E8%BE%93%E5%85%A5%E4%BF%A1%E7%94%A8%E5%8D%A1%E4%BF%A1%E6%81%AF.jpg)
 
 ### 第三步：确认支付，即可成功开通ChatGPT Plus会员。
 
