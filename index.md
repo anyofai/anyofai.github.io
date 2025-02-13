@@ -85,11 +85,11 @@ description: 本文将详细解答野卡怎么样、野卡安全吗等常见问�
 
 接下来，我们将手把手地教大家如何一步一步地完成野卡虚拟信用卡开通、野卡虚拟信用卡充值，以及使用野卡虚拟信用卡一键订阅ChatGPT Plus。
 
-### 野卡开卡步骤一：打开野卡官网，通过“使用手机验证码登录”的方式一键登录。
+### 野卡开卡步骤一：打开野卡官网，使用+86手机号完成帐号注册。
 
 * 野卡官网：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
-![野卡开卡步骤一：打开野卡官网，通过“使用手机验证码登录”的方式一键登录](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard-2.jpg)
+![野卡开卡步骤一：打开野卡官网，通过“使用手机验证码登录”的方式一键登录](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-2.png)
 
 ### 野卡开卡步骤二：点击“我的卡片”，选择服务年限，输入邀请码“ANYOFAI”并支付开卡费。
 
