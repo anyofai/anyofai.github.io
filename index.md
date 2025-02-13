@@ -20,7 +20,7 @@ description: 本文将详细解答野卡怎么样、野卡安全吗等常见问�
 
 ## 野卡是什么？野卡官网是哪个？ 
 
-![野卡是什么？野卡官网是哪个？](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard-1.jpg)
+![野卡是什么？野卡官网是哪个？](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-1.png)
 
 野卡（原WildCard升级版）是一种专为解决中国用户跨境支付问题而设计的虚拟信用卡服务。其核心功能包括提供虚拟卡号、CVV码和有效期，具备与实体信用卡相同的支付能力。作为一款数字化支付工具，野卡特别适合需要订阅海外服务或进行国际购物的用户。通过降低注册门槛和优化支付流程，野卡帮助用户克服了传统信用卡在跨境支付时可能遇到的外汇限制和使用障碍。
 
