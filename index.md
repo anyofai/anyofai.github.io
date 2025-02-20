@@ -185,7 +185,7 @@ Poe是Quora推出的一款AI问答平台，集成了多种领先的人工智能�
 
 * 订阅其他海外服务
 
-野卡还支持订阅和支付其他众多国际平台和服务，例如Netflix、Google Play、Spotify、Adobe、Midjourney、Apple Store、YouTube Premium、Amazon、Patreon、Twitter(X)、GitHub等。这些平台涵盖了影音娱乐、软件订阅、在线教育、云服务等多个领域，野卡的广泛适配性极大地提升了用户在跨境支付中的便利性，无需担心支付限制问题。
+野卡还支持订阅和支付其他众多国际平台和服务，例如Netflix、Google Play、Spotify、Adobe、Midjourney、Apple Store、YouTube Premium、Amazon、Patreon、Twitter(X)、GitHub等。这些平台涵盖了影音娱乐、软件订阅、在线教育、云服务等多个领域，野卡的广泛适配性极大地提升了用户在跨境支付中的便利性，无需担心支付限制问题。点击查看更多详情：<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>。
 
 * 提供海外手机号和邮箱
 
