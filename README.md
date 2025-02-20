@@ -1,6 +1,6 @@
 # 最新ChatGPT Plus开通攻略：如何使用国内支付宝充值购买ChatGPT Plus帐号和ChatGPT Pro帐号？
 
-<p align="center">最近更新于：2025年2月13日</p>
+<p align="center">最近更新于：2025年2月20日</p>
 
 ![最新ChatGPT Plus开通攻略：如何使用国内支付宝充值购买ChatGPT Plus帐号和ChatGPT Pro帐号](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
@@ -451,11 +451,15 @@ OK，这就是在国内购买ChatGPT Plus的完整流程。通过这种方式，
 
 ## 国内购买开通ChatGPT Plus相关的其他文章：
 
+* <a href="https://anyofai.github.io/">野卡怎么样</a>：本文将详细解答“野卡Yeka怎么样”、“野卡Yeka安全吗”等常见问题，并深入介绍野卡虚拟信用卡能用来干什么以及如何获取野卡虚拟信用卡。
+
 * <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：本文将重点介绍如何在国内注册Claude帐号，以及如何使用支付宝充值订阅Claude Pro会员。同时，还会解答大家比较关注的Claude Pro帐号共享、Claude Pro帐号合租和Claude Pro代充值等问题。本教程亲测真实有效，而且升级订阅Claude Pro的整个流程也仅需十多分钟！
 
 * <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：如果你无法解决科学上网的问题，或觉得每月20美元的会员费用过高，可以考虑ChatGPT Plus共享合租帐号。这种方式不仅能够降低使用成本，还免去了科学上网的复杂操作。
 
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：最可靠的Claude Pro拼车购买渠道推荐！银河录像局不仅安全可靠，还提供24小时在线客服，价格非常亲民，Claude Pro共享帐号价格低至8元，大大降低了使用Claude Pro的门槛，让更多用户能够轻松体验这一强大的AI工具。
+
+* <a href="https://github.com/anyofai/netflix-hezu">奈飞合租</a>：最安全实惠的奈飞拼车购买平台推荐！我们还为大家解答购买奈飞共享帐号的常见问题！
 
 * <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>：ChatGPT代充安全吗？安全稳定的ChatGPT 4代充值平台推荐！本文推荐的ChatGPT Plus代续费订阅服务稳定可靠，价格便宜，信誉有保障。
 
@@ -463,10 +467,8 @@ OK，这就是在国内购买ChatGPT Plus的完整流程。通过这种方式，
 
 * <a href="https://github.com/anyofai/poe">Poe订阅</a>：本文将手把手地教大家如何快速获取一张野卡虚拟信用卡，并使用该卡为Poe充值。而且，本Poe订阅教程经过亲测，真实有效且安全可靠，整个Poe购买流程最快仅需十五分钟即可完成。
 
-* <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：本文将手把手教你如何在中国大陆完成ChatGPT帐号注册和ChatGPT Plus会员升级。整个过程简单明了，而且无需手机验证，只需五分钟即可完成所有操作。
-
 * <a href="https://github.com/anyofai/onlyfans">OnlyFans订阅</a>：Onlyfans怎样玩？中国人怎么用OnlyFans？Onlyfans官网是哪个？如何注册Onlyfans帐号？国内如何订阅Onlyfans呢？接下来本文将为你详细解答这些问题。
 
-* <a href="https://github.com/anyofai/sora">如何使用Sora</a>：Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！
+* <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：本文将手把手教你如何在中国大陆完成ChatGPT帐号注册和ChatGPT Plus会员升级。整个过程简单明了，而且无需手机验证，只需五分钟即可完成所有操作。
 
-* <a href="https://anyofai.github.io/">野卡Yeka怎么样</a>：本文将详细解答“野卡Yeka怎么样”、“野卡Yeka安全吗”等常见问题，并深入介绍野卡虚拟信用卡能用来干什么以及如何获取野卡虚拟信用卡。
+* <a href="https://github.com/anyofai/sora">如何使用Sora</a>：Sora是什么？如何使用Sora？Sora入口在哪？Sora订阅保姆级教程！
