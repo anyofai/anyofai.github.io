@@ -6,7 +6,7 @@ description: 本文将详细解答野卡怎么样、野卡安全吗等常见问�
 
 # 2025最好用的虚拟信用卡推荐：Yeka野卡怎么样？Yeka野卡安全吗？（含Yeka野卡邀请码）
 
-<p align="center">最近更新于：2025年2月20日</p>
+<p align="center">最近更新于：2025年2月25日</p>
 
 ![最好用的虚拟信用卡推荐：野卡怎么样？野卡安全吗？（含野卡邀请码）](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard.png)
 
