@@ -421,7 +421,7 @@ ChatGPT Pro的功能覆盖范围广泛，包括不限速访问、更高的优先
 
 * 1，获取一个美区Apple ID
 
-首先，你需要准备一个美区Apple ID，这是完成ChatGPT Plus订阅的必要条件。如果你目前没有美区Apple ID，可以自己动手注册一个，或者通过“<a href="https://nf.video/BTgSc">银河录像局</a>”直接购买一个现成的美区Apple ID账户。
+首先，你需要准备一个美区Apple ID，这是完成ChatGPT Plus订阅的必要条件。如果你目前没有美区Apple ID，可以自己动手注册一个，或者通过“银河录像局”直接购买一个现成的美区Apple ID账户。
 
 通过“银河录像局”购买美区Apple ID账户的步骤如下：打开“<a href="https://nf.video/BTgSc">银河录像局官网</a>”，点击首页中的“增值服务”，选择“苹果商店”，然后按照系统提示操作即可。注意：在购买美区Apple ID账户时，使用优惠码“ANYOFAI”可享九折优惠！
 
