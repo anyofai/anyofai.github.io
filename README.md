@@ -26,7 +26,7 @@
 
 ## 如何快速获取“野卡Yeka虚拟信用卡”？
 
-由于开通ChatGPT Plus需要绑定信用卡，而OpenAI尚未向中国用户开放，因此国内的Visa和MasterCard信用卡均无法用于购买ChatGPT Plus会员，甚至中国香港的信用卡也无法使用。接下来，我们推荐一款安全、好用的虚拟信用卡：**<a href="https://yeka.ai/i/ANYOFAI">野卡（原WildCard升级版）</a>**。它操作简单，**无需月租**，仅需一个手机号即可轻松获取，并支持使用支付宝充值。然后，你就可以通过野卡虚拟信用卡为ChatGPT Plus充值了。
+由于开通ChatGPT Plus需要绑定信用卡，而OpenAI尚未向中国用户开放，因此国内的Visa和MasterCard信用卡均无法用于购买ChatGPT Plus会员，甚至中国香港的信用卡也无法使用。接下来，我们推荐一款安全、好用的虚拟信用卡：**<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡虚拟信用卡</a>**。它操作简单，**无需月租**，仅需一个手机号即可轻松获取，并支持使用支付宝充值。然后，你就可以通过野卡虚拟信用卡为ChatGPT Plus充值了。
 
 野卡（原WildCard升级版）是国内最知名的虚拟信用卡平台，不仅可以用于订阅ChatGPT Plus，还支持支付OpenAI API、ChatGPT Pro、Claude Pro、Midjourney、OnlyFans、Apple App Store、Google Play、YouTube、Facebook、Spotify、GitHub、Poe、Perplexity、Suno等平台。此外，野卡虚拟信用卡没有月租，可以长期使用，非常方便。
 
