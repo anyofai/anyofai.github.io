@@ -458,3 +458,8 @@ OK，这就是在国内购买ChatGPT Plus的完整流程。通过这种方式，
 * <a href="https://github.com/anyofai/suno">Suno订阅</a>：提供订阅Suno AI会员的详细操作步骤，以及Suno AI音乐创作的使用指南！
 * <a href="https://github.com/anyofai/sora">Sora订阅</a>：包含订阅Sora的详细操作步骤和Sora的使用方法！
 * <a href="https://github.com/anyofai/poe">Poe订阅</a>：包含国内订阅POE会员的详细操作步骤，以及如何购买POE合租账号的指南！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-4.5、DeepSeek-R1、Grok-3和Gemini-2 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保！每月仅需20元！
+* <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：最新的ChatGPT账号注册详细操作步骤，以及ChatGPT成品账号购买指南！
+* <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>：推荐最稳定可靠的ChatGPT Plus代充值平台，价格优惠，信誉有保障。
+* <a href="https://anyofai.github.io/">WildCard野卡虚拟信用卡</a>：详细解答“WildCard野卡怎么样”和“WildCard野卡安全吗”等常见问题。
