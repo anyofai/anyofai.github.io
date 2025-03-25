@@ -48,13 +48,13 @@
 
 ![“ChatGPT Plus购买”之“如何快速获取野卡Yeka虚拟信用卡”第四步：设置登录密码](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/Yeka-4.png)
 
-### 第五步：点击左侧的“立即开通”，随后再点击“继续开头”。
+### 第五步：点击左侧的“立即开通”，随后再点击“继续开通”。
 
-![“ChatGPT Plus充值”之“如何快速获取野卡Yeka虚拟信用卡”第五步：点击左侧的“立即开通”，随后再点击“继续开头”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/Yeka-5.png)
+![“ChatGPT Plus充值”之“如何快速获取野卡Yeka虚拟信用卡”第五步：点击左侧的“立即开通”，随后再点击“继续开通”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/Yeka-5.png)
 
-### 第六步：直接点击“开头会员”。
+### 第六步：直接点击“开通会员”。
 
-![“ChatGPT Plus充值”之“如何快速获取野卡Yeka虚拟信用卡”第六步：直接点击“开头会员”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/Yeka-6.png)
+![“ChatGPT Plus充值”之“如何快速获取野卡Yeka虚拟信用卡”第六步：直接点击“开通会员”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/Yeka-6.png)
 
 ### 第七步：选择服务年限，输入专属邀请码“ANYOFAI”，并按照系统的提示使用支付宝支付开卡费。
 
