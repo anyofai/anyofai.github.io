@@ -149,6 +149,8 @@ WildCard野卡平台推出的“2233.ai随心用”服务是为了解决很多�
 
 ### 二、提供专属的“API随心用”服务
 
+![](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-12.png)
+
 除了“2233.ai随心用”，WildCard野卡还提供“API随心用”服务，专为需要调用AI接口的开发者和企业用户设计。通过这项服务，你可以轻松获取OpenAI、Claude等平台的API权限，无需为复杂的国际支付和网络环境而烦恼。“API随心用”采用灵活的token计费方式，你可以根据实际需求购买相应的token额度，避免了传统月付模式可能造成的资源浪费。WildCard野卡平台还提供实时的token使用监控，让你能清晰掌握消费情况，避免意外超支。对于开发者来说，这项服务不仅简化了接入流程，还通过优化的网络环境确保API调用稳定可靠，让你的AI应用开发更加顺畅高效。
 
 ### 三、一键订阅ChatGPT Plus会员
