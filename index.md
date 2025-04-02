@@ -153,7 +153,7 @@ WildCard野卡平台推出的“2233.ai随心用”服务是为了解决很多�
 
 除了“2233.ai随心用”，WildCard野卡还提供“API随心用”服务，专为需要调用AI接口的开发者和企业用户设计。通过这项服务，你可以轻松获取OpenAI、Claude等平台的API权限，无需为复杂的国际支付和网络环境而烦恼。“API随心用”采用灵活的token计费方式，你可以根据实际需求购买相应的token额度，避免了传统月付模式可能造成的资源浪费。WildCard野卡平台还提供实时的token使用监控，让你能清晰掌握消费情况，避免意外超支。对于开发者来说，这项服务不仅简化了接入流程，还通过优化的网络环境确保API调用稳定可靠，让你的AI应用开发更加顺畅高效。
 
-### 三、一键订阅ChatGPT Plus会员
+### 三、支持一键订阅ChatGPT Plus会员
 
 ![WildCard野卡虚拟信用卡能用来干什么（三）：一键订阅ChatGPT Plus会员](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-13.png)
 
@@ -161,7 +161,7 @@ ChatGPT Plus是OpenAI推出的付费订阅服务，每月20美元，可以让你
 
 <p align="center">查看更多：<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus充值</a></p>
 
-### 四、一键订阅Midjourney会员
+### 四、支持一键订阅Midjourney会员
 
 ![WildCard野卡虚拟信用卡能用来干什么（四）：一键订阅Midjourney会员](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-14.png)
 
@@ -169,7 +169,7 @@ Midjourney是目前最强大的AI绘图工具之一，能根据文字描述生�
 
 <p align="center">查看更多：<a href="https://github.com/anyofai/midjourney">开通Midjourney会员</a></p>
 
-### 五、一键订阅Poe会员
+### 五、支持一键订阅Poe会员
 
 ![WildCard野卡虚拟信用卡能用来干什么（五）：一键订阅Poe会员](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-15.png)
 
@@ -177,7 +177,7 @@ Poe是Quora推出的一款集成了多种AI模型的聊天平台，允许用户�
 
 <p align="center">查看更多：<a href="https://github.com/anyofai/poe">购买Poe会员</a></p>
 
-### 六、订阅其他AI工具会员
+### 六、支持订阅其他AI工具会员
 
 ![WildCard野卡虚拟信用卡能用来干什么（六）：订阅其他AI工具会员](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-16.png)
 
@@ -185,7 +185,7 @@ Poe是Quora推出的一款集成了多种AI模型的聊天平台，允许用户�
 
 <p align="center">查看更多：<a href="https://github.com/anyofai/claude-pro">Claude Pro购买</a>、<a href="https://github.com/anyofai/x-twitter">X Premium订阅</a></p>
 
-### 七、订阅其他流媒体或社交会员
+### 七、支持订阅其他流媒体或社交会员
 
 ![WildCard野卡虚拟信用卡能用来干什么（七）：订阅其他流媒体或社交会员](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-17.png)
 
