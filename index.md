@@ -12,7 +12,7 @@ description: 本文将详细解答WildCard野卡虚拟信用卡怎么样、WildC
 
 小贴士：WildCard野卡虚拟信用卡特点包括零门槛办理、无需实名认证（无KYC认证）、一分钟开卡、支持支付宝（人民币）充值、没有月租和管理费、卡内余额可随时提现，并且支持一键订阅ChatGPT Plus和Claude Pro等各类海外平台！我们已经使用WildCard野卡虚拟信用卡大半年，非常安全稳定，绝对值得信赖。<a href="https://yeka.ai/i/ANYOFAI">立即访问WildCard野卡官网</a>（使用邀请码“ANYOFAI”开卡费立减1美金）。
 
-注意：本文为WildCard野卡虚拟信用卡的开卡教程，如果你想查看各个AI工具（ChatGPT、Claude、Midjourney、Grok、Poe等）的订阅教程，请点击：<a href="https://github.com/anyofai">ANYOFAI</a>
+注意：本文为WildCard野卡虚拟信用卡的开卡教程，如果你想查看各个AI工具的订阅和合租教程，请点击：<a href="https://github.com/anyofai">ANYOFAI</a>
 
 <blockquote>
   <h2 id="本文内容导航">本文内容导航</h2>
