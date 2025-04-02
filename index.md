@@ -191,7 +191,7 @@ Poe是Quora推出的一款集成了多种AI模型的聊天平台，允许用户�
 
 WildCard野卡虚拟信用卡的用途远不止于AI工具会员的订阅，它还能帮你订阅各种流媒体和社交平台的会员服务。它支持的平台包括但不限于：Netflix、Disney+、Hulu、HBO Max、Amazon Prime Video、YouTube Premium、Spotify Premium、Apple Music、OnlyFans、Tinder Plus、Twitch、Patreon、LinkedIn Premium、Coursera、Udemy、Apple App Store充值、Google Play Store充值、Microsoft 365、Adobe Creative Cloud、Steam、Epic Games、PlayStation Network、Xbox Live、Discord Nitro、Dropbox、Office 365、iCloud+、Facebook广告、Google广告、Twitter/X广告、LinkedIn广告等。无论你是想享受优质的流媒体内容、学习在线课程、购买数字游戏，还是为你的应用或网站投放广告，WildCard野卡都能满足你的需求。这使得WildCard成为一张真正的全能卡，几乎覆盖了你可能遇到的所有海外支付场景。
 
-<p align="center">查看更多：<a href="https://github.com/anyofai/onlyfans">OnlyFans怎么玩</a>、<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>、<a href="https://github.com/anyofai/youtube-premium">油管合租</a></p>
+<p align="center">查看更多：<a href="https://github.com/anyofai/onlyfans">OnlyFans怎么玩</a>、<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>、<a href="https://github.com/anyofai/youtube-premium">油管合租</a>、<a href="https://github.com/anyofai/midjourney-hezu">Midjourney拼车</a></p>
 
 ### 八、提供“OpenAI API网络转发”服务
 
