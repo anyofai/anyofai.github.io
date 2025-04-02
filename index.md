@@ -117,9 +117,9 @@ OK，截止到目前为止，你已经成功地获取到了一张WildCard野卡�
 
 值得一提的是，WildCard野卡虚拟信用卡的余额可以随时提现回支付宝或微信，而且不收任何手续费。这样即使你充值后改变主意不想用了，钱也不会被锁在卡里，你可以灵活安排自己的资金。
 
-### 第一步： 分别点击“充值”和“线上充值”按钮。
+### 第一步：打开WildCard野卡官网，分别点击“充值”和“线上充值”按钮。
 
-* WildCard野卡官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a> （使用本站专属邀请码“ANYOFAI”开卡费可立减1美金）
+* WildCard野卡官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
 ![使用支付宝为WildCard野卡虚拟信用卡充值第一步：分别点击“充值”和“线上充值”按钮](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-8.png)
 
