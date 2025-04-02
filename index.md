@@ -89,19 +89,19 @@ WildCard野卡官网还集成了智能客服系统，用户在遇到问题时可
 
 ![开通WildCard野卡虚拟信用卡第二步：点击“开通会员”按钮](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-4.png)
 
-### 第三步：选择服务年限，输入邀请码“ANYOFAI”并支付野卡开卡费。
+### 第三步：选择服务年限，输入邀请码“ANYOFAI”并支付WildCard野卡开卡费。
 
 注意：这里收取的是野卡虚拟信用卡的开卡费，使用邀请码“ANYOFAI”可享受开卡费立减1美金的优惠。除此之外，野卡不会再收取任何其他费用，例如月租或管理费。
 
 ![开通WildCard野卡虚拟信用卡第三步：选择服务年限，输入邀请码“ANYOFAI”并支付野卡开卡费](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-5.png)
 
-### 第四步：完善个人信息，点击“完成认证”即可成功开通野卡虚拟信用卡。
+### 第四步：完善个人信息，点击“完成认证”即可成功开通WildCard野卡虚拟信用卡。
 
 注意：如果你不想填写真实信息，可以随便写个姓名，不影响后续使用。此外，野卡平台可能会引导你进行实名认证，但如果你不想暴露隐私信息，可以直接点击“完成认证”即可成功开通野卡，此后你的月消费限额将为60美金；如果你根据野卡的提示完成后续实名认证，月消费限额可提升至3000美金。
 
 ![开通WildCard野卡虚拟信用卡第四步：完善个人信息，点击“完成认证”即可成功开通野卡虚拟信用卡](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-6.png)
 
-### 第五步：点击左侧“订阅服务”，即可查看野卡虚拟信用卡的所有详细信息。
+### 第五步：点击左侧“订阅服务”，即可查看WildCard野卡虚拟信用卡的所有详细信息。
 
 ![开通WildCard野卡虚拟信用卡第五步：点击左侧“订阅服务”，即可查看野卡虚拟信用卡的所有详细信息](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-7.png)
 
