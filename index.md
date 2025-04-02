@@ -230,7 +230,7 @@ WildCard野卡虚拟信用卡的开卡费用（即年费）根据你选择的服
 
 值得注意的是，对于老用户来说，WildCard野卡虚拟信用卡提供了更为优惠的续卡价格。当1年或者2年服务期满后，可以14.99美元的优惠价格开2年新卡，或者以9.99美元的价格开1年新卡。WildCard野卡虚拟信用卡的开卡费是一次性收取的，在有效期内不会再有额外的账户维护费用，让你无需担心隐藏收费问题。
 
-* <p align="center"><a href="https://yeka.ai/i/ANYOFAI">立即访问WildCard野卡官网</a></p>
+ <p align="center"><a href="https://yeka.ai/i/ANYOFAI">立即访问WildCard野卡官网</a></p>
 
 ### 二、WildCard野卡虚拟信用卡充值手续费
 
