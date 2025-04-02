@@ -141,6 +141,8 @@ WildCard野卡虚拟信用卡不仅能帮你订阅ChatGPT Plus、Claude Pro、Mi
 
 ### 一、提供专属的“2233.ai随心用”服务
 
+![](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-11.png)
+
 WildCard野卡平台推出的“2233.ai随心用”服务是为了解决很多用户想使用ChatGPT Plus和Claude Pro但又担心账号被封的问题。这项服务让你无需注册自己的账号，直接通过WildCard野卡平台就能使用ChatGPT Plus和Claude Pro的所有功能。你只需支付9.99美元就能享受到与原生ChatGPT Plus和Claude Pro完全一致的体验。“2233.ai随心用”最大的优势在于它保证了每位用户的对话记录独立存储，账户间互不干扰，保护你的隐私安全。同时，你无需担心网络限制或账号被封的问题，随时随地都能轻松使用这些服务，真正做到了即开即用、网络无忧、隐私保障，还能省下不少钱。
 
 <p align="center"><a href="https://yeka.ai/i/ANYOFAI">立即开始使用2233.ai随心用</a></p>
