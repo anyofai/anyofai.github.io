@@ -119,6 +119,8 @@ OK，截止到目前为止，你已经成功地获取到了一张WildCard野卡�
 
 ### 第一步： 分别点击“充值”和“线上充值”按钮。
 
+* WildCard野卡官网地址：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a> （使用本站专属邀请码“ANYOFAI”开卡费可立减1美金）
+
 ![使用支付宝为WildCard野卡虚拟信用卡充值第一步：分别点击“充值”和“线上充值”按钮](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-8.png)
 
 ### 第二步： 选择充值金额，并点击“去支付”。
