@@ -1,6 +1,6 @@
 # 最新ChatGPT Plus开通攻略：如何使用国内支付宝充值购买ChatGPT Plus帐号和ChatGPT Pro帐号？如何使用ChatGPT-4o图片生成功能？
 
-<p align="center">最近更新于：2025年4月6日</p>
+<p align="center">最近更新于：2025年5月19日</p>
 
 ![最新ChatGPT Plus开通攻略：如何使用国内支付宝充值购买ChatGPT Plus帐号和ChatGPT Pro帐号？如何使用ChatGPT-4o图片生成功能？](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
@@ -14,7 +14,7 @@
 
 本文将详细介绍如何快速获取一张海外虚拟信用卡，并通过该卡来充值ChatGPT Plus和ChatGPT Pro。此外，我们还将解答一些关于ChatGPT Plus合租账号及代充值服务的常见问题。
 
-注意：本教程经过亲测，真实有效。我们已经稳定使用ChatGPT Plus一年多，未曾遇到任何问题。此外，开通ChatGPT Plus的整个流程也只需十五分钟！
+注意：本教程经过亲测，真实有效。我们已经稳定使用ChatGPT Plus两年多，未曾遇到任何问题。此外，开通ChatGPT Plus的整个流程也只需十五分钟！
 
 ## 国内购买开通ChatGPT Plus会员帐号前准备工作
 
