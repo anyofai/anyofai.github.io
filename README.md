@@ -14,7 +14,7 @@
 
 </blockquote>
 
-注意：本文的重点是教大家如何快速获取一张海外虚拟信用卡，并通过该卡来充值ChatGPT Plus和ChatGPT Pro会员。如果你想了解更多关于购买ChatGPT Plus合租账号，或者ChatGPT Plus代充值服务的内容，请查看本文下方的详细介绍。
+注意：本文的重点是教大家如何快速获取一张海外虚拟信用卡，并通过该卡来充值ChatGPT Plus和ChatGPT Pro会员。如果你想了解更多关于购买ChatGPT Plus合租账号，或ChatGPT Plus代充值服务的内容，请查看本文下方的详细介绍。
 
 ## 国内购买开通ChatGPT Plus会员帐号前准备工作
 
