@@ -84,13 +84,13 @@ WildCard野卡是国内最知名的虚拟信用卡平台，不仅可以用于订
 
 ## ChatGPT Plus充值方法（一）：自动升级（推荐）
 
-为了帮助新手朋友在充值ChatGPT时避免常见错误，WildCard野卡特别推出了一键升级功能。通过该功能，用户无需手动输入信用卡信息或账单地址，只需将ChatGPT Plus订阅页面或ChatGPT Pro订阅页面的完整链接提交给WildCard野卡，后续步骤将由WildCard野卡自动完成。这不仅简化了操作流程，还大幅降低了信用卡被拒的风险，确保你能够顺利完成订阅升级。
+为了帮助国内新用户顺利完成ChatGPT Plus充值，WildCard野卡特别推出了一键升级功能。使用此功能，你无需手动输入信用卡信息或账单地址，只需将ChatGPT Plus或ChatGPT Pro的订阅页面完整链接提交给WildCard野卡平台，剩余步骤将由平台自动完成。这不仅简化了操作流程，还大幅降低了国内用户充值时信用卡被拒的风险，确保你能顺利完成ChatGPT Plus订阅升级。
 
-### 第一步：打开ChatGPT官网，并使用帐号密码登录，然后点击左下角的“升级套餐”。
+### 第一步：打开ChatGPT官网，并使用帐号密码登录，然后点击左上角的“升级”按钮。
 
 * ChatGPT官网地址：chatgpt.com
 
-![国内使用WildCard野卡虚拟信用卡自动充值购买ChatGPT Plus第一步：打开ChatGPT官网，并使用帐号密码登录，然后点击左下角的“升级套餐”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/10-ChatGPT%20Plus%E5%BC%80%E9%80%9A-%E5%8D%87%E7%BA%A7ChatGPT.jpg)
+![国内使用WildCard野卡虚拟信用卡自动充值购买ChatGPT Plus第一步：打开ChatGPT官网，并使用帐号密码登录，然后点击左上角的“升级”按钮。](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/10-ChatGPT%20Plus%E8%AE%A2%E9%98%85.png)
 
 ### 第二步：复制ChatGPT Plus订阅费用支付页面的完整网址。
 
