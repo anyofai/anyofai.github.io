@@ -56,39 +56,33 @@ WildCard野卡是国内最知名的虚拟信用卡平台，不仅可以用于订
 
 ![“ChatGPT Plus充值”之“如何快速获取WildCard野卡虚拟信用卡”第六步：直接点击“开通会员”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/Yeka-6.png)
 
-### 第七步：选择服务年限，输入专属邀请码“ANYOFAI”，并按照系统的提示使用支付宝支付开卡费。
+### 第七步：选择服务年限，输入专属邀请码"ANYOFAI"，并点击“下一步”按钮。
 
-市面上所有虚拟信用卡都需要收取年费，WildCard野卡也不例外。毕竟人家提供了服务，多少都要给点辛苦费，这个也是可以理解的。除了年费之外，WildCard野卡没有其他费用，**也没有月租**。WildCard野卡的年费也比较便宜，1年服务年费为11.99美元，2年为16.99美元。
+由于市面上所有虚拟信用卡都需要收取年费，WildCard野卡也不例外。毕竟人家提供了服务，多少都要给点辛苦费，这个也是可以理解的。除了年费之外，WildCard野卡没有其他费用，**也没有月租**。WildCard野卡的年费比较便宜，1年服务年费为11.99美元，2年为16.99美元。
 
 注意：使用邀请码“**ANYOFAI**”可立减1美元。你也可以通过我们提供的链接（ <a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a> ）进入WildCard野卡官网，邀请码将自动生效，1年年费仅需10.99美元。
 
-![“ChatGPT Plus订阅”之“如何快速获取WildCard野卡虚拟信用卡”第七步：选择服务年限，输入专属邀请码“ANYOFAI”，并按照系统的提示使用支付宝支付开卡费](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/Yeka-7.png)
+![“ChatGPT Plus订阅”之“如何快速获取WildCard野卡虚拟信用卡”第七步：选择服务年限，输入专属邀请码"ANYOFAI"，并点击“下一步”按钮。](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/Yeka-7.png)
 
-### 第八步：完善个人信息，点击“下一步”按钮。
+### 第八步：按照系统提示完成实名认证并支付WildCard野卡年费，即可获得一张可订阅ChatGPT Plus会员的海外虚拟信用卡了。
 
-![“ChatGPT Plus订阅”之“如何快速获取WildCard野卡虚拟信用卡”第八步：完善个人信息，点击“下一步”按钮](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/Yeka-8.png)
+接下来需要按照系统提示依次查看"重要服务说明"、"支持的产品列表"、"不支持的产品列表"和"OpenAI封禁须知"等信息。之后需要填写个人姓名和身份证号等信息，并按照系统提示使用支付宝完成实名认证，支付WildCard野卡信用卡年费。当你完成以上所有操作后，就可以看到"恭喜您开通卡片成功"的提示信息。
 
-### 第九步：点击“完成认证”。
+![“ChatGPT Plus订阅”之“如何快速获取WildCard野卡虚拟信用卡”第八步：按照系统提示完成实名认证并支付WildCard野卡年费，即可获得一张可订阅ChatGPT Plus会员的海外虚拟信用卡了。](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/8-ChatGPT%20Plus%E5%BC%80%E9%80%9A.png)
 
-注意：当你点击“完成认证”按钮后，系统会提示你输入真实姓名和身份证号进行实名认证。但实名认证并非必须，是否进行实名认证完全取决于你自己。如果不进行实名认证，你获取的WildCard野卡虚拟信用卡每月的消费额度仅为60美金；如果完成实名认证，则每月消费额度可提升至3000美金。如果你不想透露隐私信息，并且每月60美金已经够用的话，那么你完全可以不进行实名认证，直接按照接下来的步骤操作即可。
+### 第九步：点击"订阅服务"按钮，即可查看WildCard野卡信用卡的所有相关信息。
 
-![“GPT Plus充值”之“如何快速获取WildCard野卡虚拟信用卡”第九步：点击“完成认证”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/Yeka-9.png)
+![“GPT Plus充值”之“如何快速获取WildCard野卡虚拟信用卡”第九步：点击"订阅服务"按钮，即可查看WildCard野卡信用卡的所有相关信息。](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/9-ChatGPT%20Plus%E8%AE%A2%E9%98%85.png)
 
-### 第十步：点击“订阅服务”，选择你要订阅的产品并点击“查看卡片”。
+### 第十步：点击"充值"按钮，并使用支付宝为WildCard野卡充值。
 
-![“GPT Plus充值”之“如何快速获取WildCard野卡虚拟信用卡”第十步：点击“订阅服务”，选择你要订阅的产品并点击“查看卡片”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/Yeka-10.png)
+由于WildCard野卡信用卡采用预付费模式，不同于传统信用卡的"先消费后还款"，用户需要先往WildCard野卡信用卡中充值，然后才能正常消费。
 
-### 第十一步：点击“充值”按钮，并使用支付宝为WildCard野卡充值。
+众所周知，ChatGPT Plus的订阅费用为每月20美元，ChatGPT Pro的订阅费用为每月200美元。因此，如果你想订阅ChatGPT Plus会员，那么充值金额必须大于或等于20美元；如果你想订阅ChatGPT Pro会员，那么充值金额必须大于或等于200美元。
 
-注意：由于ChatGPT Plus的订阅费用为每月20美金，ChatGPT Pro的订阅费用为每月200美金。因此，如果你想为ChatGPT Plus充值，那么充值金额必须大于或等于20美金；如果你想为ChatGPT Pro充值，那么充值金额必须大于或等于200美金。
+![“GPT Plus充值”之“如何快速获取WildCard野卡虚拟信用卡”第十步：点击"充值"按钮，并使用支付宝为WildCard野卡充值。](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/10-ChatGPT%20Plus%E8%B4%AD%E4%B9%B0.png)
 
-![“GPT Plus充值”之“如何快速获取WildCard野卡虚拟信用卡”第十一步：点击“充值”按钮，并使用支付宝为WildCard野卡充值](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/Yeka-11.png)
-
-OK，截至到目前为止，你已经成功获取了一张WildCard野卡虚拟信用卡，现在可以使用它为ChatGPT Plus充值了。
-
-接下来，我们将为大家介绍两种常用的ChatGPT Plus充值方式：第一种是通过WildCard野卡后台的一键升级功能；第二种是在ChatGPT的官方后台进行手动升级。
-
-对于绝大多数普通用户来说，我们推荐使用WildCard野卡后台的一键升级功能。这种方式不仅操作简单，成功率高达100%，几乎没有失败的风险，避免了手动操作带来的不确定性和麻烦。
+恭喜！当完成以上所有操作步骤后，你你已经成功获取了一张WildCard野卡虚拟信用卡，现在可以开始为ChatGPT Plus充值了。国内用户目前有两种为ChatGPT Plus充值的方法：**一是通过WildCard野卡后台的一键升级功能；二是在ChatGPT官方后台进行手动升级**。对于大多数普通用户，我们推荐使用WildCard野卡后台的一键升级功能。这种方式操作简单，成功率高达100%，几乎没有失败风险，能够避免手动操作带来的不确定性和麻烦。
 
 ## ChatGPT Plus充值方法（一）：自动升级（推荐）
 
