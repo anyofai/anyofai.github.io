@@ -64,7 +64,7 @@ WildCard野卡是国内最知名的虚拟信用卡平台，不仅可以用于订
 
 ![“ChatGPT Plus订阅”之“如何快速获取WildCard野卡虚拟信用卡”第七步：选择服务年限，输入专属邀请码"ANYOFAI"，并点击“下一步”按钮。](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/Yeka-7.png)
 
-### 第八步：按照系统提示完成实名认证并支付WildCard野卡年费，即可获得一张可订阅ChatGPT Plus会员的海外虚拟信用卡了。
+### 第八步：按照系统提示完成实名认证并支付WildCard野卡年费。
 
 接下来需要按照系统提示依次查看"重要服务说明"、"支持的产品列表"、"不支持的产品列表"和"OpenAI封禁须知"等信息。之后需要填写个人姓名和身份证号等信息，并按照系统提示使用支付宝完成实名认证，支付WildCard野卡信用卡年费。当你完成以上所有操作后，就可以看到"恭喜您开通卡片成功"的提示信息。
 
