@@ -76,9 +76,7 @@ WildCard野卡是国内最知名的虚拟信用卡平台，不仅可以用于订
 
 ### 第十步：点击"充值"按钮，并使用支付宝为WildCard野卡充值。
 
-由于WildCard野卡信用卡采用预付费模式，不同于传统信用卡的"先消费后还款"，用户需要先往WildCard野卡信用卡中充值，然后才能正常消费。
-
-众所周知，ChatGPT Plus的订阅费用为每月20美元，ChatGPT Pro的订阅费用为每月200美元。因此，如果你想订阅ChatGPT Plus会员，那么充值金额必须大于或等于20美元；如果你想订阅ChatGPT Pro会员，那么充值金额必须大于或等于200美元。
+由于WildCard野卡信用卡采用预付费模式，不同于传统信用卡的"先消费后还款"，所以用户需要先往WildCard野卡信用卡中充值，然后才能正常消费。又因为ChatGPT Plus的订阅费用为每月20美元，ChatGPT Pro的订阅费用为每月200美元。因此，如果你想订阅ChatGPT Plus会员，那么充值金额必须大于或等于20美元；如果你想订阅ChatGPT Pro会员，那么充值金额必须大于或等于200美元。
 
 ![“GPT Plus充值”之“如何快速获取WildCard野卡虚拟信用卡”第十步：点击"充值"按钮，并使用支付宝为WildCard野卡充值。](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/10-ChatGPT%20Plus%E8%B4%AD%E4%B9%B0.png)
 
