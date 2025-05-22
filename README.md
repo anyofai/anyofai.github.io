@@ -110,15 +110,15 @@ WildCard野卡是国内最知名的虚拟信用卡平台，不仅可以用于订
 
 ![国内使用WildCard野卡虚拟信用卡自动充值购买ChatGPT Plus第五步：按照系统提示完成后续操作，即可成功升级开通ChatGPT Plus或者ChatGPT Pro](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/13-ChatGPT%20Plus%E5%BC%80%E9%80%9A%E6%88%90%E5%8A%9F.jpg)
 
-小结：通过这种方式购买ChatGPT Plus后，每个月只需向WildCard野卡虚拟信用卡充值20美元（ChatGPT Pro用户需要充值200美金），剩余步骤将由WildCard野卡平台自动完成，无需额外操作。整个过程简单高效，让你轻松享受ChatGPT Plus服务，无需担心繁琐的后续流程。
+小结：通过这种方式购买ChatGPT Plus后，以后每个月只需往WildCard野卡中充值20美元（ChatGPT Pro用户需要充值200美元），剩余的续订步骤将由WildCard野卡平台自动完成，你无需进行任何其他操作。
 
 ## 国内GPT Plus充值方法（二）：手动升级
 
-如果你已经是ChatGPT的老用户，或者对ChatGPT Plus购买流程非常熟悉，那么也可以选择在ChatGPT后台手动升级至Plus。同时，我们需要提醒大家的是，一定要准确填写虚拟信用卡信息，并确保账单地址与虚拟信用卡的账单地址保持一致，以避免支付失败。
+如果你已经是ChatGPT的老用户，或者对ChatGPT Plus购买流程非常熟悉，那么也可以选择在ChatGPT后台手动升级至Plus会员。同时，我们需要提醒大家，一定要准确填写WildCard野卡信用卡信息，并确保账单地址与虚拟信用卡的账单地址保持一致，以避免支付失败。
 
-### 第一步：打开ChatGPT官网，使用你的ChatGPT账号登录，并点击左下角的“升级套餐”。
+### 第一步：打开ChatGPT官网，使用你的ChatGPT账号登录，并点击左上角的“升级”按钮。
 
-![在中国手动开通ChatGPT Plus帐号第一步：打开ChatGPT官网，使用你的ChatGPT账号登录，并点击左下角的“升级套餐”](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/10-ChatGPT%20Plus%E5%BC%80%E9%80%9A-%E5%8D%87%E7%BA%A7ChatGPT.jpg)
+![在中国手动开通ChatGPT Plus帐号第一步：打开ChatGPT官网，使用你的ChatGPT账号登录，并点击左上角的“升级”按钮。](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/10-ChatGPT%20Plus%E8%AE%A2%E9%98%85.png)
 
 ### 第二步：输入WildCard野卡虚拟信用卡信息，并点击“订阅”按钮。
 
@@ -128,7 +128,7 @@ WildCard野卡是国内最知名的虚拟信用卡平台，不仅可以用于订
 
 ![在中国手动开通ChatGPT Plus帐号第三步：确认支付，即可成功开通ChatGPT Plus会员](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/13-ChatGPT%20Plus%E5%8D%87%E7%BA%A7-%E6%B3%A8%E5%86%8C%E6%88%90%E5%8A%9F.jpg)
 
-小结：许多新手朋友在通过这种方式开通ChatGPT Plus时，可能会遇到类似“充值ChatGPT Plus时信用卡被拒”的问题。如果你也遇到了这种情况，不必担心，本文下方提供了详细的解决方案，帮助你排查并解决问题。此外，你还可以直接联系野卡平台的在线客服，他们将为你提供及时的支持与指导，确保顺利完成ChatGPT Plus购买。
+小结：许多新手朋友在通过这种方式开通ChatGPT Plus时，可能会遇到类似“充值ChatGPT Plus时信用卡被拒”的问题。如果你也遇到了这种情况，不必担心，本文下方提供了详细的解决方案，帮助你排查并解决问题。此外，你还可以直接联系WildCard野卡平台的在线客服，他们将为你提供及时的支持与指导，确保顺利完成ChatGPT Plus购买。
 
 ## 国内充值购买ChatGPT Plus会员时信用卡被拒怎么办？
 
