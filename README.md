@@ -174,13 +174,15 @@ WildCard野卡是国内最知名的虚拟信用卡平台，不仅可以用于订
 
 不过，大家在选择ChatGPT Plus合租平台时一定要谨慎。我们建议你优先考虑"<a href="https://nf.video/BTgSc">银河录像局</a>"这样的大型专业平台。银河录像局成立于2019年，隶属于杭州崇宇信息科技有限公司，拥有正规的ICP备案(浙ICP备2022036459号)和经营许可证(浙B2-20230847)。该平台产品成交数已超过1000万，服务用户超过100万，业务覆盖100多个国家和地区。像银河录像局这样的正规平台通常有完善的账号管理系统和用户分流机制，能确保你获得良好的使用体验。
 
+注意：银河录像局不仅提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus拼车</a>服务，还提供<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro拼车</a>、<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>、<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>、<a href="https://github.com/anyofai/youtube-premium">YouTube Premium合租</a>、<a href="https://github.com/anyofai/spotify-hezu">Spotify合租</a>等服务！
+
 ![我可以购买ChatGPT Plus合租共享帐号吗？](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F.png)
 
 切记，千万不要为了省钱而选择个人卖家、小网店或社交媒体群组提供的ChatGPT Plus合租账号。这些非正规渠道提供的服务风险极大，不仅你的隐私安全得不到任何保障，而且使用ChatGPT时的所有聊天记录可能被其他合租者随意查看甚至删除。更严重的是，这类ChatGPT Plus合租账号由于缺乏专业管理，容易被OpenAI发现并封禁。此外，不良卖家还可能随时收回你的账号访问权限，让你既损失金钱又浪费时间。
 
 所以，如果你需要使用ChatGPT Plus合租服务，请务必选择安全可靠的大平台，不要因为贪图小便宜而选择不正规渠道，以免遭遇"人财两空"的遗憾结果。
 
-注意：银河录像局不仅提供<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus拼车</a>服务，还提供<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro拼车</a>、<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>、<a href="https://github.com/anyofai/netflix-hezu">Netflix合租</a>、<a href="https://github.com/anyofai/youtube-premium">YouTube Premium合租</a>、<a href="https://github.com/anyofai/spotify-hezu">Spotify合租</a>等服务！
+<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局</a></p>
 
 ## 国内ChatGPT Plus代充值靠谱吗？
 
