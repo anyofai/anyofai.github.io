@@ -196,7 +196,9 @@ WildCard野卡是国内最知名的虚拟信用卡平台，不仅可以用于订
 
 最后，要特别关注ChatGPT Plus代充值平台是否提供24小时在线客服支持，以及是否有完善的售后保障政策。比如ChatGPT Plus代充值失败之后是否有退款保障，以及ChatGPT Plus代充值成功之后，未来一段时间内若账号出现问题，平台是否愿意帮忙解决等。
 
-总的来说，在国内选择ChatGPT Plus代充值服务时，如果你选择"<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>"这样安全靠谱的大型平台，那么ChatGPT Plus代充值还是很可靠的。请不要为了省几块钱而选择那些个人运营或背景不明的小型ChatGPT Plus代充值服务商，这样做可能会带来不必要的风险。
+总的来说，在国内选择ChatGPT Plus代充值服务时，如果你选择"星际放映厅"这样安全靠谱的大型平台，那么ChatGPT Plus代充值还是很可靠的。请不要为了省几块钱而选择那些个人运营或背景不明的小型ChatGPT Plus代充值服务商，这样做可能会带来不必要的风险。
+
+<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问银河录像局</a></p>
 
 ## 国内充值购买ChatGPT Plus帐号时常见的问题
 
