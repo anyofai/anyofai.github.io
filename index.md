@@ -85,7 +85,7 @@ WildCard野卡官网还集成了智能客服系统，用户在遇到问题时可
 
 * WildCard野卡官网：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
-![开通WildCard野卡虚拟信用卡第一步：打开野卡官网，使用+86手机号完成帐号注册](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-2.png)
+![开通WildCard野卡虚拟信用卡第一步：打开WildCard野卡官网，使用+86手机号完成帐号注册](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-2.png)
 
 ### 第二步：依次点击“立即开通”和“开通会员”按钮。
 
@@ -97,15 +97,15 @@ WildCard野卡官网还集成了智能客服系统，用户在遇到问题时可
 
 注意：这里收取的是WildCard野卡虚拟信用卡的年费，使用邀请码“ANYOFAI”可享受开卡费立减1美金的优惠。除了年费之外，WildCard野卡没有其他费用，也没有月租。
 
-![开通WildCard野卡虚拟信用卡第三步：选择服务年限，输入邀请码“ANYOFAI”并支付野卡开卡费](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-5.png)
+![开通WildCard野卡虚拟信用卡第三步：选择服务年限，输入专属邀请码"ANYOFAI"，并点击“下一步”按钮](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-5.png)
 
 ### 第四步：按照系统提示完成实名认证并支付WildCard野卡年费。
 
-![开通WildCard野卡虚拟信用卡第四步：完善个人信息，点击“完成认证”即可成功开通野卡虚拟信用卡](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/8-ChatGPT%20Plus%E5%BC%80%E9%80%9A.png)
+![开通WildCard野卡虚拟信用卡第四步：按照系统提示完成实名认证并支付WildCard野卡年费](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/8-ChatGPT%20Plus%E5%BC%80%E9%80%9A.png)
 
 ### 第五步：点击左侧“订阅服务”，即可查看WildCard野卡虚拟信用卡的所有详细信息。
 
-![开通WildCard野卡虚拟信用卡第五步：点击左侧“订阅服务”，即可查看野卡虚拟信用卡的所有详细信息](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-7.png)
+![开通WildCard野卡虚拟信用卡第五步：点击左侧“订阅服务”，即可查看WildCard野卡虚拟信用卡的所有详细信息](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-7.png)
 
 OK，截止到目前为止，你已经成功地获取到了一张WildCard野卡虚拟信用卡（美国虚拟信用卡）！需要注意的是，WildCard野卡虚拟信用卡无法透支消费，这意味着你需要消费多少钱，就需要先往WildCard野卡虚拟信用卡中充值多少钱。接下来，我们将详细介绍如何给WildCard野卡虚拟信用卡充值！
 
@@ -171,7 +171,7 @@ Midjourney是目前最强大的AI绘图工具之一，能根据文字描述生�
 
 ![WildCard野卡虚拟信用卡能用来干什么（五）：一键订阅Poe会员](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/wildcard-yeka-15.png)
 
-Poe是Quora推出的一款集成了多种AI模型的聊天平台，允许用户在同一界面中与ChatGPT、Claude、Llama等不同的AI助手进行对话。Poe付费会员可以访问更高级的AI模型，享受更高的使用配额和更快的响应速度。对于想要比较不同AI模型表现或者需要同时使用多种AI助手的用户来说，Poe是一个理想的选择。使用WildCard野卡虚拟信用卡，你可以轻松一键订阅Poe会员服务。你只需将Poe的订阅页面完整URL提供给野卡平台，系统就会自动帮你完成整个订阅过程，成功率同样高达100%。
+Poe是Quora推出的一款集成了多种AI模型的聊天平台，允许用户在同一界面中与ChatGPT、Claude、Llama等不同的AI助手进行对话。Poe付费会员可以访问更高级的AI模型，享受更高的使用配额和更快的响应速度。对于想要比较不同AI模型表现或者需要同时使用多种AI助手的用户来说，Poe是一个理想的选择。使用WildCard野卡虚拟信用卡，你可以轻松一键订阅Poe会员服务。你只需将Poe的订阅页面完整URL提供给WildCard野卡平台，系统就会自动帮你完成整个订阅过程，成功率同样高达100%。
 
 <p align="center">查看更多：<a href="https://github.com/anyofai/poe">购买Poe会员</a></p>
 
@@ -350,9 +350,9 @@ WildCard野卡提供7×24小时的技术支持和客户服务，用户在使用�
 
 * 取消自动续费：许多订阅服务默认启用自动续费功能。在成功订阅后，建议用户根据需要及时取消自动扣款设置，以避免不必要的费用支出。如果不确定是否启用了自动续费，可以查看目标服务的账户设置并手动关闭。
 
-* 有问题及时联系客服：如果在使用过程中遇到问题，例如支付失败、账户异常或充值延迟，建议第一时间联系野卡平台的在线客服寻求帮助。野卡提供7×24小时在线客服服务，能够快速响应并解决用户的问题，为用户提供安心的使用体验。
+* 有问题及时联系客服：如果在使用过程中遇到问题，例如支付失败、账户异常或充值延迟，建议第一时间联系WildCard野卡平台的在线客服寻求帮助。WildCard野卡提供7×24小时在线客服服务，能够快速响应并解决用户的问题，为用户提供安心的使用体验。
 
-通过遵循上述注意事项，你可以更安全、高效地使用野卡虚拟信用卡，享受便捷的跨境支付服务。同时，养成良好的使用习惯不仅能保障账户安全，还能为你的消费体验提供更多便利和保障。如果有任何疑问，请随时联系野卡客服以获得支持。
+通过遵循上述注意事项，你可以更安全、高效地使用WildCard野卡虚拟信用卡，享受便捷的跨境支付服务。同时，养成良好的使用习惯不仅能保障账户安全，还能为你的消费体验提供更多便利和保障。如果有任何疑问，请随时联系WildCard野卡客服以获得支持。
 
 ## WildCard野卡虚拟信用卡常见问题答疑
 
@@ -408,7 +408,7 @@ WildCard野卡提供的这种灵活续期机制对长期使用国际服务的用
 
 WildCard野卡虚拟信用卡支持将卡内余额提现到支付宝，并且整个过程既快速又免费。无论你是因为充值过多还是暂时不需要使用WildCard野卡了，都可以轻松将资金提现回支付宝。WildCard野卡提现到支付宝的具体操作步骤如下：
 
-* 打开<a href="https://yeka.ai/i/ANYOFAI">野卡官网</a>并使用你的账号密码登录。
+* 打开<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡官网</a>并使用你的账号密码登录。
 * 在左侧导航栏中找到并点击“我的卡片”选项。
 * 在卡片管理界面，找到并点击“提现”按钮。
 * 在提现金额选项中，点击“全部提现”。
