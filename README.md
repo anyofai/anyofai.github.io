@@ -1,6 +1,14 @@
 # 最新ChatGPT Plus开通攻略：如何使用国内支付宝充值购买ChatGPT Plus帐号和ChatGPT Pro帐号？如何使用GPT-4o图片生成功能和最新的GPT-4.1系列模型？
 
-<p align="center">最近更新于：2025年7月10日</p>
+<p align="center">最近更新于：2025年7月12日</p>
+
+## ⚠️🚨🚨🚨⚠️关于“WildCard野卡跑路”的重要说明：
+
+很遗憾地通知大家，2025年7月12日中午，Wildcard野卡的官方群突然发布公告称，由于一些不可抗力因素，Wildcard将立即停止全部业务。
+
+也就是说，目前国内唯一可以用来给ChatGPT充值、而且我一直觉得非常好用的虚拟信用卡，现在也已经永久停止服务了。从今以后，国内普通用户想要订阅充值ChatGPT Plus会变得更加困难。
+
+我们目前也在积极寻找可以替代“WildCard野卡”的服务。但在找到最佳替代方案之前，大家可以先添加我们的微信好友，我们会为你提供一些订阅充值ChatGPT Plus会员的平替方案。
 
 ![最新ChatGPT Plus开通攻略：如何使用国内支付宝充值购买ChatGPT Plus帐号和ChatGPT Pro帐号？如何使用GPT-4o图片生成功能和最新的GPT-4.1系列模型？](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
