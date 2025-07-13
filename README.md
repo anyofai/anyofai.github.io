@@ -10,7 +10,13 @@
 
 也就是说，目前国内唯一可以用来给ChatGPT充值、而且我一直觉得非常好用的虚拟信用卡，现在也已经永久停止服务了。从今以后，国内普通用户想要订阅充值ChatGPT Plus会变得更加困难。
 
-我们目前也在积极寻找可以替代“WildCard野卡”的服务。但在找到最佳替代方案之前，大家可以先通过“**<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>**”和“**<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>**”等方式来继续使用ChatGPT，也可以加微信（VX：ANYOFAI），我们会为你提供一些订阅充值ChatGPT Plus会员的平替方案。
+我们正在积极寻找“WildCard野卡”的替代服务！在找到最佳方案前，你可以尝试以下解决方案：
+
+* 如果你使用ChatGPT频率较低，可以通过“**<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>**”的方式继续使用。
+
+* 如果你使用ChatGPT频率较高，可以通过“**<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>**”的方式继续使用。
+
+* 你也可以添加我们的微信（VX：ANYOFAI）获取当前可用的ChatGPT Plus订阅充值替代方案。
 
 </blockquote>
 
