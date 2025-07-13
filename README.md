@@ -16,7 +16,7 @@
 
 * 如果你使用ChatGPT频率较高，可以通过“**<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>**”的方式继续使用。
 
-* 你也可以添加我们的微信（VX：ANYOFAI）获取当前可用的ChatGPT Plus订阅充值替代方案。
+* 你也可以添加我们的微信（VX号：ANYOFAI）获取当前可用的ChatGPT Plus订阅充值替代方案。
 
 </blockquote>
 
