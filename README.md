@@ -2,6 +2,10 @@
 
 <p align="center">最近更新于：2025年7月12日</p>
 
+![最新ChatGPT Plus开通攻略：如何使用国内支付宝充值购买ChatGPT Plus帐号和ChatGPT Pro帐号？如何使用GPT-4o图片生成功能和最新的GPT-4.1系列模型？](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
+
+<blockquote>
+
 ## 🚨🚨🚨关于“WildCard野卡跑路”的重要说明：
 
 很遗憾地通知大家，2025年7月12日中午，Wildcard野卡的官方群突然发布公告称，由于一些不可抗力因素，Wildcard将立即停止全部业务。
@@ -10,7 +14,7 @@
 
 我们目前也在积极寻找可以替代“WildCard野卡”的服务。但在找到最佳替代方案之前，大家可以先添加我们的微信好友，我们会为你提供一些订阅充值ChatGPT Plus会员的平替方案。
 
-![最新ChatGPT Plus开通攻略：如何使用国内支付宝充值购买ChatGPT Plus帐号和ChatGPT Pro帐号？如何使用GPT-4o图片生成功能和最新的GPT-4.1系列模型？](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
+</blockquote>
 
 随着AI工具的日益普及，越来越多的中国用户希望能够开通ChatGPT Plus或ChatGPT Pro账号，以获得更优质的使用体验。ChatGPT Plus和Pro是付费升级版本，开通后可以解锁众多新功能，比如最新的**GPT-4o图片生成功能**和**GPT-4.1系列模型**。当升级到ChatGPT付费版本后，你将享受更稳定的服务，没有字数限制，响应速度更快，回答质量也更高，整体使用体验会有显著提升。
 
