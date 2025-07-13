@@ -6,7 +6,15 @@ description: 本文将详细解答WildCard野卡虚拟信用卡怎么样、WildC
 
 # 2025年最好用的虚拟信用卡推荐：WildCard野卡虚拟信用卡怎么样？WildCard野卡安全靠谱吗？
 
-<p align="center">最近更新于：2025年7月10日</p>
+<p align="center">最近更新于：2025年7月12日</p>
+
+#### 🚨🚨🚨关于“WildCard野卡跑路”的重要说明
+
+很遗憾地通知大家，2025年7月12日中午，Wildcard野卡的官方群突然发布公告称，由于一些不可抗力因素，Wildcard将立即停止全部业务。
+
+也就是说，目前国内唯一可以用来给ChatGPT充值、而且我一直觉得非常好用的虚拟信用卡，现在也已经永久停止服务了。从今以后，国内普通用户想要订阅充值ChatGPT Plus会变得更加困难。
+
+我们目前也在积极寻找可以替代“WildCard野卡”的服务。但在找到最佳替代方案之前，大家可以加我们微信（ VX号：ANYOFAI ），我们会为你提供一些订阅充值ChatGPT Plus会员的平替方案。
 
 ![最好用的虚拟信用卡推荐：WildCard野卡虚拟信用卡怎么样？WildCard野卡虚拟信用卡安全靠谱吗？](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/WildCard.png)
 
