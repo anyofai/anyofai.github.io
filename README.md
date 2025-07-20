@@ -14,7 +14,9 @@
 
 **方法二**：如果你使用ChatGPT Plus会员的频率较高，可以通过“**<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>**”的方式继续使用。
 
-注意：如果你需要**购买ChatGPT Plus原生独立帐号**的话，请查看“方法一”中的详细教程！我们也需要提醒大家的是，代充值ChatGPT Plus会员和购买ChatGPT Plus原生独立帐号是需要额外支付一点点手续费，这个大家应该也可以理解吧，毕竟人家也是提供了服务的。此外，如果你有自己充值订阅ChatGPT Plus会员的办法，也欢迎大家 + V （ VX号：ANYOFAI ）告诉我们一声，谢谢大家！
+注意：如果你需要**购买ChatGPT Plus原生独立帐号**的话，请查看“方法一”中的详细教程！我们也需要提醒大家的是，代充值ChatGPT Plus会员和购买ChatGPT Plus原生独立帐号是需要额外支付一点点手续费，这个大家应该也可以理解吧，毕竟人家也是提供了服务的。
+
+此外，如果你有自己充值订阅ChatGPT Plus会员的办法，也欢迎大家 + V （ VX号：ANYOFAI ）告诉我们一声，谢谢大家！
 
 </blockquote>
 
