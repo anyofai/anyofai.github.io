@@ -6,17 +6,15 @@
 
 #### 🚨🚨关于“WildCard野卡跑路（被迫停止运营）”的重要说明🚨🚨
 
-很遗憾地通知大家，2025年7月12日中午，Wildcard野卡的官方群突然发布公告称，由于一些不可抗力因素，Wildcard将立即停止全部业务。
+非常遗憾地通知大家，2025年7月12日中午，Wildcard野卡的官方群突然发布公告称，由于一些不可抗力因素，Wildcard将立即停止全部业务。也就是说，目前国内唯一可以用来给ChatGPT充值、而且我一直觉得非常好用的虚拟信用卡，现在也已经永久停止服务了。从今以后，国内用户若想订阅充值ChatGPT Plus会员将变得更加困难。
 
-也就是说，目前国内唯一可以用来给ChatGPT充值、而且我一直觉得非常好用的虚拟信用卡，现在也已经永久停止服务了。从今以后，国内普通用户想要订阅充值ChatGPT Plus会变得更加困难。
+目前我们正在积极地寻找可以完美替代“WildCard野卡”的虚拟信用卡！但在此之前，大家可以通过以下两种方式来继续使用ChatGPT Plus会员。
 
-我们正在积极寻找“WildCard野卡”的替代服务！在找到最佳方案前，你可以尝试以下解决方案：
+方法一：如果你使用ChatGPT Plus会员的频率较低，可以通过“**<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>**”的方式继续使用。
 
-* 如果你使用ChatGPT频率较低，可以通过“**<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>**”的方式继续使用。
+方法二：如果你使用ChatGPT Plus会员的频率较高，可以通过“**<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>**”的方式继续使用。
 
-* 如果你使用ChatGPT频率较高，可以通过“**<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>**”的方式继续使用。
-
-* 你也可以添加我们的微信（VX号：ANYOFAI ）获取当前可用的ChatGPT Plus订阅充值替代方案。
+注意：如果你需要**购买ChatGPT Plus原生独立帐号**的话，请查看“方法一”中的详细教程！我们也需要提醒大家的是，代充值ChatGPT Plus会员和购买ChatGPT Plus原生独立帐号是需要额外支付一点点手续费，这个大家应该也可以理解吧，毕竟人家也是提供了服务的。此外，如果你有自己充值订阅ChatGPT Plus会员的办法，也欢迎大家 + V （ VX号：ANYOFAI ）告诉我们一声，谢谢大家！
 
 </blockquote>
 
