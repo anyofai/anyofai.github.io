@@ -10,11 +10,11 @@
 
 目前我们正在积极地寻找可以完美替代“WildCard野卡”的虚拟信用卡！但在此之前，大家可以通过以下两种方式来继续使用ChatGPT Plus会员。
 
-**方法一**：如果你使用ChatGPT Plus会员的频率较低，可以通过“**<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>**”的方式继续使用。
+* **方法一**：通过专业的第三方平台来合租ChatGPT Plus会员（即ChatGPT Plus镜像站）！该方法无需科学上网，无需注册ChatGPT帐号，也不会有封号的风险，而且价格也非常便宜，每月仅需27元，非常适合ChatGPT Plus轻度用户使用！更多详情请查看：**<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>**！
 
-**方法二**：如果你使用ChatGPT Plus会员的频率较高，可以通过“**<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>**”的方式继续使用。
+* **方法二**：通过专业的ChatGPT Plus代充值平台来为你现有的ChatGPT帐号充值，或者直接购买ChatGPT Plus原生独立帐号！该方式可以让你继续使用ChatGPT Plus会员的所有功能和服务，没有任何限制，非常适合ChatGPT Plus重度用户！更多详情请查看：**<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>**！
 
-注意：如果你需要**购买ChatGPT Plus原生独立帐号**的话，请查看“方法一”中的详细教程！我们也需要提醒大家的是，代充值ChatGPT Plus会员和购买ChatGPT Plus原生独立帐号是需要额外支付一点点手续费，这个大家应该也可以理解吧，毕竟人家也是提供了服务的。
+注意：代充值ChatGPT Plus会员和购买ChatGPT Plus原生独立帐号是需要额外支付一点点手续费，这个大家应该也可以理解吧，毕竟人家也是提供了服务的。
 
 如果你有自己充值订阅ChatGPT Plus会员的办法，欢迎大家 + V （ VX号：ANYOFAI ）告诉我们一声，谢谢！
 
