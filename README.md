@@ -1,10 +1,10 @@
 # 最新ChatGPT Plus开通攻略：如何使用国内支付宝充值购买ChatGPT Plus帐号和ChatGPT Pro帐号？如何使用GPT-4o图片生成功能和最新的GPT-4.1系列模型？
 
-<p align="center">最近更新于：2025年7月12日</p>
+<p align="center">最近更新于：2025年7月20日</p>
 
 <blockquote>
 
-#### 🚨🚨关于“WildCard野卡跑路”的重要说明🚨🚨
+#### 🚨🚨关于“WildCard野卡跑路（被迫停止运营）”的重要说明🚨🚨
 
 很遗憾地通知大家，2025年7月12日中午，Wildcard野卡的官方群突然发布公告称，由于一些不可抗力因素，Wildcard将立即停止全部业务。
 
