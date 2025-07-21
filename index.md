@@ -20,9 +20,9 @@ description: 本文将详细解答WildCard野卡虚拟信用卡怎么样、WildC
 
 注意：通过以上两个方法，无论你是直接购买ChatGPT Plus原生独立账号，还是为自己的ChatGPT账号代充值，每个月都只需要152元。这个价格与此前通过WildCard野卡订阅ChatGPT Plus会员的费用基本一致。
 
-* 使用Claude Pro的方法（一）：通过专业的第三方平台来合租Claude Pro会员（即Cluade Pro镜像站）！该方法无需科学上网，无需注册Claude帐号，也不会有封号的风险，而且价格也非常便宜，低至8元起，非常适合Claude Pro轻度用户使用！更多详情请查看：<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>！
+* 国内使用Claude Pro的方法（一）：通过专业的第三方平台来合租Claude Pro会员（即Cluade Pro镜像站）！该方法无需科学上网，无需注册Claude帐号，也不会有封号的风险，而且价格也非常便宜，低至8元起，非常适合Claude Pro轻度用户使用！更多详细介绍请查看：<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>！
 
-* 使用Claude Pro的方法（二）：通过专业的Claude Pro代充值平台来为你现有的Claude帐号充值，或者直接购买Claude Pro原生独立帐号！该方式可以让你继续使用Claude Pro会员的所有功能和服务，没有任何限制，非常适合Cluade Pro重度用户！更多详情请查看：<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>！
+* 国内使用Claude Pro的方法（二）：通过专业的Claude Pro代充值平台来为你现有的Claude帐号充值，或者直接购买Claude Pro原生独立帐号！该方式可以让你继续使用Claude Pro会员的所有功能和服务，没有任何限制，非常适合Cluade Pro重度用户！更多详情请查看：<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>！
 
 最后，如果你有自己充值订阅ChatGPT Plus、ClaudePro等会员的办法，欢迎大家 + V （ VX号：ANYOFAI ）告诉我们一声，谢谢！
 
