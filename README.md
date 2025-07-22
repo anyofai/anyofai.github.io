@@ -14,7 +14,7 @@
 
 * **方法二**：通过专业的ChatGPT Plus代充值平台来为你现有的ChatGPT帐号充值，或者直接购买ChatGPT Plus原生独立帐号！该方式可以让你继续使用ChatGPT Plus会员的所有功能和服务，没有任何限制，非常适合ChatGPT Plus重度用户使用！更多详情请查看：**<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>**！
 
-注意：**通过以上两种方法去购买ChatGPT Plus原生独立账号或者为自己的ChatGPT账号代充值，每个月都只需要152元**。这个价格与此前通过WildCard野卡订阅ChatGPT Plus会员的费用基本一致。
+注意：**如果你通过以上两种方法去购买ChatGPT Plus原生独立账号或者为自己的ChatGPT账号代充值的话，每个月都只需要152元**。这个价格与此前通过WildCard野卡订阅ChatGPT Plus会员的费用基本一致。
 
 如果你有自己充值订阅ChatGPT Plus会员的办法，欢迎大家 + V （ VX号：ANYOFAI ）告诉我们一声，谢谢！
 
