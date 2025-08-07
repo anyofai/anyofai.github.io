@@ -1,6 +1,6 @@
 # 最新ChatGPT Plus开通攻略：如何使用国内支付宝充值购买ChatGPT Plus帐号和ChatGPT Pro帐号？如何使用GPT-4o图片生成功能和最新的GPT-4.1系列模型？
 
-<p align="center">最近更新于：2025年8月4日</p>
+<p align="center">最近更新于：2025年8月7日</p>
 
 <blockquote>
 
