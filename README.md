@@ -182,7 +182,9 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内购买
 
 在iPhone或iPad设备上打开ChatGPT客户端，使用你的ChatGPT帐号登录，然后点击“升级到ChatGPT Plus”选项。接下来系统会自动跳转到Apple订阅支付页面，并从你的App Store账户余额中扣款。让支付成功后，你的ChatGPT账号将自动升级为Plus会员。
 
-![](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%8B%B9%E6%9E%9CApple%E7%A4%BC%E5%93%81%E5%8D%A1%E5%85%85%E5%80%BCChatGPT%20Plus%E4%BC%9A%E5%91%98-4.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%8B%B9%E6%9E%9CApple%E7%A4%BC%E5%93%81%E5%8D%A1%E5%85%85%E5%80%BCChatGPT%20Plus%E4%BC%9A%E5%91%98-4.png" alt="">
+</div>
 
 注意：如果你非常喜欢折腾，那么也可以自己动手注册一个美区Apple ID帐号，再去苹果官网或支付宝中购买美区苹果Apple礼品卡。但这整个流程操作起来较为复杂，很多新手可能难以完成。因此我们建议新手直接通过银河录像局购买美区Apple ID帐号，再通过环球巴士购买美区苹果Apple礼品卡，这样流程更简洁，即使是技术小白也能轻松操作。
 
