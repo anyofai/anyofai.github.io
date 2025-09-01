@@ -36,11 +36,11 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内购买
 
 银河录像局的业务规模在行业内堪称标杆。截至目前，银河录像局累计完成交易超过1000万笔，服务用户突破100万人，用户分布在全球100多个国家和地区。银河录像局不仅提供Netflix、YouTube、Disney、Spotify、HBO Max、Prime Video、TV伴侣等流媒体合租服务，还覆盖ChatGPT、Claude、Midjourney、SuperGrok等AI工具的合租与代充值服务。在支付方式上，银河录像局支持支付宝付款，对国内用户来说十分方便。
 
-银河录像局提供的“银河AI”服务，**无需科学上网，无需注册ChatGPT帐号，也不存在封号风险**。现在使用银河录像局优惠码“ANYOFAI”还能享受九折优惠，合租ChatGPT Plus帐号的价格低至26元/月，并且支持使用GPT-5、GPT-4o、DeepSeek-R1、Grok-4、Gemini-2.5 Pro等主流AI大模型。
+银河录像局提供的“银河AI”服务（即ChatGPT Plus镜像服务），**无需科学上网，无需注册ChatGPT帐号，也不存在封号风险**。现在使用银河录像局优惠码“ANYOFAI”还能享受九折优惠，合租ChatGPT Plus帐号的价格低至26元/月，并且支持使用GPT-5、GPT-4o、DeepSeek-R1、Grok-4、Gemini-2.5 Pro等主流AI大模型。
 
 ![](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
 
-银河录像局同样提供原生ChatGPT Plus帐号合租服务，用户可以体验ChatGPT Plus会员的所有功能，而且价格也非常实惠，每月仅需35元。同时，银河录像局配备24小时在线客服，用户在使用过程中遇到任何问题都可以随时寻求帮助。
+银河录像局同样提供**原生ChatGPT Plus帐号合租**服务，用户可以体验ChatGPT Plus会员的所有功能，而且价格也非常实惠，每月仅需35元。同时，银河录像局配备24小时在线客服，用户在使用过程中遇到任何问题都可以随时寻求帮助。
 
 注意：合租ChatGPT Plus原生帐号需要自行解决科学上网问题！
 
