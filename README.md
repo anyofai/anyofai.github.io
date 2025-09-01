@@ -1,4 +1,4 @@
-# 最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus帐号和ChatGPT Pro帐号？
+# <p align="center">最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus帐号和ChatGPT Pro帐号？</p>
 
 <p align="center">最近更新于：2025年9月1日</p>
 
