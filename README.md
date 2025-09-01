@@ -96,17 +96,23 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内购买
 
 ![](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%B4%AD%E4%B9%B0ChatGPT%20Plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80.png)
 
+<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
+
 ### 购买ChatGPT Plus帐号备选平台：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
 你也可以通过星际放映厅购买ChatGPT Plus帐号，它们提供“1个月”、“3个月”和“6个月”三种套餐。现在使用星际放映厅优惠码“ANYOFAI”后，每月仅需209元。值得注意的是，星际放映厅可以**提供正规发票**，非常适合需要向公司报销的用户。
 
 ![](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%B4%AD%E4%B9%B0ChatGPT%20Plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
 
+<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
+
 ### 购买ChatGPT Plus帐号替补平台：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
 
 你还可以通过环球巴士购买ChatGPT Plus帐号，不过该平台目前只提供“1个月”套餐。使用环球巴士优惠码“ANYOFAI”后，每月仅需188元。
 
 ![](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%B4%AD%E4%B9%B0ChatGPT%20Plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB.png)
+
+<p align="center"><a href="https://universalbus.cn/?s=ofZoHZpnhr">立即访问环球巴士官网</a></p>
 
 小结：大家通过银河录像局、星际放映厅和环球巴士购买ChatGPT Plus帐号的话，平台会直接提供一个已经完成充值订阅的ChatGPT Plus帐号，你拿过来就可以直接登录使用。但为了安全起见，我们建议大家及时修改ChatGPT密码，以最大程度保护个人帐号安全。更多详情请查看：<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus帐号购买</a>。
 
@@ -128,17 +134,23 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内购买
 
 **重要提示**：银河录像局提供的ChatGPT Plus代充值服务是**24小时全自动充值**的方式，**用户无需向平台透露自己的ChatGPT帐号和密码**，这样可以最大程度保护隐私安全。而且ChatGPT Plus充值的整个流程非常简单，即使是完全没有经验的小白用户，也能在五分钟内完成充值。
 
+<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
+
 ### ChatGPT Plus充值备选平台：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
 星际放映厅的ChatGPT Plus代充值服务包含三个套餐，分别是“1个月”、“3个月”和“6个月”。现在使用星际放映厅优惠码“ANYOFAI”后，所有套餐均可享受九折优惠。如果你只打算短期使用ChatGPT Plus会员，可以选择“1个月”套餐；如果需要长期使用，则建议选择“6个月”套餐，这样就不用每个月重复来为ChatGPT Plus充值了。
 
 ![](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/ChatGPT%20Plus%E4%BB%A3%E5%85%85%E5%80%BC-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
 
+<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
+
 ### ChatGPT Plus充值替补平台：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
 
 环球巴士提供两种ChatGPT Plus充值套餐，分别为“1个月”和“3个月”。现在使用环球巴士优惠码“ANYOFAI”的话，所有套餐均可享受九折优惠。此外，环球巴士支持两种充值方式：一种是自助充值，提供详细教程，操作简单快捷，几分钟即可完成；另一种是人工充值，用户可以联系在线客服，提供自己的ChatGPT帐号和密码，由客服代为完成充值。
 
 ![](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/ChatGPT%20Plus%E4%BB%A3%E5%85%85%E5%80%BC-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB.png)
+
+<p align="center"><a href="https://universalbus.cn/?s=ofZoHZpnhr">立即访问环球巴士官网</a></p>
 
 小结：银河录像局、星际放映厅和环球巴士这三个ChatGPT Plus代充值平台都非常安全可靠，唯一的区别在于它们提供的ChatGPT Plus充值方式和价格有所不同。大家可以根据自身的实际需求，选择最合适的平台和套餐完成ChatGPT Plus充值。更多详情请查看：<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>。
 
