@@ -40,7 +40,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内购买
 
 ![](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
 
-银河录像局同样提供**原生ChatGPT Plus帐号合租**服务，用户可以体验ChatGPT Plus会员的所有功能，而且价格也非常实惠，每月仅需35元。同时，银河录像局配备24小时在线客服，用户在使用过程中遇到任何问题都可以随时寻求帮助。
+银河录像局也提供**原生ChatGPT Plus帐号合租**服务，用户可以体验ChatGPT Plus会员的所有功能，而且价格也非常实惠，每月仅需35元。同时，银河录像局配备24小时在线客服，用户在使用过程中遇到任何问题都可以随时寻求帮助。
 
 注意：合租ChatGPT Plus原生帐号需要自行解决科学上网问题！
 
