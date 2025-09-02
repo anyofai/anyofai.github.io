@@ -274,7 +274,7 @@ ChatGPT Pro的核心优势在于更高的使用额度、更快的响应速度以
 
 自从2025年7月12日WildCard野卡等国内虚拟卡陆续被迫停止运营之后，中国用户若想订阅ChatGPT Plus会员，已经不再像前几年那样方便了。在这样的背景下，国内用户可以通过以下五种方式来开通ChatGPT Plus会员：
 
-* 方法一、<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%80%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9Fchatgpt-plus%E5%B8%90%E5%8F%B7%E9%80%82%E5%90%88%E8%BD%BB%E5%BA%A6%E7%94%A8%E6%88%B7">拼车合租ChatGPT Plus账号</a>（适合轻度用户）
+* 方法一、<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%80%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9Fchatgpt-plus%E8%B4%A6%E5%8F%B7%E9%80%82%E5%90%88%E8%BD%BB%E5%BA%A6%E7%94%A8%E6%88%B7">拼车合租ChatGPT Plus账号</a>（适合轻度用户）
 * 方法二、<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%BA%8C%E8%B4%AD%E4%B9%B0chatgpt-plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">购买ChatGPT Plus独立账号</a>（适合重度用户）
 * 方法三、<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%89%E4%B8%BA%E4%BD%A0%E7%9A%84chatgpt-plus%E4%BB%A3%E5%85%85%E5%80%BC%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">为你的ChatGPT Plus代充值</a>（适合重度用户）
 * 方法四、<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E5%9B%9B%E4%BD%BF%E7%94%A8%E8%8B%B9%E6%9E%9Capple%E7%A4%BC%E5%93%81%E5%8D%A1%E5%85%85%E5%80%BC%E4%BB%85%E9%99%90ios%E7%94%A8%E6%88%B7">使用苹果Apple礼品卡充值</a>（仅限于iOS用户）
