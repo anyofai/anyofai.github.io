@@ -132,7 +132,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内购买
 
 ![](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/ChatGPT%20Plus%E4%BB%A3%E5%85%85%E5%80%BC-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80.png)
 
-**重要提示**：银河录像局提供的ChatGPT Plus代充值服务是**24小时全自动充值**的方式，**用户无需向平台透露自己的ChatGPT帐号和密码**，这样可以最大程度保护隐私安全。而且ChatGPT Plus充值的整个流程非常简单，即使是完全没有经验的小白用户，也能在五分钟内完成充值。
+**重要提示**：银河录像局提供的ChatGPT Plus代充值服务是**24小时自助充值的方式，用户无需向平台透露自己的ChatGPT帐号和密码**，这样可以最大程度保护隐私安全。而且ChatGPT Plus充值的整个流程非常简单，即使是完全没有经验的小白用户，也能在五分钟内完成充值。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
