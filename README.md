@@ -210,7 +210,7 @@ ChatGPT Plus是OpenAI推出的一项付费订阅服务，是ChatGPT的升级版�
 
 ### ChatGPT Plus多少钱？
 
-ChatGPT Plus的官方订阅价格为每月20美元，折合人民币大约150元左右。如果你想通过苹果iOS设备来订阅ChatGPT Plus会员的话，那么价格可能会略高于150元，这是因为苹果应用商店会额外收取渠道手续费。不过，由于国内用户无法直接使用微信、支付宝等方式来支付ChatGPT Plus订阅费用，所以大家可以通过银河录像局等专业第三方平台，直接购买已经完成订阅充值的ChatGPT Plus帐号，这样就省去了帐号注册和订阅费用支付的繁琐步骤，拿到帐号即可直接登录使用。此外，对于希望长期使用ChatGPT Plus的用户，银河录像局还提供按年订阅服务，平均每月仅需133元，不仅比按月订阅更实惠，还能避免每月重复续费的麻烦，非常适合重度用户选择。
+ChatGPT Plus的官方订阅价格为每月20美元，折合人民币大约150元左右。如果你想通过苹果iOS设备来订阅ChatGPT Plus会员的话，那么价格可能会略高于150元，这是因为苹果应用商店会额外收取渠道手续费。不过，由于国内用户无法直接使用微信、支付宝等方式来支付ChatGPT Plus订阅费用，所以大家可以通过<a href="https://nf.video/BTgSc">银河录像局</a>等专业第三方平台，直接购买已经完成订阅充值的ChatGPT Plus帐号，这样就省去了帐号注册和订阅费用支付的繁琐步骤，拿到帐号即可直接登录使用。此外，对于希望长期使用ChatGPT Plus的用户，银河录像局还提供按年订阅服务，平均每月仅需133元，不仅比按月订阅更实惠，还能避免每月重复续费的麻烦，非常适合重度用户选择。
 
 ### ChatGPT Plus是否值得20美金？
 
@@ -232,7 +232,7 @@ ChatGPT Pro的核心优势在于更高的使用额度、更快的响应速度以
 
 * 方式一：使用ChatGPT Plus镜像服务
 
-当你在银河录像局购买ChatGPT Plus镜像服务后，平台会提供一个专属的使用入口链接。你只需在安卓设备的浏览器中打开该链接，就可以直接使用ChatGPT Plus会员功能。这种方式无需科学上网，也不需要额外安装应用，几乎所有安卓用户都能顺利使用，非常适合新手和轻度用户。
+当你在<a href="https://nf.video/BTgSc">银河录像局</a>购买ChatGPT Plus镜像服务后，平台会提供一个专属的使用入口链接。你只需在安卓设备的浏览器中打开该链接，就可以直接使用ChatGPT Plus会员功能。这种方式无需科学上网，也不需要额外安装应用，几乎所有安卓用户都能顺利使用，非常适合新手和轻度用户。
 
 * 方式二：通过浏览器访问ChatGPT官网
 
@@ -248,7 +248,7 @@ ChatGPT Pro的核心优势在于更高的使用额度、更快的响应速度以
 
 由于目前OpenAI并未向中国用户开放服务，因此中国大陆用户无法直接访问ChatGPT官网。而且香港属于中国的一部分，所以中国香港的IP地址也无法正常访问ChatGPT官网。也就是说，如果你身处中国大陆或中国香港，就必须先通过科学上网工具，才能顺利访问ChatGPT官网并使用相关服务。
 
-当然，如果你无法解决科学上网的问题，也可以选择银河录像局提供的“银河AI”服务。该服务无需科学上网，也不需要注册ChatGPT帐号，用户可以直接使用ChatGPT Plus的全部功能和服务，但会有一定的使用次数限制。对于新手用户或轻度用户来说，这种方式更加方便省心。
+当然，如果你无法解决科学上网的问题，也可以选择<a href="https://nf.video/BTgSc">银河录像局</a>提供的“银河AI”服务。该服务无需科学上网，也不需要注册ChatGPT帐号，用户可以直接使用ChatGPT Plus的全部功能和服务，但会有一定的使用次数限制。对于新手用户或轻度用户来说，这种方式更加方便省心。
 
 ### 订阅ChatGPT Plus时信用卡被拒该怎么办？
 
@@ -256,7 +256,7 @@ ChatGPT Pro的核心优势在于更高的使用额度、更快的响应速度以
 
 中国用户若想订阅ChatGPT Plus会员，只能依靠海外信用卡。如果你能够获得一张海外信用卡，就可以直接用它来订阅ChatGPT Plus会员。但对于大多数中国用户来说，申请海外信用卡的门槛较高，这条途径一般行不通。
 
-所以，更为省心的方式是通过银河录像局等专业平台来解决。你可以直接通过银河录像局购买一个已经完成订阅充值的ChatGPT Plus帐号，也可以选择为你现有的ChatGPT帐号代充值。这样不仅能继续正常使用ChatGPT Plus会员，还能有效绕过国内信用卡支付受限的问题，大大减少操作上的麻烦。
+所以，更为省心的方式是通过<a href="https://nf.video/BTgSc">银河录像局</a>等专业平台来解决。你可以直接通过银河录像局购买一个已经完成订阅充值的ChatGPT Plus帐号，也可以选择为你现有的ChatGPT帐号代充值。这样不仅能继续正常使用ChatGPT Plus会员，还能有效绕过国内信用卡支付受限的问题，大大减少操作上的麻烦。
 
 ### 如何取消ChatGPT Plus订阅并关闭自动续费？
 
@@ -274,11 +274,11 @@ ChatGPT Pro的核心优势在于更高的使用额度、更快的响应速度以
 
 自从2025年7月12日WildCard野卡等国内虚拟卡陆续被迫停止运营之后，中国用户若想订阅ChatGPT Plus会员，已经不再像前几年那样方便了。在这样的背景下，国内用户可以通过以下五种方式来开通ChatGPT Plus会员：
 
-* 方法一、拼车合租ChatGPT Plus帐号（适合轻度用户）
-* 方法二、购买ChatGPT Plus独立账号（适合重度用户）
-* 方法三、为你的ChatGPT Plus代充值（适合重度用户）
-* 方法四、使用苹果Apple礼品卡充值（仅限于iOS用户）
-* 方法五、使用国外的虚拟信用卡订阅（技术小白慎选）
+* 方法一、<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%80%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9Fchatgpt-plus%E5%B8%90%E5%8F%B7%E9%80%82%E5%90%88%E8%BD%BB%E5%BA%A6%E7%94%A8%E6%88%B7">拼车合租ChatGPT Plus帐号</a>（适合轻度用户）
+* 方法二、<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%BA%8C%E8%B4%AD%E4%B9%B0chatgpt-plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">购买ChatGPT Plus独立账号</a>（适合重度用户）
+* 方法三、<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%89%E4%B8%BA%E4%BD%A0%E7%9A%84chatgpt-plus%E4%BB%A3%E5%85%85%E5%80%BC%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">为你的ChatGPT Plus代充值</a>（适合重度用户）
+* 方法四、<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E5%9B%9B%E4%BD%BF%E7%94%A8%E8%8B%B9%E6%9E%9Capple%E7%A4%BC%E5%93%81%E5%8D%A1%E5%85%85%E5%80%BC%E4%BB%85%E9%99%90ios%E7%94%A8%E6%88%B7">使用苹果Apple礼品卡充值</a>（仅限于iOS用户）
+* 方法五、<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%BA%94%E4%BD%BF%E7%94%A8%E5%9B%BD%E5%A4%96%E7%9A%84%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%AE%A2%E9%98%85%E6%8A%80%E6%9C%AF%E5%B0%8F%E7%99%BD%E6%85%8E%E9%80%89">使用国外的虚拟信用卡订阅</a>（技术小白慎选）
 
 在这几种方式当中，我们最推荐的是通过银河录像局、星际放映厅和环球巴士等专业平台来合租ChatGPT Plus帐号、购买ChatGPT Plus独立帐号或为你的ChatGPT Plus代充值。这三个平台合法合规、运营稳定，并支持支付宝付款，省去了繁琐的注册和支付流程。对于轻度用户来说，可以选择价格便宜的ChatGPT Plus合租服务；对于重度用户，购买ChatGPT Plus独立帐号或选择ChatGPT Plus代充值则更加省心。
 
