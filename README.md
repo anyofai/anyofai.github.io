@@ -92,9 +92,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 ### 购买ChatGPT Plus账号平台（一）：<a href="https://nf.video/BTgSc">银河录像局</a>
 
-你可以通过银河录像局按月购买ChatGPT Plus账号，现在使用银河录像局优惠码“ANYOFAI”的话，每月仅需171元。你也可以选择**按年购买ChatGPT Plus账号，平均每月仅需166元**。
-
-注意：**无论你是按月购买还是按年购买ChatGPT Plus账号，银河录像局都会提供全程质保**。
+你可以通过银河录像局按月购买ChatGPT Plus账号，现在使用银河录像局优惠码“ANYOFAI”的话，每月仅需171元。你也可以选择**按年购买ChatGPT Plus账号，平均每月仅需166元**。注意：**无论你是按月购买还是按年购买ChatGPT Plus账号，银河录像局都会提供全程质保**。
 
 ![ChatGPT Plus开通方法二：通过银河录像局购买ChatGPT Plus账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%B4%AD%E4%B9%B0ChatGPT-Plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
 
@@ -106,7 +104,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 ![ChatGPT Plus订阅方法二：通过星际放映厅购买ChatGPT Plus账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%B4%AD%E4%B9%B0ChatGPT%20Plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
 
-你也可以通过星际放映厅购买ChatGPT Pro原生独立帐号，现在使用优惠码“ANYOFAI”也可以享九折优惠，每月仅需1860元。
+你也可以通过星际放映厅**购买ChatGPT Pro原生独立帐号**，现在使用优惠码“ANYOFAI”也可以享九折优惠，每月仅需1860元。
 
 ![通过星际放映厅直接购买ChatGPT Pro原生独立帐号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%B4%AD%E4%B9%B0ChatGPT-Pro%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
 
