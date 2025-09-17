@@ -1,6 +1,6 @@
 # <p align="center">最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？</p>
 
-<p align="center">最近更新于：2025年9月6日</p>
+<p align="center">最近更新于：2025年9月17日</p>
 
 ![最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
@@ -12,9 +12,9 @@
 
 * **方法一、拼车合租ChatGPT Plus账号（适合轻度用户）**：通过专业的第三方平台合租ChatGPT Plus会员（即ChatGPT Plus镜像站）。这种方式**无需科学上网**，无需注册ChatGPT账号，也不会有封号的风险，而且价格便宜，**每月仅需27元**，非常适合ChatGPT Plus轻度用户使用。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%80%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9Fchatgpt-plus%E8%B4%A6%E5%8F%B7%E9%80%82%E5%90%88%E8%BD%BB%E5%BA%A6%E7%94%A8%E6%88%B7">ChatGPT Plus合租</a>。
 
-* **方法二、购买ChatGPT Plus独立账号（适合重度用户）**：通过专业的第三方平台直接购买ChatGPT Plus原生独立账号。这种方式不需要你自己注册ChatGPT账号，也不需要折腾国外信用卡等支付渠道，第三方平台会直接提供一个已经完成订阅充值的ChatGPT Plus账号，你拿过来就可以直接使用。这种方式不仅非常简单省事，也没有任何限制，而且价格相对实惠，**每月仅需152元**。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%BA%8C%E8%B4%AD%E4%B9%B0chatgpt-plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">购买ChatGPT Plus账号</a>。
+* **方法二、购买ChatGPT Plus独立账号（适合重度用户）**：通过专业的第三方平台直接购买ChatGPT Plus原生独立账号。这种方式不需要你自己注册ChatGPT账号，也不需要折腾国外信用卡等支付渠道，第三方平台会直接提供一个已经完成订阅充值的ChatGPT Plus账号，你拿过来就可以直接使用。这种方式不仅非常简单省事，也没有任何限制，而且价格相对实惠，**每月仅需171元**。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%BA%8C%E8%B4%AD%E4%B9%B0chatgpt-plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">购买ChatGPT Plus账号</a>。
 
-* **方法三、为你的ChatGPT Plus代充值（适合重度用户）**：通过专业的第三方平台为你现有的ChatGPT账号代充值。这种方式可以让你继续使用原有的ChatGPT Plus账号，之前所有的使用记录和个人设置也都可以完整地保留下来，包括聊天记录和已创建的GPTs等。这种方式不仅更省心，而且目前价格也相对优惠，**价格低至133元/月**，非常适合需要经常使用ChatGPT Plus会员的老用户。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%89%E4%B8%BA%E4%BD%A0%E7%9A%84chatgpt-plus%E4%BB%A3%E5%85%85%E5%80%BC%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">ChatGPT Plus代充值</a>。
+* **方法三、为你的ChatGPT Plus代充值（适合重度用户）**：通过专业的第三方平台为你现有的ChatGPT账号代充值。这种方式可以让你继续使用原有的ChatGPT Plus账号，之前所有的使用记录和个人设置也都可以完整地保留下来，包括聊天记录和已创建的GPTs等。这种方式不仅更省心，而且目前价格也相对优惠，**价格低至180元/月**，非常适合需要经常使用ChatGPT Plus会员的老用户。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%89%E4%B8%BA%E4%BD%A0%E7%9A%84chatgpt-plus%E4%BB%A3%E5%85%85%E5%80%BC%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">ChatGPT Plus代充值</a>。
 
 * **方法四、使用苹果Apple礼品卡充值（仅限iOS用户）**：国内的iOS用户如果想通过苹果Apple礼品卡来充值订阅ChatGPT Plus会员的话，就需要先准备一个外区（美区/日区/韩区/台区/土区）Apple ID账号，并购买一张苹果Apple礼品卡，然后再使用这张礼品卡去支付ChatGPT Plus订阅费用。这种方式仅适合iPhone和iPad用户，而且整个操作流程比较复杂，比较适合喜欢折腾的同学。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E5%9B%9B%E4%BD%BF%E7%94%A8%E8%8B%B9%E6%9E%9Capple%E7%A4%BC%E5%93%81%E5%8D%A1%E5%85%85%E5%80%BC%E4%BB%85%E9%99%90ios%E7%94%A8%E6%88%B7">礼品卡充值ChatGPT</a>。
 
