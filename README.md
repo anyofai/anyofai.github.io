@@ -100,9 +100,9 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 ### 购买ChatGPT Plus账号平台（一）：<a href="https://nf.video/BTgSc">银河录像局</a>
 
-你可以通过银河录像局按月购买ChatGPT Plus账号，现在使用银河录像局优惠码“ANYOFAI”的话，每月仅需171元。你也可以选择**按年购买ChatGPT Plus账号，平均每月仅需166元**。注意：**无论你是按月购买还是按年购买ChatGPT Plus账号，银河录像局都会提供全程质保**。
+你可以通过银河录像局按月购买ChatGPT Plus账号，现在使用银河录像局优惠码“ANYOFAI”的话，每月仅需171元。你也可以选择**按年购买ChatGPT Plus账号，平均每月仅需158元**。注意：**无论你是按月购买还是按年购买ChatGPT Plus账号，银河录像局都会提供全程质保**。
 
-![ChatGPT Plus开通方法二：通过银河录像局购买ChatGPT Plus账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%B4%AD%E4%B9%B0ChatGPT-Plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
+![ChatGPT Plus开通方法二：通过银河录像局购买ChatGPT Plus账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%B4%AD%E4%B9%B0ChatGPT-Plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2.png)
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
