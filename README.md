@@ -12,7 +12,7 @@
 
 * **方法一、拼车合租ChatGPT Plus账号（适合轻度用户）**：通过专业的第三方平台合租ChatGPT Plus会员（即ChatGPT Plus镜像站）。这种方式**无需科学上网**，无需注册ChatGPT账号，也不会有封号的风险，而且价格便宜，**每月仅需27元**，非常适合ChatGPT Plus轻度用户使用。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%80%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9Fchatgpt-plus%E8%B4%A6%E5%8F%B7%E9%80%82%E5%90%88%E8%BD%BB%E5%BA%A6%E7%94%A8%E6%88%B7">ChatGPT Plus合租</a>。
 
-* **方法二、购买ChatGPT Plus独立账号（适合重度用户）**：通过专业的第三方平台直接购买ChatGPT Plus原生独立账号。这种方式不需要你自己注册ChatGPT账号，也不需要折腾国外信用卡等支付渠道，第三方平台会直接提供一个已经完成订阅充值的ChatGPT Plus账号，你拿过来就可以直接使用。这种方式不仅非常简单省事，也没有任何限制，而且价格相对实惠，**每月仅需171元**。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%BA%8C%E8%B4%AD%E4%B9%B0chatgpt-plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">购买ChatGPT Plus账号</a>。
+* **方法二、购买ChatGPT Plus独立账号（适合重度用户）**：通过专业的第三方平台直接购买ChatGPT Plus原生独立账号。这种方式不需要你自己注册ChatGPT账号，也不需要折腾国外信用卡等支付渠道，第三方平台会直接提供一个已经完成订阅充值的ChatGPT Plus账号，你拿过来就可以直接使用。这种方式不仅非常简单省事，也没有任何限制，而且价格相对实惠，**每月仅需158元**。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%BA%8C%E8%B4%AD%E4%B9%B0chatgpt-plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">购买ChatGPT Plus账号</a>。
 
 * **方法三、为你的ChatGPT Plus代充值（适合重度用户）**：通过专业的第三方平台为你现有的ChatGPT账号代充值。这种方式可以让你继续使用原有的ChatGPT Plus账号，之前所有的使用记录和个人设置也都可以完整地保留下来，包括聊天记录和已创建的GPTs等。这种方式不仅更省心，而且目前价格也相对优惠，**价格低至166元/月**，非常适合需要经常使用ChatGPT Plus会员的老用户。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%89%E4%B8%BA%E4%BD%A0%E7%9A%84chatgpt-plus%E4%BB%A3%E5%85%85%E5%80%BC%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">ChatGPT Plus代充值</a>。
 
@@ -23,6 +23,14 @@
 </blockquote>
 
 总体来说，如果你无法解决科学上网的问题，或者使用ChatGPT Plus的频率不高，那么可以选择ChatGPT Plus合租服务；如果你在工作中高度依赖ChatGPT Plus会员，那么就直接购买ChatGPT Plus账号，或者为你现有的ChatGPT账号代充值。如果你是iOS用户，并且喜欢折腾、又不怕失败，也可以尝试通过苹果Apple礼品卡为ChatGPT Plus充值。最后，我们并不建议大家使用国外虚拟信用卡来订阅ChatGPT Plus会员，因为这种方式完全不适合新手小白。
+
+<blockquote>
+
+**小提示**：OpenAI推出的**GPT-5-Codex**被誉为新一代编程助手，它在代码生成、智能审查和自动化测试方面有了全面升级，能够深入融入开发流程，帮助程序员更高效地完成重构、优化与团队协作。对于国内用户而言，如果想要稳定体验这款前沿模型，可以通过**<a href="https://nf.video/BTgSc">银河录像局</a>**提供的Codex中转服务，使用方便、安全可靠。**其中专业版99元/月，至尊版198元/月，价格很实惠，性价比极高，非常适合个人开发者和团队长期使用**。
+
+![如何使用GPT-5-Codex：通过银河录像局购买Codex中转服务](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8GPT-5-Codex.png)
+
+</blockquote>
 
 OK，接下来就进入今天的正题，我们将详细介绍目前国内充值开通ChatGPT Plus会员的五种方式，大家可以根据自身的实际需求选择最适合自己的方案。
 
