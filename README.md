@@ -184,7 +184,11 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 ![使用苹果Apple礼品卡充值ChatGPT Plus账号第一步：通过银河录像局购买一个美区Apple ID账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%8B%B9%E6%9E%9CApple%E7%A4%BC%E5%93%81%E5%8D%A1%E5%85%85%E5%80%BCChatGPT%20Plus%E4%BC%9A%E5%91%98-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80.png)
 
-### 第二步：通过环球巴士购买一张美区苹果Apple礼品卡。
+### 第二步：通过“账号星球”或者“环球巴士”购买一张美区苹果Apple礼品卡。
+
+* 帐号星球官网：<a href="https://accboyytbanyofai.acceboy.com/">https://accboyytbanyofai.acceboy.com/</a>
+
+![使用苹果Apple礼品卡充值ChatGPT Plus账号第二步：通过账号星球购买一张美区苹果Apple礼品卡](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%8B%B9%E6%9E%9CApple%E7%A4%BC%E5%93%81%E5%8D%A1%E5%85%85%E5%80%BCChatGPT-Plus%E4%BC%9A%E5%91%98-%E8%B4%A6%E5%8F%B7%E6%98%9F%E7%90%83.png)
 
 * 环球巴士官网：<a href="https://universalbus.cn/?s=ofZoHZpnhr">https://universalbus.cn/?s=ofZoHZpnhr</a>
 
