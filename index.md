@@ -462,7 +462,7 @@ WildCard野卡虚拟信用卡的开卡费一旦支付成功，原则上是不可
 * <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：详细介绍如何获取国外虚拟信用卡和国外手机号，以及订阅Claude Pro的完整操作流程！
 * <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：涵盖Midjourney账号注册和会员订阅的详细操作步骤，附带Midjourney使用教程！
 * <a href="https://github.com/anyofai/poe">Poe订阅</a>：包含国内订阅POE会员的详细操作步骤，以及如何购买POE合租账号的指南！
-* <a href="https://github.com/anyofai/x-twitter">Twitter X订阅</a>：提供订阅Twitter X的详细操作步骤，以及Grok 3的使用指南！
+* <a href="https://github.com/anyofai/x-twitter">购买SuperGrok帐号</a>：提供订阅SuperGrok的详细操作步骤，以及Grok 4的使用指南！
 * <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-4.5、DeepSeek-R1、Grok-3和Gemini-2 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
@@ -473,11 +473,3 @@ WildCard野卡虚拟信用卡的开卡费一旦支付成功，原则上是不可
 * <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>：推荐最稳定可靠的ChatGPT Plus代充值平台，价格优惠，信誉有保障。
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro成品账号！
 * <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会推荐五个国外付费视频网站、五个国外免费视频网站和十个海外免费电影网站！
-
-
-
-
-
-
-
-
