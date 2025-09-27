@@ -191,7 +191,7 @@ Poe是Quora推出的一款集成了多种AI模型的聊天平台，允许用户�
 
 除了前面提到的ChatGPT Plus、Claude Pro、Midjourney和Poe，WildCard野卡虚拟信用卡还支持订阅众多其他AI工具的会员服务。这些工具包括但不限于：Anthropic Claude、Perplexity Pro、Character.ai、Jasper AI、Copy.ai、Bing AI、Notion AI、Replika、Stable Diffusion、Grammarly AI、Runway ML、Leonardo.ai、Writesonic、Bard、Inflection Pi、HuggingFace Pro、DALL-E、Adobe Firefly、Gamma、Ideogram、GitHub Copilot等。不管你是需要AI写作助手、代码生成工具、图像创作平台还是文档智能处理软件，WildCard野卡都能帮你轻松完成支付，突破地域限制，享受这些工具的全部功能。随着AI技术的不断发展，越来越多的AI工具也将被支持，WildCard野卡也会持续更新支持的服务列表，确保你能够使用到最新、最前沿的AI技术。
 
-<p align="center">查看更多：<a href="https://github.com/anyofai/claude-pro">Claude Pro购买</a>、<a href="https://github.com/anyofai/x-twitter">X Premium订阅</a></p>
+<p align="center">查看更多：<a href="https://github.com/anyofai/claude-pro">Claude Pro购买</a>、<a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a></p>
 
 ### 七、支持订阅其他流媒体或社交会员
 
@@ -473,6 +473,7 @@ WildCard野卡虚拟信用卡的开卡费一旦支付成功，原则上是不可
 * <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>：推荐最稳定可靠的ChatGPT Plus代充值平台，价格优惠，信誉有保障。
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro成品账号！
 * <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会推荐五个国外付费视频网站、五个国外免费视频网站和十个海外免费电影网站！
+
 
 
 
