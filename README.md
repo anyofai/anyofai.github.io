@@ -28,7 +28,7 @@
 
 **小提示**：OpenAI推出的**GPT-5-Codex**被誉为新一代编程助手，它在代码生成、智能审查和自动化测试方面有了全面升级，能够深入融入开发流程，帮助程序员更高效地完成重构、优化与团队协作。对于国内用户而言，如果想要稳定体验这款前沿模型，可以通过<a href="https://nf.video/BTgSc">银河录像局</a>提供的Codex中转服务，使用方便、安全可靠。**其中专业版99元/月，至尊版198元/月，价格很实惠，性价比极高，非常适合个人开发者和团队长期使用**。
 
-![如何使用GPT-5-Codex：通过银河录像局购买Codex中转服务](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8GPT-5-Codex.png)
+![如何使用GPT-5-Codex：通过银河录像局购买Codex中转服务](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8GPT-5-Codex-1.png)
 
 </blockquote>
 
