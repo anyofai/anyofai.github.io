@@ -1,6 +1,6 @@
 # <p align="center">最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？如何使用GPT-5-Codex？</p>
 
-<p align="center">最近更新于：2025年10月18日</p>
+<p align="center">最近更新于：2025年10月21日</p>
 
 ![最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
