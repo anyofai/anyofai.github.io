@@ -4,7 +4,7 @@
 
 ![最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？如何购买Codex拼车服务？](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
-随着AI工具在国内的快速普及，越来越多的用户开始寻找开通ChatGPT Plus账号或ChatGPT Pro账号的方法，希望获得更加优质和稳定的体验。ChatGPT Plus和ChatGPT Pro都是OpenAI官方提供的付费版本，开通后可以直接使用最新的GPT-5、GPT-4o等先进模型。相比ChatGPT免费版，这些付费版本在功能和体验上都有明显提升，例如服务更稳定、响应速度更快、输出字数不再受限、回答质量更高。对于经常依赖AI工具的用户来说，升级为ChatGPT付费会员能够让整体使用体验有显著改善。
+随着AI工具在国内的快速普及，越来越多的用户开始寻找开通ChatGPT Plus账号或ChatGPT Pro账号的方法，希望获得更加优质和稳定的体验。ChatGPT Plus和ChatGPT Pro都是OpenAI官方提供的付费版本，开通后可以直接使用最新的GPT-5.1、GPT-4o等先进模型。相比ChatGPT免费版，这些付费版本在功能和体验上都有明显提升，例如服务更稳定、响应速度更快、输出字数不再受限、回答质量更高。对于经常依赖AI工具的用户来说，升级为ChatGPT付费会员能够让整体使用体验有显著改善。
 
 **重要提示**：在过去的两年里，中国用户基本上都高度依赖WildCard野卡虚拟信用卡来升级订阅ChatGPT Plus会员。但非常遗憾的是，2025年7月12日中午，WildCard野卡的官方群突然发布公告称，由于一些不可抗力因素，WildCard将立即停止全部业务。而在随后的几天里，国内大大小小的虚拟信用卡平台也都受到不同程度的影响。也就是说，今后国内用户若想订阅充值ChatGPT Plus会员将会变得更加困难。现如今，国内用户购买开通ChatGPT Plus账号只剩下以下五种方式：
 
@@ -44,7 +44,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 银河录像局的业务规模在行业内堪称标杆。截至目前，银河录像局累计完成交易超过1000万笔，服务用户突破100万人，用户分布在全球100多个国家和地区。银河录像局不仅提供Netflix、YouTube、Disney、Spotify、HBO Max、Prime Video、TV伴侣等流媒体合租服务，还覆盖ChatGPT、Claude、Midjourney、SuperGrok等AI工具的合租与代充值服务。在支付方式上，银河录像局支持支付宝付款，对国内用户来说十分方便。
 
-银河录像局提供的“银河AI”服务（即ChatGPT Plus镜像服务），**无需科学上网，无需注册ChatGPT账号，也不存在封号风险**。现在使用银河录像局优惠码“ANYOFAI”还能享受九折优惠，合租ChatGPT Plus账号的价格低至26元/月，并且支持使用GPT-5、GPT-4o、DeepSeek-R1、Grok-4、Gemini-2.5 Pro等主流AI大模型。
+银河录像局提供的“银河AI”服务（即ChatGPT Plus镜像服务），**无需科学上网，无需注册ChatGPT账号，也不存在封号风险**。现在使用银河录像局优惠码“ANYOFAI”还能享受九折优惠，合租ChatGPT Plus账号的价格低至26元/月，并且支持使用GPT-5.1、GPT-4o、DeepSeek-R1、Grok-4、Gemini-2.5 Pro等主流AI大模型。
 
 ![ChatGPT Plus开通方法一：通过银河录像局合租ChatGPT Plus账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
 
@@ -62,7 +62,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 星际放映厅成立于2023年，是一家专注于流媒体和AI工具账号合租及代充值的平台，并已在浙江省完成备案（浙ICP备2023017856号）。作为新兴合租平台，星际放映厅能够在竞争激烈的市场中快速建立用户信任，主要得益于专业团队的运营和良好的服务口碑。星际放映厅目前提供Netflix、Spotify、Disney+、YouTube、Prime Video等主流流媒体合租服务，同时也覆盖ChatGPT、Claude、Midjourney、Poe、SuperGrok等AI工具的合租与代充值服务。
 
-星际放映厅还提供原生ChatGPT Plus合租服务，支持使用GPT-5、GPT-4o等大模型，每月价格为55.88元，现在使用优惠码“ANYOFAI”还可享受九折优惠。
+星际放映厅还提供原生ChatGPT Plus合租服务，支持使用GPT-5.1、GPT-4o等大模型，每月价格为55.88元，现在使用优惠码“ANYOFAI”还可享受九折优惠。
 
 ![ChatGPT Plus升级方法一：通过星际放映厅合租ChatGPT Plus账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
 
@@ -112,9 +112,9 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 ![ChatGPT Plus订阅方法二：通过星际放映厅购买ChatGPT Plus账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%B4%AD%E4%B9%B0ChatGPT%20Plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
 
-你也可以通过星际放映厅**购买ChatGPT Pro原生独立帐号**，现在使用优惠码“ANYOFAI”也可以享九折优惠，每月仅需1860元。
+你也可以通过星际放映厅**购买ChatGPT Pro原生独立账号**，现在使用优惠码“ANYOFAI”也可以享九折优惠，每月仅需1860元。
 
-![通过星际放映厅直接购买ChatGPT Pro原生独立帐号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%B4%AD%E4%B9%B0ChatGPT-Pro%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
+![通过星际放映厅直接购买ChatGPT Pro原生独立账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%B4%AD%E4%B9%B0ChatGPT-Pro%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
 
 重要提示：**星际放映厅可以提供正规发票，非常适合需要向公司报销的用户**。
 
@@ -126,9 +126,9 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 ![ChatGPT Plus升级方法二：通过环球巴士购买ChatGPT Plus账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%B4%AD%E4%B9%B0ChatGPT%20Plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB.png)
 
-你同样可以通过环球巴士购买ChatGPT Pro原生独立帐号！
+你同样可以通过环球巴士购买ChatGPT Pro原生独立账号！
 
-![通过环球巴士直接购买ChatGPT Pro原生独立帐号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%B4%AD%E4%B9%B0ChatGPT-Pro%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB.png)
+![通过环球巴士直接购买ChatGPT Pro原生独立账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%B4%AD%E4%B9%B0ChatGPT-Pro%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB.png)
 
 <p align="center"><a href="https://universalbus.cn/?s=ofZoHZpnhr">立即访问环球巴士官网</a></p>
 
@@ -186,7 +186,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 ### 第二步：通过“账号星球”购买一张美区苹果Apple礼品卡。
 
-* 帐号星球官网：<a href="https://accboyytbanyofai.acceboy.com/">https://accboyytbanyofai.acceboy.com/</a>
+* 账号星球官网：<a href="https://accboyytbanyofai.acceboy.com/">https://accboyytbanyofai.acceboy.com/</a>
 
 ![使用苹果Apple礼品卡充值ChatGPT Plus账号第二步：通过账号星球购买一张美区苹果Apple礼品卡](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%8B%B9%E6%9E%9CApple%E7%A4%BC%E5%93%81%E5%8D%A1%E5%85%85%E5%80%BCChatGPT-Plus%E4%BC%9A%E5%91%98-%E8%B4%A6%E5%8F%B7%E6%98%9F%E7%90%83.png)
 
@@ -204,9 +204,9 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 <img src="https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%8B%B9%E6%9E%9CApple%E7%A4%BC%E5%93%81%E5%8D%A1%E5%85%85%E5%80%BCChatGPT%20Plus%E4%BC%9A%E5%91%98-4.png" alt="使用苹果Apple礼品卡充值ChatGPT Plus账号第四步：打开ChatGPT客户端并使用Apple账号余额完成订阅">
 </div>
 
-注意：如果你非常喜欢折腾，那么也可以自己动手注册一个美区Apple ID账号，再去苹果官网或支付宝中购买美区苹果Apple礼品卡。但这整个流程操作起来较为复杂，很多新手可能难以完成。因此我们建议新手直接通过“**银河录像局**”购买美区Apple ID账号，再通过“**帐号星球**”购买美区苹果Apple礼品卡，这样流程更简洁，即使是技术小白也能轻松操作。
+注意：如果你非常喜欢折腾，那么也可以自己动手注册一个美区Apple ID账号，再去苹果官网或支付宝中购买美区苹果Apple礼品卡。但这整个流程操作起来较为复杂，很多新手可能难以完成。因此我们建议新手直接通过“**银河录像局**”购买美区Apple ID账号，再通过“**账号星球**”购买美区苹果Apple礼品卡，这样流程更简洁，即使是技术小白也能轻松操作。
 
-<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a>或者<a href="https://accboyytbanyofai.acceboy.com/">立即访问帐号星球官网</a></p>
+<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a>或者<a href="https://accboyytbanyofai.acceboy.com/">立即访问账号星球官网</a></p>
 
 ****
 
@@ -224,7 +224,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 ### 什么是ChatGPT Plus？
 
-ChatGPT Plus是OpenAI推出的一项付费订阅服务，是ChatGPT的升级版本。与免费版相比，ChatGPT Plus提供更稳定的服务、更快的响应速度，以及优先体验最新功能和模型的权限。目前，订阅ChatGPT Plus的用户可以直接使用GPT-4o和GPT-5等最新模型，并且在高峰时段也能保持正常访问，不会出现排队或使用受限的情况。对于经常依赖ChatGPT进行学习、工作或创作的用户来说，开通ChatGPT Plus能够显著提升整体体验。
+ChatGPT Plus是OpenAI推出的一项付费订阅服务，是ChatGPT的升级版本。与免费版相比，ChatGPT Plus提供更稳定的服务、更快的响应速度，以及优先体验最新功能和模型的权限。目前，订阅ChatGPT Plus的用户可以直接使用GPT-4o和GPT-5.1等最新模型，并且在高峰时段也能保持正常访问，不会出现排队或使用受限的情况。对于经常依赖ChatGPT进行学习、工作或创作的用户来说，开通ChatGPT Plus能够显著提升整体体验。
 
 ### ChatGPT Plus多少钱？
 
@@ -232,7 +232,7 @@ ChatGPT Plus的官方订阅价格为每月20美元，折合人民币大约150元
 
 ### ChatGPT Plus是否值得20美金？
 
-对于大多数经常使用ChatGPT的用户来说，ChatGPT Plus每月20美元的价格是值得的。首先，ChatGPT Plus用户在高峰时段依然可以正常访问，不会出现排队等待的情况，这对工作和学习效率有明显提升。其次，ChatGPT Plus提供更快的响应速度和更高的稳定性，能够在连续对话和长文本输出时保持流畅，避免卡顿或中断。更重要的是，ChatGPT Plus用户可以优先使用最新的模型版本，包括GPT-4o和GPT-5，这些模型在回答准确度、逻辑性和内容深度方面都有明显优势。
+对于大多数经常使用ChatGPT的用户来说，ChatGPT Plus每月20美元的价格是值得的。首先，ChatGPT Plus用户在高峰时段依然可以正常访问，不会出现排队等待的情况，这对工作和学习效率有明显提升。其次，ChatGPT Plus提供更快的响应速度和更高的稳定性，能够在连续对话和长文本输出时保持流畅，避免卡顿或中断。更重要的是，ChatGPT Plus用户可以优先使用最新的模型版本，包括GPT-4o和GPT-5.1，这些模型在回答准确度、逻辑性和内容深度方面都有明显优势。
 
 如果你只是偶尔使用ChatGPT，或者主要用来进行简单的对话体验，那么免费版本已经足够。但如果你在学习、工作或创作中高度依赖ChatGPT的话，那么升级到ChatGPT Plus无疑能够大幅提升体验，因此20美元的订阅费用完全物有所值。
 
@@ -306,16 +306,16 @@ ChatGPT Pro的核心优势在于更高的使用额度、更快的响应速度以
 
 <p align="center"><a href="https://universalbus.cn/?s=ofZoHZpnhr">立即访问环球巴士官网</a></p>
 
-无论你选择哪种方式，最重要的是认准正规平台，避免通过个人卖家或非正规渠道，以免出现账号失效、跑路或隐私泄露的风险。只要方法正确，2025年国内用户依然可以顺利开通ChatGPT Plus会员，畅享最新的GPT-5和GPT-4o等模型带来的完整体验。
+无论你选择哪种方式，最重要的是认准正规平台，避免通过个人卖家或非正规渠道，以免出现账号失效、跑路或隐私泄露的风险。只要方法正确，2025年国内用户依然可以顺利开通ChatGPT Plus会员，畅享最新的GPT-5.1和GPT-4o等模型带来的完整体验。
 
 ## 国内充值开通ChatGPT Plus相关的其他文章：
 
-* <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？如何使用Claude Code？
-* <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立帐号？如何代充Midjourney会员？
-* <a href="https://github.com/anyofai/poe">Poe订阅</a>：如何购买Poe原生独立账号？支持GPT-5、Claude Opus/Sonnet 4、Grok-4、Gemini-2.5 Pro等大模型！
-* <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok帐号？如何代充SuperGrok会员？
+* <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？如何购买Codex拼车服务？
+* <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立账号？如何代充Midjourney会员？
+* <a href="https://github.com/anyofai/poe">Poe订阅</a>：如何购买Poe原生独立账号？支持GPT-5.1、Claude Opus/Sonnet 4、Grok-4、Gemini-2.5 Pro等大模型！
+* <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok账号？如何代充SuperGrok会员？
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5、DeepSeek-R1、Grok-4和Gemini-2.5 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5.1、DeepSeek-R1、Grok-4和Gemini-2.5 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保，价格低至8元起！
