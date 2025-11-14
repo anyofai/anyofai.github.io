@@ -1,8 +1,8 @@
-# <p align="center">最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？如何使用GPT-5-Codex？</p>
+# <p align="center">最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？如何购买Codex拼车服务？</p>
 
-<p align="center">最近更新于：2025年10月21日</p>
+<p align="center">最近更新于：2025年11月14日</p>
 
-![最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
+![最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？如何购买Codex拼车服务？](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
 随着AI工具在国内的快速普及，越来越多的用户开始寻找开通ChatGPT Plus账号或ChatGPT Pro账号的方法，希望获得更加优质和稳定的体验。ChatGPT Plus和ChatGPT Pro都是OpenAI官方提供的付费版本，开通后可以直接使用最新的GPT-5、GPT-4o等先进模型。相比ChatGPT免费版，这些付费版本在功能和体验上都有明显提升，例如服务更稳定、响应速度更快、输出字数不再受限、回答质量更高。对于经常依赖AI工具的用户来说，升级为ChatGPT付费会员能够让整体使用体验有显著改善。
 
@@ -14,7 +14,7 @@
 
 * **方法二、购买ChatGPT Plus独立账号（适合重度用户）**：通过专业的第三方平台直接购买ChatGPT Plus原生独立账号。这种方式不需要你自己注册ChatGPT账号，也不需要折腾国外信用卡等支付渠道，第三方平台会直接提供一个已经完成订阅充值的ChatGPT Plus账号，你拿过来就可以直接使用。这种方式不仅非常简单省事，也没有任何限制，而且价格相对实惠，**每月仅需158元**。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%BA%8C%E8%B4%AD%E4%B9%B0chatgpt-plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">购买ChatGPT Plus账号</a>。
 
-* **方法三、为你的ChatGPT Plus代充值（适合重度用户）**：通过专业的第三方平台为你现有的ChatGPT账号代充值。这种方式可以让你继续使用原有的ChatGPT Plus账号，之前所有的使用记录和个人设置也都可以完整地保留下来，包括聊天记录和已创建的GPTs等。这种方式不仅更省心，而且目前价格也相对优惠，**价格低至166元/月**，非常适合需要经常使用ChatGPT Plus会员的老用户。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%89%E4%B8%BA%E4%BD%A0%E7%9A%84chatgpt-plus%E4%BB%A3%E5%85%85%E5%80%BC%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">ChatGPT Plus代充值</a>。
+* **方法三、为你的ChatGPT Plus代充值（适合重度用户）**：通过专业的第三方平台为你现有的ChatGPT账号代充值。这种方式可以让你继续使用原有的ChatGPT Plus账号，之前所有的使用记录和个人设置也都可以完整地保留下来，包括聊天记录和已创建的GPTs等。这种方式不仅更省心，而且目前价格也相对优惠，**价格低至174元/月**，非常适合需要经常使用ChatGPT Plus会员的老用户。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E4%B8%89%E4%B8%BA%E4%BD%A0%E7%9A%84chatgpt-plus%E4%BB%A3%E5%85%85%E5%80%BC%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">ChatGPT Plus代充值</a>。
 
 * **方法四、使用苹果Apple礼品卡充值（仅限iOS用户）**：国内的iOS用户如果想通过苹果Apple礼品卡来充值订阅ChatGPT Plus会员的话，就需要先准备一个外区（美区/日区/韩区/台区/土区）Apple ID账号，并购买一张苹果Apple礼品卡，然后再使用这张礼品卡去支付ChatGPT Plus订阅费用。这种方式仅适合iPhone和iPad用户，而且整个操作流程比较复杂，比较适合喜欢折腾的同学。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io?tab=readme-ov-file#%E6%96%B9%E6%B3%95%E5%9B%9B%E4%BD%BF%E7%94%A8%E8%8B%B9%E6%9E%9Capple%E7%A4%BC%E5%93%81%E5%8D%A1%E5%85%85%E5%80%BC%E4%BB%85%E9%99%90ios%E7%94%A8%E6%88%B7">礼品卡充值ChatGPT</a>。
 
@@ -26,9 +26,9 @@
 
 <blockquote>
 
-**小提示**：OpenAI推出的**GPT-5-Codex**被誉为新一代编程助手，它在代码生成、智能审查和自动化测试方面有了全面升级，能够深入融入开发流程，帮助程序员更高效地完成重构、优化与团队协作。对于国内用户而言，如果想要稳定体验这款前沿模型，可以使用<a href="https://nf.video/BTgSc">银河录像局</a>提供的Codex中转服务，非常方便、安全可靠。**其中专业版99元/月（使用优惠码“ANYOFAI”后89元/月），至尊版198元/月（使用优惠码“ANYOFAI”后178元/月），价格很实惠，性价比极高，非常适合个人开发者和团队长期使用**。
+**小提示**：OpenAI推出的**Codex**被誉为新一代编程助手，它在代码生成、智能审查和自动化测试方面有了全面升级，能够深入融入开发流程，帮助程序员更高效地完成重构、优化与团队协作。对于国内用户而言，如果想要稳定体验这款前沿模型，可以使用<a href="https://nf.video/BTgSc">银河录像局</a>提供的Codex拼车服务，非常方便、安全可靠。**其中Plus版本的价格为59元/月；Pro版本的价格为109元/月，价格很实惠，性价比极高，非常适合个人开发者和团队长期使用。**。
 
-![如何使用GPT-5-Codex：通过银河录像局购买Codex中转服务](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8GPT-5-Codex-1.png)
+![通过银河录像局购买Codex拼车服务](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Codex.png)
 
 </blockquote>
 
