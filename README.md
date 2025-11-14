@@ -48,11 +48,11 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 ![ChatGPT Plus开通方法一：通过银河录像局合租ChatGPT Plus账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E9%95%9C%E5%83%8F%E7%89%88.png)
 
-银河录像局也提供**原生ChatGPT Plus账号合租**服务，用户可以体验ChatGPT Plus会员的所有功能，而且价格也非常实惠，每月仅需35元。同时，银河录像局配备24小时在线客服，用户在使用过程中遇到任何问题都可以随时寻求帮助。
+银河录像局也提供**原生ChatGPT Plus账号合租**服务，用户可以体验ChatGPT Plus会员的所有功能，而且价格也非常实惠，每月仅需76元。同时，银河录像局配备24小时在线客服，用户在使用过程中遇到任何问题都可以随时寻求帮助。
 
 注意：合租ChatGPT Plus原生账号需要自行解决科学上网问题！
 
-![ChatGPT Plus订阅方法一：通过银河录像局合租ChatGPT Plus原生账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2.png)
+![ChatGPT Plus订阅方法一：通过银河录像局合租ChatGPT Plus原生账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E5%90%88%E7%A7%9F.png)
 
 注意：当你购买ChatGPT Plus合租服务之后，只需点击银河录像局官网导航中的“车票”，即可找到ChatGPT Plus的使用入口，操作非常简单。同时需要提醒大家，拼车合租ChatGPT Plus账号通常会有一定的使用次数限制，因此更适合ChatGPT Plus的轻度用户。
 
