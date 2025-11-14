@@ -132,7 +132,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 <p align="center"><a href="https://universalbus.cn/?s=ofZoHZpnhr">立即访问环球巴士官网</a></p>
 
-小结：大家通过银河录像局、星际放映厅和环球巴士购买ChatGPT Plus账号的话，平台会直接提供一个已经完成充值订阅的ChatGPT Plus账号，你拿过来就可以直接登录使用。但为了安全起见，我们建议大家及时修改ChatGPT密码，以最大程度保护个人账号安全。更多详情请查看：<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus账号购买</a>。
+小结：大家通过银河录像局、星际放映厅和环球巴士购买ChatGPT Plus账号的话，平台会直接提供一个已经完成充值订阅的ChatGPT Plus账号，你拿过来就可以直接登录使用。但为了安全起见，我们建议大家及时修改ChatGPT密码，以最大程度保护个人账号安全。
 
 ****
 
@@ -144,11 +144,11 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 ### ChatGPT Plus充值平台（一）：<a href="https://nf.video/BTgSc">银河录像局</a>
 
-银河录像局提供两种ChatGPT Plus代充值套餐，分别为“1个月”和“1年”。现在使用银河录像局优惠码“ANYOFAI”之后，**“1个月”套餐价格低至180元，“1年”套餐价格低至166元/月**，整体性价比非常高。
+银河录像局提供两种ChatGPT Plus代充值套餐，分别为“1个月”、“3个月”和“1年”。现在使用银河录像局优惠码“ANYOFAI”之后，**“1个月”套餐价格低至189元，“1年”套餐价格低至174元/月**，整体性价比非常高。
 
 注意：银河录像局是一个非常权威且可靠的平台（这一点我们在前文已经详细介绍过），绝对不存在跑路风险。因此大家可以放心选择其“1年”套餐（性价比最高）。此外，**如果在使用ChatGPT Plus账号的过程中遇到封号问题，银河录像局会免费为你提供一个全新的ChatGPT Plus会员账号，保障用户无后顾之忧**。
 
-![ChatGPT Plus充值方法三：通过银河录像局为你的ChatGPT Plus代充值](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/ChatGPT-Plus%E4%BB%A3%E5%85%85%E5%80%BC-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2.png)
+![ChatGPT Plus充值方法三：通过银河录像局为你的ChatGPT Plus代充值](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E4%BB%A3%E5%85%85%E5%80%BC.png)
 
 **重要提示**：银河录像局提供的ChatGPT Plus代充值服务是**24小时自动化自助充值的方式，用户无需向平台透露自己的ChatGPT账号和密码**，这样可以最大程度保护隐私安全。而且ChatGPT Plus充值的整个流程非常简单，即使是完全没有经验的小白用户，也能在五分钟内完成充值。
 
