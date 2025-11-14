@@ -108,13 +108,13 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 ### 购买ChatGPT Plus账号平台（二）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
-你可以通过星际放映厅购买ChatGPT Plus账号，它们提供“1个月”、“3个月”和“6个月”三种套餐。现在使用星际放映厅优惠码“ANYOFAI”后，每月仅需209元。
+你可以通过星际放映厅购买ChatGPT Plus账号，平台提供“1个月”、“3个月”、“6个月”和“12个月”四种套餐。使用星际放映厅优惠码“ANYOFAI”后，“1个月”套餐折后价为209元/月，“12个月”套餐折后价为186元/月。
 
-![ChatGPT Plus订阅方法二：通过星际放映厅购买ChatGPT Plus账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%B4%AD%E4%B9%B0ChatGPT%20Plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
+![ChatGPT Plus订阅方法二：通过星际放映厅购买ChatGPT Plus账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT-Plus-%E8%B4%AD%E4%B9%B0.png)
 
-你也可以通过星际放映厅**购买ChatGPT Pro原生独立账号**，现在使用优惠码“ANYOFAI”也可以享九折优惠，每月仅需1860元。
+你也可以通过星际放映厅**购买ChatGPT Pro原生独立账号**，现在使用优惠码“ANYOFAI”也可以享九折优惠，每月仅需1767元。
 
-![通过星际放映厅直接购买ChatGPT Pro原生独立账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%B4%AD%E4%B9%B0ChatGPT-Pro%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85.png)
+![通过星际放映厅直接购买ChatGPT Pro原生独立账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT-Pro-%E8%B4%AD%E4%B9%B0.png)
 
 重要提示：**星际放映厅可以提供正规发票，非常适合需要向公司报销的用户**。
 
