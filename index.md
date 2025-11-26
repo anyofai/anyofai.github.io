@@ -6,7 +6,7 @@ description: 本文将详细解答WildCard野卡虚拟信用卡怎么样、WildC
 
 # 2025年最好用的虚拟信用卡推荐：WildCard野卡虚拟信用卡怎么样？WildCard野卡安全靠谱吗？
 
-<p align="center">最近更新于：2025年11月20日</p>
+<p align="center">最近更新于：2025年11月26日</p>
 
 #### 🚨🚨关于“WildCard野卡跑路（被迫停止运营）”的重要说明🚨🚨
 
@@ -463,6 +463,7 @@ WildCard野卡虚拟信用卡的开卡费一旦支付成功，原则上是不可
 * <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立账号？如何代充Midjourney会员？
 * <a href="https://github.com/anyofai/poe">Poe订阅</a>：Poe会员支持GPT-5.1、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等大模型！
 * <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok账号？如何代充SuperGrok会员？
+* <a href="https://github.com/anyofai/gemini-pro">Gemini Pro购买</a>：如何购买Gemini Pro账号？如何合租Gemini Pro会员？如何为Gemini Pro代充值？
 * <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5.1、DeepSeek-R1、Grok-4.1和Gemini-3 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！价格低至14元起！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
@@ -474,4 +475,3 @@ WildCard野卡虚拟信用卡的开卡费一旦支付成功，原则上是不可
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro原生账号！
 * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
 * <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会推荐五个国外付费视频网站、五个国外免费视频网站和十个海外免费电影网站！
-
