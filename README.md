@@ -1,6 +1,6 @@
 # <p align="center">最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？如何购买Codex拼车服务？</p>
 
-<p align="center">最近更新于：2025年11月26日</p>
+<p align="center">最近更新于：2025年11月29日</p>
 
 ![最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？如何购买Codex拼车服务？](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
@@ -23,12 +23,6 @@
 </blockquote>
 
 总体来说，如果你无法解决科学上网的问题，或者使用ChatGPT Plus的频率不高，那么可以选择ChatGPT Plus合租服务；如果你在工作中高度依赖ChatGPT Plus会员，那么就直接购买ChatGPT Plus账号，或者为你现有的ChatGPT账号代充值。如果你是iOS用户，并且喜欢折腾、又不怕失败，也可以尝试通过苹果Apple礼品卡为ChatGPT Plus充值。最后，我们并不建议大家使用国外虚拟信用卡来订阅ChatGPT Plus会员，因为这种方式完全不适合新手小白。
-
-<blockquote>
-
-**小提示**：OpenAI推出的**Codex**被誉为新一代编程助手，它在代码生成、智能审查和自动化测试方面有了全面升级，能够深入融入开发流程，帮助程序员更高效地完成重构、优化与团队协作。对于国内用户而言，如果想要稳定体验这款前沿模型，可以使用<a href="https://nf.video/BTgSc">银河录像局</a>提供的Codex拼车服务，非常方便、安全可靠。**其中Plus版本的价格为59元/月；Pro版本的价格为109元/月，价格很实惠，性价比极高，非常适合个人开发者和团队长期使用。**。
-
-![通过银河录像局购买Codex拼车服务](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Codex.png)
 
 </blockquote>
 
