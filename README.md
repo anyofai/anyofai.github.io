@@ -1,6 +1,6 @@
 # <p align="center">最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？如何购买Codex拼车服务？</p>
 
-<p align="center">最近更新于：2025年12月4日</p>
+<p align="center">最近更新于：2025年12月5日</p>
 
 ![最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？如何购买Codex拼车服务？](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
@@ -172,17 +172,17 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 如果你使用的是iPhone或iPad设备，并且喜欢动手尝试新鲜事物，也可以选择通过苹果Apple礼品卡来为ChatGPT Plus账号充值。需要提醒大家注意的是，国内iOS用户若想使用苹果Apple礼品卡来充值订阅ChatGPT Plus会员的话，就必须先准备一个外区Apple ID账号和一张苹果Apple礼品卡，然后再使用该苹果Apple礼品卡去支付ChatGPT Plus订阅费用。该方式仅适合iPhone和iPad用户，而且操作步骤相对复杂，更适合喜欢折腾的用户尝试。
 
-### 第一步：通过银河录像局购买一个美区Apple ID账号。
+### 第一步：通过银河录像局获取一个美区Apple ID账号。
 
 * 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 
-![使用苹果Apple礼品卡充值ChatGPT Plus账号第一步：通过银河录像局购买一个美区Apple ID账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%8B%B9%E6%9E%9CApple%E7%A4%BC%E5%93%81%E5%8D%A1%E5%85%85%E5%80%BCChatGPT%20Plus%E4%BC%9A%E5%91%98-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80.png)
+![使用苹果Apple礼品卡充值ChatGPT Plus账号第一步：通过银河录像局获取一个美区Apple ID账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%8B%B9%E6%9E%9CApple%E7%A4%BC%E5%93%81%E5%8D%A1%E5%85%85%E5%80%BCChatGPT%20Plus%E4%BC%9A%E5%91%98-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80.png)
 
-### 第二步：通过“账号星球”购买一张美区苹果Apple礼品卡。
+### 第二步：通过“账号星球”获取一张美区苹果Apple礼品卡。
 
 * 账号星球官网：<a href="https://accboyytbanyofai.acceboy.com/">https://accboyytbanyofai.acceboy.com/</a>
 
-![使用苹果Apple礼品卡充值ChatGPT Plus账号第二步：通过账号星球购买一张美区苹果Apple礼品卡](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%8B%B9%E6%9E%9CApple%E7%A4%BC%E5%93%81%E5%8D%A1%E5%85%85%E5%80%BCChatGPT-Plus%E4%BC%9A%E5%91%98-%E8%B4%A6%E5%8F%B7%E6%98%9F%E7%90%83.png)
+![使用苹果Apple礼品卡充值ChatGPT Plus账号第二步：通过账号星球获取一张美区苹果Apple礼品卡](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%8B%B9%E6%9E%9CApple%E7%A4%BC%E5%93%81%E5%8D%A1%E5%85%85%E5%80%BCChatGPT-Plus%E4%BC%9A%E5%91%98-%E8%B4%A6%E5%8F%B7%E6%98%9F%E7%90%83.png)
 
 ### 第三步：将苹果Apple礼品卡余额充值到美区Apple账号中。
 
@@ -198,7 +198,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 <img src="https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%8B%B9%E6%9E%9CApple%E7%A4%BC%E5%93%81%E5%8D%A1%E5%85%85%E5%80%BCChatGPT%20Plus%E4%BC%9A%E5%91%98-4.png" alt="使用苹果Apple礼品卡充值ChatGPT Plus账号第四步：打开ChatGPT客户端并使用Apple账号余额完成订阅">
 </div>
 
-注意：如果你非常喜欢折腾，那么也可以自己动手注册一个美区Apple ID账号，再去苹果官网或支付宝中购买美区苹果Apple礼品卡。但这整个流程操作起来较为复杂，很多新手可能难以完成。因此我们建议新手直接通过“**银河录像局**”购买美区Apple ID账号，再通过“**账号星球**”购买美区苹果Apple礼品卡，这样流程更简洁，即使是技术小白也能轻松操作。
+注意：如果你非常喜欢折腾，那么也可以自己动手注册一个美区Apple ID账号，再去苹果官网或支付宝中购买美区苹果Apple礼品卡。但这整个流程操作起来较为复杂，很多新手可能难以完成。因此我们建议新手直接通过“**银河录像局**”获取一个美区Apple ID账号，再通过“**账号星球**”获取美区苹果Apple礼品卡，这样流程更简洁，即使是技术小白也能轻松操作。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a>或者<a href="https://accboyytbanyofai.acceboy.com/">立即访问账号星球官网</a></p>
 
