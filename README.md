@@ -142,6 +142,8 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 注意：银河录像局是一个非常权威且可靠的平台（这一点我们在前文已经详细介绍过），绝对不存在跑路风险。因此大家可以放心选择其“1年”套餐（性价比最高）。此外，**如果在使用ChatGPT Plus账号的过程中遇到封号问题，银河录像局会免费为你提供一个全新的ChatGPT Plus会员账号，保障用户无后顾之忧**。
 
+![ChatGPT Plus充值方法三：通过银河录像局为你的ChatGPT Plus代充值](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E4%BB%A3%E5%85%85%E5%80%BC-1.png)
+
 ![ChatGPT Plus充值方法三：通过银河录像局为你的ChatGPT Plus代充值](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E4%BB%A3%E5%85%85%E5%80%BC.png)
 
 **重要提示**：银河录像局提供的ChatGPT Plus代充值服务是**24小时自动化自助充值的方式，用户无需向平台透露自己的ChatGPT账号和密码**，这样可以最大程度保护隐私安全。而且ChatGPT Plus充值的整个流程非常简单，即使是完全没有经验的小白用户，也能在五分钟内完成充值。
