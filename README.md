@@ -1,6 +1,6 @@
 # <p align="center">最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？如何购买Codex拼车服务？</p>
 
-<p align="center">最近更新于：2025年12月12日</p>
+<p align="center">最近更新于：2026年1月5日</p>
 
 ![最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus账号和ChatGPT Pro账号？如何购买Codex拼车服务？](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
@@ -292,7 +292,7 @@ ChatGPT Pro的核心优势在于更高的使用额度、更快的响应速度以
 
 需要注意的是，当取消ChatGPT Plus订阅后，你的会员不会立即失效，而是会持续到当前计费周期结束。例如，如果你在本月15日取消订阅，而下一次扣费日期是下个月10日，那么你仍然可以继续使用ChatGPT Plus服务直到下个月10日。而在会员到期后，你的账户会自动降级为免费版，但所有聊天记录和历史数据都会保留，你也可以随时再次订阅ChatGPT Plus会员。
 
-## 2025年国内充值开通ChatGPT Plus会员总结
+## 2026年国内充值开通ChatGPT Plus会员总结
 
 自从2025年7月12日WildCard野卡等国内虚拟卡陆续被迫停止运营之后，中国用户若想订阅ChatGPT Plus会员，已经不再像前几年那样方便了。在这样的背景下，国内用户可以通过以下五种方式来开通ChatGPT Plus会员：
 
@@ -310,7 +310,7 @@ ChatGPT Pro的核心优势在于更高的使用额度、更快的响应速度以
 
 <p align="center"><a href="https://universalbus.cn/?s=ofZoHZpnhr">立即访问环球巴士官网</a></p>
 
-无论你选择哪种方式，最重要的是认准正规平台，避免通过个人卖家或非正规渠道，以免出现账号失效、跑路或隐私泄露的风险。只要方法正确，2025年国内用户依然可以顺利开通ChatGPT Plus会员，畅享最新的GPT-5.2和GPT-4o等模型带来的完整体验。
+无论你选择哪种方式，最重要的是认准正规平台，避免通过个人卖家或非正规渠道，以免出现账号失效、跑路或隐私泄露的风险。只要方法正确，2026年国内用户依然可以顺利开通ChatGPT Plus会员，畅享最新的GPT-5.2和GPT-4o等模型带来的完整体验。
 
 ## 国内充值开通ChatGPT Plus相关的其他文章：
 
@@ -331,6 +331,6 @@ ChatGPT Pro的核心优势在于更高的使用额度、更快的响应速度以
 * <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>：推荐最稳定可靠的ChatGPT Plus代充值平台，价格优惠，信誉有保障。
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro原生账号！
 * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
-* <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会为大家推荐十个2025年国外最受欢迎的视频网站！
+* <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会为大家推荐十个2026年国外最受欢迎的视频网站！
 
 免责声明：本项目内容仅供信息参考，请遵守相关法律法规及各平台使用条款，所有操作与后果由用户自行承担。
