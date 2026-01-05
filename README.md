@@ -102,7 +102,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 ### 购买ChatGPT Plus账号平台（二）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
-你可以通过星际放映厅购买ChatGPT Plus账号，平台提供“1个月”、“3个月”、“6个月”和“12个月”四种套餐。使用星际放映厅优惠码“ANYOFAI”后，“1个月”套餐折后价为209元/月，“12个月”套餐折后价为186元/月。
+你可以通过星际放映厅购买ChatGPT Plus账号，平台提供“1个月”、“3个月”、“6个月”和“12个月”四种套餐。使用星际放映厅优惠码“ANYOFAI”后，“1个月”套餐折后价为209元/月，**“12个月”套餐折后价为186元/月**。
 
 ![ChatGPT Plus订阅方法二：通过星际放映厅购买ChatGPT Plus账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT-Plus-%E8%B4%AD%E4%B9%B0.png)
 
@@ -110,7 +110,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 ![通过星际放映厅直接购买ChatGPT Pro原生独立账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT-Pro-%E8%B4%AD%E4%B9%B0-1.png)
 
-重要提示：**星际放映厅提供的所有服务均包含全程质保，同时支持开具正规发票，对公司采购或需要报销的用户更为友好**。
+重要提示：星际放映厅提供的**所有服务均包含全程质保**，同时**支持开具正规发票**，对公司采购或需要报销的用户更为友好。
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
 
