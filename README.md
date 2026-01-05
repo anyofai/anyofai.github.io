@@ -116,7 +116,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 ### 购买ChatGPT Plus账号平台（三）：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
 
-你还可以通过环球巴士购买ChatGPT Plus账号，不过该平台目前只提供“1个月”套餐。使用环球巴士优惠码“ANYOFAI”后，每月仅需188元。
+你还可以通过环球巴士平台购买ChatGPT Plus账号，不过该平台目前仅提供“1个月”套餐，售价为208.88元。现在使用优惠码“ANYOFAI”可享九折优惠，折后每月仅需188元。
 
 ![ChatGPT Plus升级方法二：通过环球巴士购买ChatGPT Plus账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%B4%AD%E4%B9%B0ChatGPT%20Plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB.png)
 
