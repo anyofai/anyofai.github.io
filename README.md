@@ -108,7 +108,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 你也可以通过星际放映厅**购买ChatGPT Pro原生独立账号**，现在使用优惠码“ANYOFAI”也可以享九折优惠，每月仅需1767元。
 
-![通过星际放映厅直接购买ChatGPT Pro原生独立账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT-Pro-%E8%B4%AD%E4%B9%B0.png)
+![通过星际放映厅直接购买ChatGPT Pro原生独立账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT-Pro-%E8%B4%AD%E4%B9%B0-1.png)
 
 重要提示：**星际放映厅可以提供正规发票，非常适合需要向公司报销的用户**。
 
