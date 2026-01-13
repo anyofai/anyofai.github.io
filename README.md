@@ -120,7 +120,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 在ChatGPT Plus代充值方面，环球巴士提供“1个月”和“3个月”两种套餐。与星际放映厅和银河录像局相比，环球巴士的价格略高一些，但目前使用优惠码“ANYOFAI”的话，所有套餐同样可以享受九折优惠。
 
-![ChatGPT Plus充值方法二：通过环球巴士为你的ChatGPT Plus代充值](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-ChatGPT-Plus-%E4%BB%A3%E5%85%85%E5%80%BC.png)
+![ChatGPT Plus充值方法二：通过环球巴士为你的ChatGPT Plus代充值](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-ChatGPT-Plus-%E4%BB%A3%E5%85%85%E5%80%BC-1.png)
 
 注意：环球巴士的ChatGPT Plus代充值服务支持人工充值和自动充值两种模式。其中，自助充值模式操作简单、速度较快，并配有详细教程，即使是新手用户也可以在几分钟内完成充值；而人工充值模式则需要用户联系在线客服，并向客服提供自己的ChatGPT账号，由客服人员进行人工代充值操作。
 
