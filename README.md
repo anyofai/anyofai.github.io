@@ -92,7 +92,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 除了提供ChatGPT Plus账号购买服务之外，星际放映厅也提供ChatGPT Plus代充值服务。该服务同样支持三个套餐，分别为1个月、3个月和12个月。其中，1个月套餐价格为185元，使用优惠码“ANYOFAI”可享九折优惠，**折后价格为173元/月**；12个月套餐价格为158元/月，使用优惠码“ANYOFAI”同样可享九折优惠，**折后价格为148元/月**。
 
-![ChatGPT Plus充值方法二：通过星际放映厅为你的ChatGPT Plus代充值](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT-Plus-%E4%BB%A3%E5%85%85%E5%80%BC.png)
+![ChatGPT Plus充值方法二：通过星际放映厅为你的ChatGPT Plus代充值](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT-Plus-%E4%BB%A3%E5%85%85%E5%80%BC-1.png)
 
 如果你也是ChatGPT Plus老用户，我们同样建议你直接选择12个月套餐，不仅性价比最高，而且后续无需每个月重复为ChatGPT Plus充值，整体使用体验更加简单省事。此外，**星际放映厅提供全程质保**，即便后续遇到账号异常等情况，也可以免费找在线客服帮你解决，大家可以放心使用。如果你有开具发票的需求，**星际放映厅也支持开具正规发票**。
 
