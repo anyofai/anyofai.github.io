@@ -214,7 +214,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 注意：如果你非常喜欢折腾，那么也可以自己动手注册一个美区Apple ID账号，再去苹果官网或支付宝中购买美区苹果Apple礼品卡。但这整个流程操作起来较为复杂，很多新手可能难以完成。因此我们建议新手直接通过“**银河录像局**”获取一个美区Apple ID账号，再通过“**账号星球**”获取美区苹果Apple礼品卡，这样流程更简洁，即使是技术小白也能轻松操作。
 
-<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a>或者<a href="https://accboyytbanyofai.acceboy.com/">立即访问账号星球官网</a></p>
+<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a>或者<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-itunes-gift-card">立即访问账号星球官网</a></p>
 
 ****
 
