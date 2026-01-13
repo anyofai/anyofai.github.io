@@ -10,13 +10,13 @@
 
 <blockquote>
 
-**方法一、购买ChatGPT Plus独立账号（适合重度用户）**：通过专业的第三方平台直接购买ChatGPT Plus原生独立账号。这种方式不需要你自己注册ChatGPT账号，也不需要折腾国外信用卡等支付渠道，第三方平台会直接提供一个已经完成订阅充值的ChatGPT Plus账号，你拿过来就可以直接使用。这种方式不仅非常简单省事，也没有任何限制，而且价格相对实惠，**每月仅需147元**。更多详情请查看：购买ChatGPT Plus账号。
+**方法一、购买ChatGPT Plus独立账号（适合重度用户）**：通过专业的第三方平台直接购买ChatGPT Plus原生独立账号。这种方式不需要你自己注册ChatGPT账号，也不需要折腾国外信用卡等支付渠道，第三方平台会直接提供一个已经完成订阅充值的ChatGPT Plus账号，你拿过来就可以直接使用。这种方式不仅非常简单省事，也没有任何限制，而且价格相对实惠，**每月仅需147元**。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io#%E6%96%B9%E6%B3%95%E4%B8%80%E8%B4%AD%E4%B9%B0chatgpt-plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">购买ChatGPT Plus账号</a>。
 
-**方法二、为你的ChatGPT Plus代充值（适合重度用户）**：通过专业的第三方平台为你现有的ChatGPT账号代充值。这种方式可以让你继续使用原有的ChatGPT Plus账号，之前所有的使用记录和个人设置都可以完整地保留下来，包括聊天记录以及已创建的GPTs等，非常适合需要经常使用ChatGPT Plus会员的老用户。这种方式不仅更加省心，而且目前价格也非常优惠，**每月仅需148元**。更多详情请查看：ChatGPT Plus代充值。
+**方法二、为你的ChatGPT Plus代充值（适合重度用户）**：通过专业的第三方平台为你现有的ChatGPT账号代充值。这种方式可以让你继续使用原有的ChatGPT Plus账号，之前所有的使用记录和个人设置都可以完整地保留下来，包括聊天记录以及已创建的GPTs等，非常适合需要经常使用ChatGPT Plus会员的老用户。这种方式不仅更加省心，而且目前价格也非常优惠，**每月仅需148元**。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io#%E6%96%B9%E6%B3%95%E4%BA%8C%E4%B8%BA%E4%BD%A0%E7%9A%84chatgpt-plus%E4%BB%A3%E5%85%85%E5%80%BC%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">ChatGPT Plus代充值</a>。
 
-**方法三、拼车合租ChatGPT Plus账号（适合轻度用户）**：通过专业的第三方平台合租ChatGPT Plus会员（即ChatGPT Plus镜像站）。这种方式**无需科学上网**，无需注册ChatGPT账号，也不会有封号的风险，而且价格便宜，**每月仅需27元**，非常适合ChatGPT Plus轻度用户使用。更多详情请查看：ChatGPT Plus合租。
+**方法三、拼车合租ChatGPT Plus账号（适合轻度用户）**：通过专业的第三方平台合租ChatGPT Plus会员（即ChatGPT Plus镜像站）。这种方式**无需科学上网**，无需注册ChatGPT账号，也不会有封号的风险，而且价格便宜，**每月仅需27元**，非常适合ChatGPT Plus轻度用户使用。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io#%E6%96%B9%E6%B3%95%E4%B8%89%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9Fchatgpt-plus%E8%B4%A6%E5%8F%B7%E9%80%82%E5%90%88%E8%BD%BB%E5%BA%A6%E7%94%A8%E6%88%B7">ChatGPT Plus合租</a>。
 
-**方法四、使用苹果Apple礼品卡充值（仅限iOS用户）**：国内的iOS用户如果想通过苹果Apple礼品卡来充值订阅ChatGPT Plus会员的话，就需要先准备一个外区（美区/日区/韩区/台区/土区）Apple ID账号，并购买一张苹果Apple礼品卡，然后再使用这张礼品卡去支付ChatGPT Plus订阅费用。这种方式仅适合iPhone和iPad用户，而且整个操作流程比较复杂，比较适合喜欢折腾的同学。更多详情请查看：礼品卡充值ChatGPT。
+**方法四、使用苹果Apple礼品卡充值（仅限iOS用户）**：国内的iOS用户如果想通过苹果Apple礼品卡来充值订阅ChatGPT Plus会员的话，就需要先准备一个外区（美区/日区/韩区/台区/土区）Apple ID账号，并购买一张苹果Apple礼品卡，然后再使用这张礼品卡去支付ChatGPT Plus订阅费用。这种方式仅适合iPhone和iPad用户，而且整个操作流程比较复杂，比较适合喜欢折腾的同学。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io#%E6%96%B9%E6%B3%95%E5%9B%9B%E4%BD%BF%E7%94%A8%E8%8B%B9%E6%9E%9Capple%E7%A4%BC%E5%93%81%E5%8D%A1%E5%85%85%E5%80%BC%E4%BB%85%E9%99%90ios%E7%94%A8%E6%88%B7">礼品卡充值ChatGPT</a>。
 
 **方法五、使用国外的虚拟信用卡订阅（技术小白慎选）**：由于国内绝大多数的虚拟信用卡都被卡脖子了，目前只剩下少部分国外虚拟信用卡还可以尝试了。不过这类虚拟信用卡通常需要验证身份证和人脸，而且只支持使用USDT充值（这玩意儿的门槛较高），整个操作流程非常复杂，因此**我们并不推荐普通用户尝试**。
 
@@ -308,11 +308,11 @@ ChatGPT Pro的核心优势在于更高的使用额度、更快的响应速度以
 
 自从2025年7月12日WildCard野卡等国内虚拟卡陆续被迫停止运营之后，中国用户若想订阅ChatGPT Plus会员，已经不再像前几年那样方便了。在这样的背景下，国内用户可以通过以下五种方式来开通ChatGPT Plus会员：
 
-* 方法一、购买ChatGPT Plus独立账号（适合重度用户）
-* 方法二、为你的ChatGPT Plus代充值（适合重度用户）
-* 方法三、拼车合租ChatGPT Plus账号（适合轻度用户）
-* 方法四、使用苹果Apple礼品卡充值（仅限于iOS用户）
-* 方法五、使用国外的虚拟信用卡订阅（技术小白慎选）
+* 方法一、<a href="https://github.com/anyofai/anyofai.github.io#%E6%96%B9%E6%B3%95%E4%B8%80%E8%B4%AD%E4%B9%B0chatgpt-plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">购买ChatGPT Plus独立账号</a>（适合重度用户）
+* 方法二、<a href="https://github.com/anyofai/anyofai.github.io#%E6%96%B9%E6%B3%95%E4%BA%8C%E4%B8%BA%E4%BD%A0%E7%9A%84chatgpt-plus%E4%BB%A3%E5%85%85%E5%80%BC%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">为你的ChatGPT Plus代充值</a>（适合重度用户）
+* 方法三、<a href="https://github.com/anyofai/anyofai.github.io#%E6%96%B9%E6%B3%95%E4%B8%89%E6%8B%BC%E8%BD%A6%E5%90%88%E7%A7%9Fchatgpt-plus%E8%B4%A6%E5%8F%B7%E9%80%82%E5%90%88%E8%BD%BB%E5%BA%A6%E7%94%A8%E6%88%B7">拼车合租ChatGPT Plus账号</a>（适合轻度用户）
+* 方法四、<a href="https://github.com/anyofai/anyofai.github.io#%E6%96%B9%E6%B3%95%E5%9B%9B%E4%BD%BF%E7%94%A8%E8%8B%B9%E6%9E%9Capple%E7%A4%BC%E5%93%81%E5%8D%A1%E5%85%85%E5%80%BC%E4%BB%85%E9%99%90ios%E7%94%A8%E6%88%B7">使用苹果Apple礼品卡充值</a>（仅限于iOS用户）
+* 方法五、<a href="https://github.com/anyofai/anyofai.github.io#%E6%96%B9%E6%B3%95%E4%BA%94%E4%BD%BF%E7%94%A8%E5%9B%BD%E5%A4%96%E7%9A%84%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%AE%A2%E9%98%85%E6%8A%80%E6%9C%AF%E5%B0%8F%E7%99%BD%E6%85%8E%E9%80%89">使用国外的虚拟信用卡订阅</a>（技术小白慎选）
 
 在这几种方式当中，我们最推荐的是通过星际放映厅、银河录像局和环球巴士等专业平台来合租ChatGPT Plus账号、购买ChatGPT Plus独立账号或为你的ChatGPT Plus代充值。这三个平台合法合规、运营稳定，并支持支付宝付款，省去了繁琐的注册和支付流程。对于轻度用户来说，可以选择价格便宜的ChatGPT Plus合租服务；对于重度用户，购买ChatGPT Plus独立账号或选择ChatGPT Plus代充值则更加省心。
 
