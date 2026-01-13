@@ -56,7 +56,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 跟星际放映厅一样，银河录像局的业务规模在行业内也名列前茅。截至目前，银河录像局累计完成交易超过1000万笔，服务用户突破100万人，用户分布于全球100多个国家和地区。银河录像局不仅提供Netflix、YouTube、Disney、Spotify、HBO Max、Prime Video、TV伴侣等流媒体合租服务，同时也提供ChatGPT、Claude、Midjourney、SuperGrok等AI工具的合租、账号购买与代充值服务。在支付方式方面，银河录像局支持支付宝付款，对国内用户来说十分方便。
 
-在ChatGPT Plus账号购买方面，银河录像局同样提供三种套餐，分别为月付、季付和年付。其中，月付套餐价格为180元/月，使用优惠码可享九折优惠，**折后每月仅需171元**；年付套餐价格为166元/月，使用优惠码同样可享九折优惠，**折后每月仅需158元**。
+在ChatGPT Plus账号购买方面，银河录像局同样提供三种套餐，分别为月付、季付和年付。其中，月付套餐价格为180元/月，使用优惠码“ANYOFAI”可享九折优惠，**折后每月仅需171元**；年付套餐价格为166元/月，使用优惠码同样可享九折优惠，**折后每月仅需158元**。
 
 ![ChatGPT Plus开通方法一：通过银河录像局购买ChatGPT Plus账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E8%B4%AD%E4%B9%B0.png)
 
