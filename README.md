@@ -174,7 +174,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 另外，虽然ChatGPT账号本身可以免费注册，且注册流程也并不复杂，但如果你不想自己动手<a href="https://github.com/anyofai/chatgpt">注册ChatGPT账号</a>的话，也可以通过环球巴士直接购买一个现成的ChatGPT基础账号。
 
-![ChatGPT Plus升级方法三：通过环球巴士购买ChatGPT基础账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-3.png)
+![ChatGPT Plus升级方法三：通过环球巴士购买ChatGPT基础账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/ChatGPT-Plus%E5%90%88%E7%A7%9F-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-3-1.png)
 
 <p align="center"><a href="https://universalbus.cn/?s=ofZoHZpnhr">立即访问环球巴士官网</a></p>
 
