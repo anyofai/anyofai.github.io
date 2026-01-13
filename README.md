@@ -194,7 +194,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内充值
 
 ### 第二步：通过“账号星球”获取一张美区苹果Apple礼品卡。
 
-* 账号星球官网：<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-itunes-gift-card">https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-itunes-gift-card</a>
+* 账号星球官网：<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-itunes-gift-card">https://accboyytbanyofai.acceboy.com/</a>
 
 ![使用苹果Apple礼品卡充值ChatGPT Plus账号第二步：通过账号星球获取一张美区苹果Apple礼品卡](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E8%8B%B9%E6%9E%9CApple%E7%A4%BC%E5%93%81%E5%8D%A1%E5%85%85%E5%80%BCChatGPT-Plus%E4%BC%9A%E5%91%98-%E8%B4%A6%E5%8F%B7%E6%98%9F%E7%90%83.png)
 
