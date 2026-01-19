@@ -1,4 +1,4 @@
-# <p align="center">2026年最新ChatGPT充值订阅教程，包括ChatGPT Plus购买、ChatGPT合租和ChatGPT代充值！</p>
+# <p align="center">2026最新ChatGPT充值订阅教程，包括ChatGPT Plus购买、ChatGPT合租和ChatGPT代充值！</p>
 
 <p align="center">最近更新于：2026年1月19日</p>
 
