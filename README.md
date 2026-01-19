@@ -126,7 +126,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内开通
 
 <p align="center"><a href="https://universalbus.cn/?s=ofZoHZpnhr">立即访问环球巴士官网</a></p>
 
-小结：星际放映厅、银河录像局和环球巴士这三个ChatGPT Plus代充值平台整体都较为安全可靠，主要区别在于它们所提供的充值方式和价格存在一定差异。大家可以根据自身的实际需求，选择最适合的平台和套餐完成ChatGPT Plus充值。更多详情请查看：<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>。
+小结：星际放映厅、银河录像局和环球巴士这三个ChatGPT Plus代充值平台整体都较为安全可靠，主要区别在于它们所提供的充值方式和价格存在一定差异。大家可以根据自身的实际需求，选择最适合的平台和套餐完成ChatGPT Plus充值。更多详情请查看：<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT代充</a>。
 
 ****
 
@@ -178,7 +178,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内开通
 
 <p align="center"><a href="https://universalbus.cn/?s=ofZoHZpnhr">立即访问环球巴士官网</a></p>
 
-小结：星际放映厅、银河录像局和环球巴士都是较为专业的ChatGPT Plus合租平台，用户可以放心购买和使用。如果你想了解更多关于拼车合租ChatGPT Plus会员的详细信息，可以查看：<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租教程</a>。
+小结：星际放映厅、银河录像局和环球巴士都是较为专业的ChatGPT Plus合租平台，用户可以放心购买和使用。如果你想了解更多关于拼车合租ChatGPT Plus会员的详细信息，可以查看：<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT合租</a>。
 
 ****
 
