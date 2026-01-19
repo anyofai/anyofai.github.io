@@ -1,4 +1,4 @@
-<img width="213" height="24" alt="image" src="https://github.com/user-attachments/assets/5b5ec37c-ca0a-4825-ab2b-95867a473e35" /><img width="213" height="24" alt="image" src="https://github.com/user-attachments/assets/ed94cccc-8bb5-4e15-bf06-1f12f965b16b" /><img width="213" height="24" alt="image" src="https://github.com/user-attachments/assets/d240f67b-bb6e-48ab-acd1-77cb0424b086" /># <p align="center">2026年最新ChatGPT充值订阅教程，包括ChatGPT Plus购买、ChatGPT合租和ChatGPT代充值！</p>
+# <p align="center">2026年最新ChatGPT充值订阅教程，包括ChatGPT Plus购买、ChatGPT合租和ChatGPT代充值！</p>
 
 <p align="center">最近更新于：2026年1月19日</p>
 
