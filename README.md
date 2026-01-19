@@ -10,9 +10,7 @@
 
 <blockquote>
 
-**方法一、购买ChatGPT Plus独立账号（适合重度用户）**：通过专业的第三方平台直接购买ChatGPT Plus原生独立账号。这种方式不需要你自己注册ChatGPT账号，也不需要折腾国外信用卡等支付渠道，第三方平台会直接提供一个已经完成订阅充值的ChatGPT Plus账号，你拿过来就可以直接使用。这种方式不仅非常简单省事，也不会有任何限制，而且价格相对实惠，**每月仅需147元**。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io#%E6%96%B9%E6%B3%95%E4%B8%80%E8%B4%AD%E4%B9%B0chatgpt-plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">购买ChatGPT Plus账号</a>。
-
-：[购买ChatGPT Plus账号](#方法一购买chatgpt-plus独立账号适合重度用户)
+**方法一、购买ChatGPT Plus独立账号（适合重度用户）**：通过专业的第三方平台直接购买ChatGPT Plus原生独立账号。这种方式不需要你自己注册ChatGPT账号，也不需要折腾国外信用卡等支付渠道，第三方平台会直接提供一个已经完成订阅充值的ChatGPT Plus账号，你拿过来就可以直接使用。这种方式不仅非常简单省事，也不会有任何限制，而且价格相对实惠，**每月仅需147元**。更多详情请查看：[购买ChatGPT Plus账号](#%E6%96%B9%E6%B3%95%E4%B8%80%E8%B4%AD%E4%B9%B0chatgpt-plus%E7%8B%AC%E7%AB%8B%E8%B4%A6%E5%8F%B7%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7)
 
 **方法二、为你现有的ChatGPT代充值（适合重度用户）**：通过专业的第三方平台为你现有的ChatGPT账号代充值。这种方式可以让你继续使用原有的ChatGPT Plus账号，之前所有的使用记录和个人设置都可以完整地保留下来，包括聊天记录以及已创建的GPTs等，非常适合需要经常使用ChatGPT Plus会员的老用户。这种方式不仅更加省心，而且目前价格也非常优惠，**每月仅需148元**。更多详情请查看：<a href="https://github.com/anyofai/anyofai.github.io#%E6%96%B9%E6%B3%95%E4%BA%8C%E4%B8%BA%E4%BD%A0%E7%8E%B0%E6%9C%89%E7%9A%84chatgpt%E4%BB%A3%E5%85%85%E5%80%BC%E9%80%82%E5%90%88%E9%87%8D%E5%BA%A6%E7%94%A8%E6%88%B7">ChatGPT Plus代充值</a>。
 
