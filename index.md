@@ -48,16 +48,16 @@ WildCard野卡的虚拟信用卡开卡流程较为简单，支持支付宝和微
 
 星际放映厅提供的服务较为齐全，覆盖了多种海外热门流媒体以及主流AI工具，主要包括：
 
-* **ChatGPT相关服务**：ChatGPT基础账号、ChatGPT Plus合租、ChatGPT Plus独立账号、ChatGPT代充值、ChatGPT API服务。
-* **Claude相关服务**：Claude Pro原生独立账号、Claude Pro代充值。
-* **Gemini相关服务**：Gemini Pro原生独立账号、Gemini Pro代充值、Gemini API服务。
-* **SuperGrok相关服务**：SuperGrok合租、SuperGrok原生独立账号、SuperGrok代充值。
-* **Poe相关服务**：Poe原生独立账号。
-* **Midjourney相关服务**：Midjourney原生独立账号、Midjourney代充值。
-* **海外流媒体合租服务**：Netflix、HBO Max、Disney+、YouTube、Prime Video、Spotify。
-* **其他增值服务**：如美区Apple ID、谷歌账号等。
+* ChatGPT相关服务：ChatGPT基础账号、ChatGPT Plus合租、ChatGPT Plus独立账号、ChatGPT代充值、ChatGPT API服务。
+* Claude相关服务：Claude Pro原生独立账号、Claude Pro代充值。
+* Gemini相关服务：Gemini Pro原生独立账号、Gemini Pro代充值、Gemini API服务。
+* SuperGrok相关服务**：SuperGrok合租、SuperGrok原生独立账号、SuperGrok代充值。
+* Poe相关服务：Poe原生独立账号。
+* Midjourney相关服务：Midjourney原生独立账号、Midjourney代充值。
+* 海外流媒体合租服务：Netflix、HBO Max、Disney+、YouTube、Prime Video、Spotify。
+* 其他相关增值服务：如美区Apple ID、谷歌账号等。
 
-重要提示：星际放映厅提供的所有服务均支持全程质保，并配备全年无休的真人在线客服，同时支持开正规发票。
+重要提示：星际放映厅提供的所有服务均**支持全程质保**，并配备全年无休的真人在线客服，同时**支持开正规发票**。
 
 一、ChatGPT相关服务：ChatGPT基础账号（47元/个）、ChatGPT Plus合租（52元/月）、ChatGPT Plus原生独立账号（147元/月）、ChatGPT Plus代充值（148元/月）、ChatGPT API服务（112元/月）。
 
@@ -190,6 +190,7 @@ WildCard野卡的虚拟信用卡开卡流程较为简单，支持支付宝和微
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro原生账号！
 * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
 * <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会为大家推荐十个2026年国外最受欢迎的视频网站！
+
 
 
 
