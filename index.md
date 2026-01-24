@@ -123,31 +123,31 @@ WildCard野卡的虚拟信用卡开卡流程较为简单，支持支付宝和微
 * 海外流媒体合租服务：Netflix、Disney+、Spotify 、HBO Max、Prime Video、YouTube。
 * 其他增值服务：如苹果Apple ID、Google账号等。
 
-一、**ChatGPT相关服务**：ChatGPT基础账号（10元/个）、ChatGPT Plus镜像服务（27元/月）、ChatGPT Plus合租（80元/月）、ChatGPT Plus原生独立账号（158元/月）、ChatGPT Plus代充值（174元/月）。
+**一、ChatGPT相关服务：ChatGPT基础账号（10元/个）、ChatGPT Plus镜像服务（27元/月）、ChatGPT Plus合租（80元/月）、ChatGPT Plus原生独立账号（158元/月）、ChatGPT Plus代充值（174元/月）。**
 
 ![WildCard跑路了！野卡跑路后替代平台推荐：银河录像局](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E8%B4%AD%E4%B9%B0.png)
 
-二、**Claude相关服务**：Claude Pro镜像服务（130元/月）、Claude Code镜像服务（299元/月）。
+**二、Claude相关服务：Claude Pro镜像服务（130元/月）、Claude Code镜像服务（299元/月）。**
 
 ![WildCard跑路了！野卡跑路后替代平台推荐：银河录像局](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Pro-%E5%90%88%E7%A7%9F-1.png)
 
-三、**Gemini相关服务**：Gemini Pro镜像服务（49元/月）、Gemini Pro原生独立账号（199元/6个月）。
+**三、Gemini相关服务：Gemini Pro镜像服务（49元/月）、Gemini Pro原生独立账号（199元/6个月）。**
 
 ![WildCard跑路了！野卡跑路后替代平台推荐：银河录像局](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2-2.png)
 
-四、**SuperGrok相关服务**：SuperGrok原生独立账号（199元/月）。
+**四、SuperGrok相关服务：SuperGrok原生独立账号（199元/月）。**
 
 ![WildCard跑路了！野卡跑路后替代平台推荐：银河录像局](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-SuperGrok%E5%90%88%E7%A7%9F-1-1.png)
 
-五、**Midjourney相关服务**：Midjourney镜像服务（27元/月）、Midjourney合租（69元/月）、Midjourney原生独立账号（249元/月）。
+**五、Midjourney相关服务：Midjourney镜像服务（27元/月）、Midjourney合租（69元/月）、Midjourney原生独立账号（249元/月）。**
 
 ![WildCard跑路了！野卡跑路后替代平台推荐：银河录像局](https://raw.githubusercontent.com/anyofai/midjourney-hezu/refs/heads/main/image/Midjourney-hezu-5-1.png)
 
-六、**海外流媒体合租服务**：Netflix、Disney+、Spotify 、HBO Max、Prime Video、YouTube。
+**六、海外流媒体合租服务：Netflix、Disney+、Spotify 、HBO Max、Prime Video、YouTube。**
 
 ![WildCard跑路了！野卡跑路后替代平台推荐：银河录像局](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0-6-1.png)
 
-七、**其他增值服务**：如苹果Apple ID、Google账号等。
+**七、其他增值服务：如苹果Apple ID、Google账号等。**
 
 ![WildCard跑路了！野卡跑路后替代平台推荐：银河录像局](https://github.com/anyofai/nf-video/blob/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0-9-1.png)
 
@@ -190,6 +190,7 @@ WildCard野卡的虚拟信用卡开卡流程较为简单，支持支付宝和微
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro原生账号！
 * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
 * <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会为大家推荐十个2026年国外最受欢迎的视频网站！
+
 
 
 
