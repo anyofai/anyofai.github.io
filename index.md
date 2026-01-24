@@ -65,31 +65,31 @@ WildCard野卡的虚拟信用卡开卡流程较为简单，支持支付宝和微
 
 ![WildCard跑路了！野卡跑路后替代平台推荐：星际放映厅](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-ChatGPT-Plus-%E8%B4%AD%E4%B9%B0-1-1.png)
 
-如果你想了解更多详细信息，请查看：ChatGPT账号购买、ChatGPT Plus购买、ChatGPT Plus账号共享、ChatGPT Plus代充。
+如果你想了解更多详细信息，请查看：<a href="https://github.com/anyofai/chatgpt">ChatGPT账号购买</a>、<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>、<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus账号共享</a>、<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充</a>。
 
 二、Claude相关服务：Claude Pro原生独立账号（195元/月）、Claude Pro代充值（216元/月）。
 
 ![WildCard跑路了！野卡跑路后替代平台推荐：星际放映厅](https://raw.githubusercontent.com/anyofai/claude-pro/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro-%E4%BB%A3%E5%85%85%E5%80%BC-3-1.png)
 
-如果你想了解更多详细信息，请查看：Claude账号购买、Claude Pro代充。
+如果你想了解更多详细信息，请查看：<a href="https://github.com/anyofai/claude-pro">Claude账号购买</a>、<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充</a>。
 
 三、Gemini相关服务：Gemini Pro原生独立账号（148元/月）、Gemini Pro代充值（148元/月）、Gemini API服务（50美金额度/394元）。
 
 ![WildCard跑路了！野卡跑路后替代平台推荐：星际放映厅](https://raw.githubusercontent.com/anyofai/gemini-pro/refs/heads/main/image/Gemini-Pro%E4%BB%A3%E5%85%85%E5%80%BC-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-7-1.png)
 
-如果你想了解更多详细信息，请查看：Gemini Pro购买、Gemini Pro代充值。
+如果你想了解更多详细信息，请查看：<a href="https://github.com/anyofai/gemini-pro">Gemini Pro购买</a>、<a href="https://github.com/anyofai/gemini-pro">Gemini Pro代充值</a>。
 
 四、SuperGrok相关服务：SuperGrok合租（65元/月）、SuperGrok原生独立账号（205元/月）、SuperGrok代充值（201元/月）。
 
 ![WildCard跑路了！野卡跑路后替代平台推荐：星际放映厅](https://raw.githubusercontent.com/anyofai/x-twitter/refs/heads/main/image/SuperGrok%E4%BB%A3%E5%85%85-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-3-1.png)
 
-如果你想了解更多详细信息，请查看：SuperGrok订阅。
+如果你想了解更多详细信息，请查看：<a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>。
 
 五、Poe相关服务：Poe原生独立账号（227元/月）。
 
 ![WildCard跑路了！野卡跑路后替代平台推荐：星际放映厅](https://raw.githubusercontent.com/anyofai/poe/refs/heads/main/image/Poe%E8%AE%A2%E9%98%85-3.png)
 
-如果你想了解更多详细信息，请查看：Poe订阅。
+如果你想了解更多详细信息，请查看：<a href="https://github.com/anyofai/poe">Poe订阅</a>。
 
 六、Midjourney相关服务：Midjourney原生独立账号、Midjourney代充值。
 
@@ -190,6 +190,7 @@ WildCard野卡的虚拟信用卡开卡流程较为简单，支持支付宝和微
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro原生账号！
 * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
 * <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会为大家推荐十个2026年国外最受欢迎的视频网站！
+
 
 
 
