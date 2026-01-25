@@ -1,6 +1,6 @@
 # <p align="center">2026年最新ChatGPT充值订阅教程：ChatGPT Plus购买、ChatGPT合租、ChatGPT代充值！</p>
 
-<p align="center">最近更新于：2026年1月24日</p>
+<p align="center">最近更新于：2026年1月25日</p>
 
 ![2026年最新ChatGPT充值订阅教程：ChatGPT Plus购买、ChatGPT合租、ChatGPT代充值！](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
