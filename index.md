@@ -149,7 +149,7 @@ WildCard野卡的虚拟信用卡开卡流程较为简单，支持支付宝和微
 
 **七、其他增值服务：如苹果Apple ID、Google账号等。**
 
-![WildCard跑路了！野卡跑路后替代平台推荐：银河录像局](https://github.com/anyofai/nf-video/blob/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0-9-1.png)
+![WildCard跑路了！野卡跑路后替代平台推荐：银河录像局](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0-9-1.png)
 
 最后想提醒大家的是，银河录像局同样是一个安全、可靠的平台，并且提供全年无休的真人在线客服，其所有服务也都支持质保，大家可以放心使用。
 
@@ -190,6 +190,7 @@ WildCard野卡的虚拟信用卡开卡流程较为简单，支持支付宝和微
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充</a>：最靠谱的Claude Pro代充值平台推荐！提供全程质保，支持开具发票！
 * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
 * <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会为大家推荐十个2026年国外最受欢迎的视频网站！
+
 
 
 
