@@ -138,7 +138,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内开通
 
 ### ChatGPT Plus合租平台（一）：<a href="https://nf.video/BTgSc">银河录像局</a>
 
-银河录像局提供的“银河AI”服务（即ChatGPT Plus镜像服务），**无需科学上网，也无需注册ChatGPT账号，同时不存在封号风险**。目前使用银河录像局优惠码“ANYOFAI”还可享受九折优惠，**合租ChatGPT Plus的价格低至26元/月**，并支持使用GPT-5.2、GPT-4o、DeepSeek-R1、Grok-4.1、Gemini-3 Pro等主流AI大模型。
+银河录像局提供的“银河AI”服务（即ChatGPT Plus镜像服务），**无需科学上网，也无需注册ChatGPT账号，同时不存在封号风险**。目前使用银河录像局优惠码“ANYOFAI”还可享受九折优惠，**合租ChatGPT Plus的价格低至26元/月**，并支持使用GPT-5.2、GPT-4o、DeepSeek-R1、Grok-4.1、Gemini-3.1 Pro等主流AI大模型。
 
 ![ChatGPT订阅方法三：通过银河录像局合租ChatGPT Plus账号](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-ChatGPT-Plus-%E9%95%9C%E5%83%8F%E7%89%88.png)
 
@@ -329,10 +329,10 @@ ChatGPT Pro的核心优势在于更高的使用额度、更快的响应速度以
 * <a href="https://github.com/anyofai/claude-pro">Claude注册</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？含Claude Code国内使用教程！
 * <a href="https://github.com/anyofai/gemini-pro">Gemini学生优惠</a>：如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？如何为Gemini Pro代充值？
 * <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何购买SuperGrok独立账号？如何合租SuperGrok账号？如何为SuperGrok代充？
-* <a href="https://github.com/anyofai/poe">Poe账号购买</a>：Poe会员支持GPT-5.2、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等大模型！
+* <a href="https://github.com/anyofai/poe">Poe账号购买</a>：Poe会员支持GPT-5.2、Claude 4.5 Sonnet、Grok-4.1、Gemini-3.1 Pro等大模型！
 * <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立账号？如何为Midjourney代充值？
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT合租</a>：支持ChatGPT-5.2、DeepSeek-R1、Grok-4.1和Gemini-3 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT合租</a>：支持ChatGPT-5.2、DeepSeek-R1、Grok-4.1和Gemini-3.1 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Code拼车</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！价格低至14元起！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保，价格低至8元起！
 * <a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需21元！
