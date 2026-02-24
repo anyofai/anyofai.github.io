@@ -6,7 +6,7 @@ description: WildCard跑路了！野卡跑路后替代平台推荐！本文将�
 
 # WildCard跑路了！野卡跑路后替代平台推荐！
 
-<p align="center">最近更新于：2026年2月11日</p>
+<p align="center">最近更新于：2026年2月24日</p>
 
 现如今，网上依然有大量关于“WildCard野卡跑路了吗”的讨论。对大多数用户来说，真正关心的其实并不是八卦新闻，而是一些非常现实的问题，比如之前充值到WildCard野卡里的钱是不是打水漂了、以后还能不能继续使用WildCard野卡订阅ChatGPT Plus、Claude Pro、Gemini Pro、SuperGrok等服务。本文将对WildCard野卡相关问题进行一次系统性的梳理，包括WildCard野卡是哪个国家的、WildCard野卡官网是哪个、WildCard野卡靠谱吗、WildCard野卡跑路了吗等。最后，**我们也会给大家推荐几个WildCard野卡跑路后的替代平台，用于帮助国内用户继续订阅ChatGPT Plus、Claude Pro、Gemini Pro、SuperGrok、Midjourney、Poe等主流海外AI服务会员**。
 
@@ -59,7 +59,7 @@ WildCard野卡的虚拟信用卡开卡流程较为简单，支持支付宝和微
 
 重要提示：星际放映厅提供的所有服务均**支持全程质保**，并配备全年无休的真人在线客服，同时**支持开正规发票**。
 
-**一、ChatGPT相关服务：ChatGPT基础账号（47元/个）、ChatGPT Plus合租（52元/月）、ChatGPT Plus原生独立账号（147元/月）、ChatGPT Plus代充值（148元/月）、ChatGPT API服务（112元/月）。**
+**一、ChatGPT相关服务：ChatGPT基础账号（47元/个）、ChatGPT Plus合租（52元/月）、ChatGPT Plus原生独立账号（117元/月）、ChatGPT Plus代充值（121元/月）、ChatGPT API服务（112元/月）。**
 
 小提示：星际放映厅提供的ChatGPT Plus代充值服务，**无需用户提供ChatGPT账号密码**。
 
@@ -203,19 +203,20 @@ WildCard野卡虚拟信用卡业务被迫停止运营，不仅是一个支付工
 * <a href="https://github.com/anyofai/claude-pro">Claude注册</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？含Claude Code国内使用教程！
 * <a href="https://github.com/anyofai/gemini-pro">Gemini学生优惠</a>：如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？如何为Gemini Pro代充值？
 * <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何购买SuperGrok独立账号？如何合租SuperGrok账号？如何为SuperGrok代充？
-* <a href="https://github.com/anyofai/poe">Poe账号购买</a>：Poe会员支持GPT-5.2、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等大模型！
+* <a href="https://github.com/anyofai/poe">Poe账号购买</a>：Poe会员支持GPT-5.2、Claude 4.5 Sonnet、Grok-4.1、Gemini-3.1 Pro等大模型！
 * <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立账号？如何为Midjourney代充值？
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT合租</a>：支持ChatGPT-5.2、DeepSeek-R1、Grok-4.1和Gemini-3 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT合租</a>：支持ChatGPT-5.2、DeepSeek-R1、Grok-4.1和Gemini-3.1 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Code拼车</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！价格低至14元起！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保，价格低至8元起！
 * <a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需21元！
 * <a href="https://github.com/anyofai/spotify-hezu">Spotify合租</a>：官方渠道采购，品质有保障！可享Spotify Premium所有权益！每月仅需12元！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 * <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：最新ChatGPT注册教程：如何注册ChatGPT账号？如何购买ChatGPT账号？
-* <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT代充</a>：最可靠的ChatGPT Plus代充值平台推荐，148元/月，提供全程质保，支持开具正规发票！
+* <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT代充</a>：最可靠的ChatGPT Plus代充值平台推荐，121元/月，提供全程质保，支持开具正规发票！
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充</a>：最靠谱的Claude Pro代充值平台推荐！提供全程质保，支持开具发票！
 * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
 * <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会为大家推荐十个2026年国外最受欢迎的视频网站！
+
 
 
 
