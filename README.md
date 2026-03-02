@@ -1,6 +1,6 @@
 # <p align="center">2026年最新ChatGPT充值订阅教程：ChatGPT Plus购买、ChatGPT合租、ChatGPT代充值！</p>
 
-<p align="center">最近更新于：2026年2月26日</p>
+<p align="center">最近更新于：2026年3月2日</p>
 
 ![2026年最新ChatGPT充值订阅教程：ChatGPT Plus购买、ChatGPT合租、ChatGPT代充值！](https://raw.githubusercontent.com/anyofai/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B.png)
 
@@ -94,7 +94,9 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内开通
 
 ![ChatGPT充值方法二：通过星际放映厅为你的ChatGPT Plus代充值](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/ChatGPT%20Plus%E4%BB%A3%E5%85%85%E5%80%BC-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-1.png)
 
-**重要提示**：无论你最终选择的是哪个套餐，星际放映厅均提供**全程质保（即全程包售后）**。也就是说，后续无论你遇到什么问题，都可以随时联系在线客服免费解决，大家可以放心使用。另外，如果你有开具发票的需求，星际放映厅同样支持**开具正规发票**。此外，星际放映厅的ChatGPT Plus代充值服务通过授权Token（会话令牌）完成相关操作，**用户无需向平台提供自己的ChatGPT账号和密码**，整体更加安全可靠。
+**重要提示**：无论你最终选择的是哪个套餐，星际放映厅均提供**全程质保（即全程包售后）**。也就是说，后续无论你遇到什么问题，都可以随时联系在线客服免费解决，大家可以放心使用。另外，如果你有开具发票的需求，星际放映厅同样支持**开具正规发票**。
+
+此外，星际放映厅采用24小时自助充值模式（只需几秒钟即可完成ChatGPT Plus充值），**用户无需向平台提供自己的ChatGPT账号和密码**，整体更加安全可靠。
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
 
