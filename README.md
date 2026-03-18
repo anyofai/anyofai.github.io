@@ -32,7 +32,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内开通
 
 如果你需要经常使用ChatGPT Plus会员，并且不想亲自处理ChatGPT账号注册和ChatGPT Plus充值订阅等一系列流程的话，那么可以选择通过星际放映厅、银河录像局和账号星球等专业第三方平台直接购买一个ChatGPT Plus原生独立账号。也就是说，你只需使用支付宝支付一定的费用，平台就会直接为你提供一个已经完成订阅充值的ChatGPT Plus账号，你拿到账号之后即可直接登录使用，没有任何限制，非常适合急需使用ChatGPT Plus的重度用户。
 
-### ChatGPT Plus购买平台（一）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
+### ChatGPT Plus购买平台（一）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅(117元/月起)</a>
 
 星际放映厅成立于2023年，是一家专注于流媒体账号和AI工具账号的综合性服务平台。该平台已在浙江省完成备案（浙ICP备2023017856号），安全性非常有保障。星际放映厅的运营时间虽然不算太长，但凭借团队的专业运营能力和完善的售后保障体系，在竞争激烈的市场中快速积累了大量忠实用户，在业内也拥有良好的口碑。星际放映厅目前提供Netflix、Spotify、Disney+、YouTube、Prime Video等主流流媒体合租服务，同时也提供ChatGPT Plus、Claude Pro、Gemini Pro、Midjourney、Poe、SuperGrok等AI工具相关服务。
 
@@ -86,7 +86,7 @@ OK，接下来就进入今天的正题，我们将详细介绍目前国内开通
 
 如果你是ChatGPT的老用户，也可以通过星际放映厅、银河录像局和环球巴士这三个专业平台，为你现有的ChatGPT账号代充值。这样不仅可以继续使用你原来的账号，还能完整保留所有数据，包括聊天记录、个性化设置以及已创建的GPTs等，不会受到任何影响。
 
-### ChatGPT充值平台（一）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
+### ChatGPT充值平台（一）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅(112元/月起)</a>
 
 注意：星际放映厅的背景情况我们在前文已经详细介绍过了，因此这里不再重复介绍其安全性和售后服务等内容，有需要的同学可以前往前文“**ChatGPT Plus购买**”部分查看。
 
